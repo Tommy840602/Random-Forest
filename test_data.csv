@@ -1,0 +1,2001 @@
+ID,profession,age,gender,highestDegree,maritalStatus,noOfKids,creditRisk,otherMembership,pastStays1y,blogger,articles,amexCard,purposeTravel,staySpend
+0,Business,,Female,High School Equivalent,Widowed,2,3.01,Marriott,33,Yes,0,Yes,Medical Tourism,593.2005396
+1,Public Sector,22,Female,High School Equivalent,Divorced,1,3.54,Marriott,17,No,4,No,Leisure Travel,6811.249373
+2,Public Sector,,Male,Associate Degree,Married,0,2.52,None,33,Yes,0,Yes,Leisure Travel,37.1572869
+3,Public Sector,27,Male,Associate Degree,Divorced,,3.18,IHG,23,No,12,No,Business,0
+4,Private Sector,,,Technical/Occupational Certificate,Married,1,2.96,IHG,21,No,1,No,Leisure Travel,33.62351215
+5,Business,,,High School Equivalent,Single,,2.45,Marriott,17,Yes,0,Yes,Leisure Travel,0
+6,Private Sector,19,,Bachelors Degree,Married,,2.29,Marriott,40,No,10,Yes,Medical Tourism,0
+7,Business,51,Male,Masters Degree,Widowed,1,2.95,IHG,26,No,10,Yes,Medical Tourism,139.161131
+8,Business,,Male,Masters Degree,Widowed,3,2.76,Marriott,37,No,1,No,Leisure Travel,0
+9,Private Sector,44,,MBA,Married,1,3.48,Marriott,2,Yes,0,Yes,Leisure Travel,2423.636658
+10,Private Sector,,Male,High School Equivalent,Single,,3.84,IHG,26,No,7,Yes,Medical Tourism,0
+11,Public Sector,,Male,Associate Degree,Single,0,3.13,Hilton,42,No,5,No,Business,1299.567506
+12,Public Sector,48,Male,Bachelors Degree,Divorced,1,2.99,Jumeirah,24,No,2,Yes,Medical Tourism,23513.15214
+13,Public Sector,41,Male,Bachelors Degree,Single,0,2.79,Marriott,4,No,12,Yes,Business,0
+14,,34,Male,MBA,Single,0,2.54,IHG,15,Yes,0,Yes,Business,0
+15,Private Sector,18,Female,Bachelors Degree,Single,,2.81,Marriott,17,No,20,Yes,Leisure Travel,984.1223538
+16,Private Sector,54,,High School Equivalent,Married,,2.97,Discovery,14,No,3,No,Business,0
+17,Public Sector,37,Female,Masters Degree,Widowed,1,3.63,None,10,No,3,Yes,Leisure Travel,0
+18,Private Sector,48,Female,High School Equivalent,Married,3,2.99,IHG,15,No,10,No,Medical Tourism,76.30485869
+19,Private Sector,,,Masters Degree,Married,1,2.59,Discovery,24,No,5,No,Medical Tourism,0
+20,Public Sector,,Female,Masters Degree,Single,0,2.66,Jumeirah,13,No,13,Yes,Business,1744.502552
+21,Self-Employed,56,Female,High School Equivalent,Single,0,3.23,IHG,3,Yes,0,No,Medical Tourism,0
+22,,39,,High School Equivalent,Married,1,2.7,IHG,11,No,18,No,Leisure Travel,0
+23,Private Sector,,Male,High School Equivalent,Divorced,,3.03,Jumeirah,20,No,1,No,Leisure Travel,0.017297136
+24,Public Sector,57,Male,High School Equivalent,Single,,2.79,IHG,8,Yes,0,No,Business,0
+25,Business,,,Associate Degree,Married,,2.46,Marriott,2,No,14,No,Medical Tourism,9285.792583
+26,Business,,,Associate Degree,Single,0,3.2,Expedia,,No,10,No,Leisure Travel,0
+27,Public Sector,,Female,Bachelors Degree,Single,0,1.98,IHG,4,No,20,No,Leisure Travel,0
+28,Business,56,,Technical/Occupational Certificate,Married,,2.39,Expedia,14,No,19,No,Business,18802.30689
+29,Business,,Male,Doctorate,Married,0,2.71,Expedia,12,No,16,No,Business,0
+30,Business,27,Male,High School Equivalent,Single,,2.76,Discovery,,No,3,No,Business,0.078546236
+31,Business,,Female,High School Equivalent,Single,0,2.97,IHG,38,No,15,No,Business,0
+32,Private Sector,,Female,MBA,Married,0,2.01,Marriott,45,No,16,No,Business,3957.435889
+33,Private Sector,,Male,High School Equivalent,Married,,3.11,None,26,No,14,No,Leisure Travel,2138.341712
+34,Public Sector,,Male,Associate Degree,Divorced,3,2.83,IHG,47,Yes,0,Yes,Leisure Travel,0
+35,Business,48,Female,MBA,Divorced,1,3.13,IHG,0,Yes,0,Yes,Leisure Travel,263.0801008
+36,Private Sector,31,Female,Professional,Married,2,2.23,Discovery,,No,15,Yes,Business,0
+37,Business,45,Male,High School Equivalent,Married,1,2.24,Discovery,45,No,8,Yes,Business,0
+38,Private Sector,23,Female,High School Equivalent,Divorced,1,2.68,Expedia,34,No,20,No,Leisure Travel,0
+39,Private Sector,19,Male,Bachelors Degree,Single,,2.71,None,,No,6,Yes,Business,0
+40,Business,,Male,High School Equivalent,Divorced,0,3.02,Jumeirah,6,No,2,Yes,Medical Tourism,0.169854872
+41,Business,,Male,Professional,Widowed,1,2.16,Discovery,15,No,7,Yes,Leisure Travel,377.6874662
+42,Private Sector,,,Technical/Occupational Certificate,Single,,3.18,IHG,34,Yes,0,No,Leisure Travel,0
+43,Private Sector,36,,High School Equivalent,Widowed,0,2.73,Expedia,15,No,14,No,Medical Tourism,0
+44,,50,Male,MBA,Divorced,1,2.93,Marriott,17,No,16,No,Medical Tourism,2887.64514
+45,Business,,Male,High School Equivalent,Single,0,1.99,IHG,2,No,1,Yes,Medical Tourism,73.26173588
+46,Private Sector,,,High School Equivalent,Married,,2.95,None,15,No,9,Yes,Medical Tourism,0
+47,Business,19,Male,MBA,Married,1,2.13,IHG,17,No,8,No,Medical Tourism,0
+48,Public Sector,50,Male,High School Equivalent,Married,1,2.16,Discovery,10,No,7,Yes,Business,502.1764547
+49,Private Sector,39,,Associate Degree,Single,0,2.72,IHG,41,No,16,Yes,Leisure Travel,0
+50,Public Sector,,Female,MBA,Divorced,2,1.68,IHG,7,No,18,No,Leisure Travel,197.5127635
+51,Business,29,Male,High School Equivalent,Divorced,1,2.19,None,40,No,16,No,Business,5865.874684
+52,,27,Male,High School Equivalent,Married,,2.26,Expedia,21,No,14,No,Business,2.7111E-05
+53,Public Sector,18,,High School Equivalent,Married,,2.98,IHG,,No,19,No,Business,745.1809039
+54,Public Sector,36,Female,Bachelors Degree,Divorced,,2.46,Marriott,32,No,17,Yes,Leisure Travel,27.69919407
+55,,31,Male,Professional,Married,4,3.42,Marriott,32,No,20,Yes,Leisure Travel,0.011620121
+56,Business,,Female,MBA,Married,,2.7,Marriott,49,Yes,0,No,Business,0
+57,Business,,Male,High School Equivalent,Married,1,2.36,Marriott,8,Yes,0,No,Business,0
+58,Business,,Female,High School Equivalent,Single,0,2.59,IHG,40,Yes,0,Yes,Medical Tourism,2144.998596
+59,Business,40,Male,High School Equivalent,Married,0,2.54,Expedia,11,Yes,0,No,Leisure Travel,0
+60,Business,50,Male,High School Equivalent,Married,,3.08,Jumeirah,,Yes,0,Yes,Business,0.042028089
+61,Private Sector,43,,High School Equivalent,Single,,2.83,Marriott,18,Yes,0,No,Business,9512.953679
+62,,25,,MBA,Single,0,2.96,Hilton,4,No,10,Yes,Medical Tourism,0
+63,Business,,Female,Associate Degree,Single,,2.77,Marriott,5,Yes,0,Yes,Business,21885.48063
+64,Public Sector,51,Female,High School Equivalent,Married,4,2.5,None,47,No,2,No,Leisure Travel,13.76428773
+65,Business,,Female,Associate Degree,Single,,2.89,Marriott,,No,4,Yes,Leisure Travel,0
+66,Private Sector,,Female,Professional,Married,1,2.73,Jumeirah,15,Yes,0,Yes,Leisure Travel,0
+67,,,Male,Bachelors Degree,Single,0,3.59,Marriott,3,No,12,Yes,Leisure Travel,8537.71189
+68,Business,54,Male,MBA,Married,,2.93,Marriott,2,No,4,No,Leisure Travel,241.3839795
+69,Private Sector,39,Male,High School Equivalent,Widowed,1,2.03,IHG,41,Yes,0,Yes,Business,0
+70,Business,,Female,MBA,Widowed,1,2.53,Jumeirah,11,No,11,No,Medical Tourism,0.027749088
+71,Self-Employed,,,Professional,Divorced,1,3.28,Marriott,5,No,14,Yes,Business,0
+72,Public Sector,48,Female,High School Equivalent,Married,0,2.92,IHG,37,Yes,0,Yes,Medical Tourism,2878.787129
+73,Public Sector,22,,Associate Degree,Divorced,,2.07,Marriott,25,Yes,0,Yes,Business,0
+74,Private Sector,55,Female,MBA,Widowed,1,1.81,Expedia,26,No,4,No,Leisure Travel,29413.26236
+75,Public Sector,40,,High School Equivalent,Married,,2.52,None,42,No,5,Yes,Medical Tourism,53.49697066
+76,Business,50,Male,Masters Degree,Divorced,4,2.7,IHG,4,No,11,Yes,Business,0.9069523
+77,Business,51,Male,MBA,Divorced,,2.83,Discovery,9,No,20,Yes,Medical Tourism,255.0092387
+78,Private Sector,35,Male,Bachelors Degree,Divorced,,3.82,IHG,24,No,4,Yes,Business,2.858339222
+79,,59,Female,High School Equivalent,Married,0,2.64,Marriott,,Yes,0,Yes,Medical Tourism,0
+80,Private Sector,45,Female,Associate Degree,Single,,2.83,None,30,Yes,0,Yes,Leisure Travel,0
+81,Business,43,Female,MBA,Widowed,3,3.34,IHG,47,No,17,No,Leisure Travel,0
+82,Private Sector,,Male,High School Equivalent,Single,0,3.31,Jumeirah,33,Yes,0,No,Leisure Travel,0
+83,Private Sector,,,Bachelors Degree,Widowed,,2.42,Marriott,,No,12,No,Leisure Travel,1174.513597
+84,Private Sector,27,Male,MBA,Single,,2.3,IHG,39,No,4,No,Medical Tourism,22187.48889
+85,Private Sector,37,Female,High School Equivalent,Married,0,2.32,Discovery,27,Yes,0,Yes,Leisure Travel,8087.39022
+86,Self-Employed,,Male,High School Equivalent,Divorced,,2.79,IHG,,No,5,No,Business,0
+87,Private Sector,,Male,High School Equivalent,Widowed,0,3.14,Discovery,11,No,9,No,Business,0
+88,Private Sector,19,Female,Associate Degree,Married,1,2.73,None,42,No,7,No,Leisure Travel,0.875311098
+89,Private Sector,,Female,Bachelors Degree,Married,,3.42,None,42,No,11,No,Medical Tourism,50.43705557
+90,Public Sector,,Female,MBA,Widowed,2,2.09,Hilton,0,No,1,No,Leisure Travel,0
+91,Public Sector,23,Female,High School Equivalent,Married,,3.07,Marriott,3,No,14,Yes,Medical Tourism,0
+92,Private Sector,59,Male,Bachelors Degree,Divorced,,2.8,Marriott,33,Yes,0,No,Medical Tourism,321.5056358
+93,Private Sector,,,High School Equivalent,Married,1,3.28,Discovery,29,Yes,0,No,Medical Tourism,0.98881424
+94,Public Sector,52,Male,High School Equivalent,Married,0,2.83,Expedia,39,No,16,Yes,Medical Tourism,892.5276662
+95,Business,57,,MBA,Widowed,,2.45,IHG,37,Yes,0,No,Business,42877.33096
+96,Self-Employed,,Female,High School Equivalent,Married,1,3.41,Expedia,8,Yes,0,Yes,Leisure Travel,1181.542357
+97,Business,56,Female,Bachelors Degree,Single,,3,None,46,Yes,0,Yes,Leisure Travel,321.9806897
+98,Public Sector,40,,High School Equivalent,Married,0,3.65,IHG,41,No,6,No,Leisure Travel,3817.919992
+99,Business,,,High School Equivalent,Married,,3.15,Discovery,26,Yes,0,No,Medical Tourism,1315.020801
+100,Public Sector,28,Female,Bachelors Degree,Married,0,3.37,None,,Yes,0,No,Business,21077.15869
+101,Private Sector,,,Associate Degree,Married,0,3.27,Marriott,8,No,10,No,Business,12715.5944
+102,Private Sector,,Male,High School Equivalent,Widowed,1,2.4,Marriott,9,No,17,No,Leisure Travel,0
+103,Business,34,Female,Associate Degree,Divorced,1,1.96,None,36,Yes,0,Yes,Medical Tourism,0
+104,Private Sector,41,Female,Bachelors Degree,Single,,3.23,Jumeirah,29,No,15,No,Leisure Travel,0
+105,Public Sector,,Female,MBA,Single,0,2.15,Hilton,49,No,7,Yes,Leisure Travel,0
+106,Private Sector,,Female,High School Equivalent,Married,1,1.58,IHG,17,No,18,Yes,Leisure Travel,267.0302782
+107,Private Sector,,Female,Bachelors Degree,Divorced,1,2.2,Hilton,,Yes,0,No,Leisure Travel,0
+108,Business,25,Female,Professional,Single,,2.9,Marriott,37,No,9,Yes,Business,0
+109,Business,51,Female,MBA,Married,4,2.5,IHG,43,No,6,No,Leisure Travel,0
+110,Business,,Female,Bachelors Degree,Married,,3.15,Hilton,13,Yes,0,No,Medical Tourism,4379.089155
+111,Private Sector,45,Female,MBA,Married,1,3.73,None,41,Yes,0,No,Leisure Travel,2253.39171
+112,Public Sector,42,Male,Bachelors Degree,Widowed,,2.21,None,32,No,15,Yes,Business,9685.535002
+113,Private Sector,18,Male,Associate Degree,Married,,2.92,IHG,10,No,3,Yes,Business,0
+114,Self-Employed,,Male,High School Equivalent,Divorced,,2.97,IHG,28,No,8,Yes,Leisure Travel,0
+115,Private Sector,,Female,Associate Degree,Single,0,3.26,IHG,26,Yes,0,No,Business,440.265358
+116,Public Sector,53,Female,Masters Degree,Widowed,,3,Marriott,49,No,4,Yes,Business,0
+117,Private Sector,,Male,High School Equivalent,Married,,2.07,Discovery,20,No,2,Yes,Leisure Travel,19439.80553
+118,Private Sector,26,Male,High School Equivalent,Divorced,0,3.2,IHG,39,Yes,0,Yes,Leisure Travel,0
+119,Public Sector,40,Male,High School Equivalent,Widowed,1,2.68,Marriott,,Yes,0,Yes,Medical Tourism,3554.634892
+120,Self-Employed,58,Female,Masters Degree,Married,,2.97,Expedia,34,Yes,0,No,Business,0
+121,Private Sector,52,,MBA,Divorced,,3.91,IHG,35,No,11,No,Leisure Travel,0.003044535
+122,Private Sector,38,,High School Equivalent,Divorced,0,3.39,None,46,No,16,No,Leisure Travel,892.2786068
+123,Business,51,Female,High School Equivalent,Married,1,3.12,IHG,10,Yes,0,Yes,Leisure Travel,0
+124,Public Sector,,,High School Equivalent,Married,1,4,IHG,28,No,15,Yes,Business,0
+125,Self-Employed,29,Male,High School Equivalent,Single,0,3,IHG,47,No,19,No,Medical Tourism,1595.142732
+126,Self-Employed,34,Female,High School Equivalent,Single,,2.21,Marriott,6,No,2,Yes,Business,0
+127,Business,,,Doctorate,Single,0,3.47,Marriott,26,Yes,0,Yes,Medical Tourism,9012.493839
+128,Business,40,Female,MBA,Divorced,1,3.22,None,21,Yes,0,No,Business,0
+129,Business,,Female,Bachelors Degree,Married,,3.01,IHG,26,No,15,No,Business,0
+130,Business,,Male,High School Equivalent,Single,0,2.62,Hilton,33,Yes,0,No,Medical Tourism,288.6101686
+131,Public Sector,,,High School Equivalent,Divorced,,2.04,Marriott,44,No,17,No,Business,0
+132,Public Sector,51,Female,Technical/Occupational Certificate,Divorced,,2.82,Hilton,7,No,16,No,Business,22.18229089
+133,Private Sector,,Female,Bachelors Degree,Married,,3.21,Jumeirah,14,No,6,Yes,Leisure Travel,0.019970431
+134,Self-Employed,,Female,Associate Degree,Single,0,3.14,None,27,No,7,Yes,Business,0
+135,Public Sector,,Male,High School Equivalent,Single,0,3.29,IHG,16,No,19,Yes,Medical Tourism,4018.100952
+136,Private Sector,53,,High School Equivalent,Divorced,3,3.67,IHG,43,No,17,No,Medical Tourism,491.5699277
+137,Business,,Female,Associate Degree,Single,0,3.04,Jumeirah,14,No,10,No,Business,1.349208074
+138,Public Sector,19,Male,Bachelors Degree,Married,,2.46,IHG,28,No,16,Yes,Leisure Travel,1.002680119
+139,Private Sector,,Male,High School Equivalent,Widowed,1,2.08,Hilton,1,No,12,No,Medical Tourism,4407.859336
+140,Private Sector,42,,Associate Degree,Divorced,,1.94,Marriott,18,No,18,No,Business,2.811975974
+141,Self-Employed,45,Female,High School Equivalent,Single,0,1.96,IHG,35,No,16,No,Business,0.059324857
+142,Public Sector,31,Female,High School Equivalent,Married,,3.13,Jumeirah,14,No,14,No,Medical Tourism,0
+143,Public Sector,,,High School Equivalent,Divorced,0,2.87,Discovery,10,No,11,No,Leisure Travel,0
+144,Public Sector,,Female,Masters Degree,Single,0,2.49,IHG,6,No,8,Yes,Medical Tourism,32933.30047
+145,Private Sector,,,Bachelors Degree,Married,,2.9,None,,Yes,0,No,Leisure Travel,0
+146,,36,Female,Bachelors Degree,Married,,3.22,IHG,11,No,8,Yes,Medical Tourism,0
+147,,,,Associate Degree,Single,0,2.39,Marriott,48,Yes,0,No,Medical Tourism,0.094756971
+148,Business,,Male,Bachelors Degree,Single,,2.46,Discovery,15,No,5,Yes,Business,0
+149,Public Sector,,Female,Technical/Occupational Certificate,Married,1,2,Marriott,,Yes,0,No,Leisure Travel,0
+150,Business,32,Female,Bachelors Degree,Married,,3.11,Hilton,28,No,1,Yes,Leisure Travel,0
+151,Private Sector,,Male,MBA,Widowed,,3.49,IHG,18,No,16,No,Business,637.5127958
+152,Private Sector,38,,Bachelors Degree,Married,1,3.13,None,,No,12,No,Medical Tourism,0
+153,Business,28,Female,Bachelors Degree,Widowed,,2.39,IHG,,No,18,No,Leisure Travel,0
+154,Public Sector,,Male,High School Equivalent,Married,1,2.66,Marriott,,Yes,0,No,Business,0
+155,Self-Employed,18,,High School Equivalent,Married,0,4,IHG,41,No,8,Yes,Medical Tourism,94.54468097
+156,Business,,,High School Equivalent,Married,,3.23,IHG,27,Yes,0,Yes,Leisure Travel,0
+157,Business,31,Male,High School Equivalent,Single,,2.82,Expedia,20,Yes,0,Yes,Leisure Travel,0
+158,Private Sector,,Male,High School Equivalent,Married,1,2.91,Marriott,,No,6,No,Medical Tourism,2558.138185
+159,Business,25,Male,Professional,Married,3,2.57,IHG,28,No,18,No,Medical Tourism,1715.044305
+160,,,Male,Bachelors Degree,Single,0,3.41,Marriott,44,No,2,Yes,Business,12.24778236
+161,Private Sector,30,Male,High School Equivalent,Married,1,3.09,Marriott,14,No,14,Yes,Leisure Travel,1.70308E-05
+162,Business,24,Male,MBA,Widowed,,2.43,Jumeirah,37,Yes,0,No,Leisure Travel,1627.247831
+163,Public Sector,22,Male,MBA,Married,1,1.44,IHG,,No,16,Yes,Business,0
+164,Business,,Female,MBA,Married,1,2.92,IHG,25,Yes,0,Yes,Medical Tourism,0.032342495
+165,Business,,Male,High School Equivalent,Married,1,3.89,IHG,34,No,4,No,Medical Tourism,4580.004165
+166,Business,19,Male,High School Equivalent,Married,1,2.9,None,3,No,18,Yes,Medical Tourism,2.644576568
+167,Self-Employed,19,,Professional,Single,,2.72,Marriott,25,Yes,0,Yes,Leisure Travel,0
+168,Public Sector,33,Male,MBA,Married,,2.7,IHG,37,No,2,No,Business,237.8962276
+169,Public Sector,53,Female,Masters Degree,Single,0,3.29,Marriott,28,No,4,No,Medical Tourism,0
+170,Private Sector,,,Doctorate,Divorced,1,3.14,None,17,Yes,0,Yes,Leisure Travel,163.4476617
+171,,,Female,Professional,Married,0,3.21,Marriott,8,No,20,No,Business,806.3554084
+172,Self-Employed,53,Male,High School Equivalent,Married,1,2.9,IHG,36,No,7,Yes,Medical Tourism,0
+173,Business,56,Female,Bachelors Degree,Divorced,,3.84,Marriott,7,No,19,No,Business,0
+174,Business,46,Male,High School Equivalent,Married,,2.52,IHG,6,No,15,Yes,Leisure Travel,0.000598122
+175,Business,,Female,MBA,Married,3,3.19,Marriott,21,No,3,No,Leisure Travel,984.4602509
+176,Business,,Male,High School Equivalent,Married,1,3.36,IHG,44,No,2,Yes,Medical Tourism,6.82466E-06
+177,Public Sector,31,,High School Equivalent,Single,,3.4,Marriott,5,No,13,Yes,Medical Tourism,0
+178,Business,,Female,MBA,Married,,2.73,IHG,26,No,3,No,Leisure Travel,0
+179,Self-Employed,33,Female,High School Equivalent,Single,,2.57,IHG,13,No,10,Yes,Business,0
+180,Business,,Female,High School Equivalent,Married,1,3.3,Discovery,15,No,18,Yes,Business,12.85608497
+181,Private Sector,53,Male,MBA,Widowed,3,3.98,None,8,No,6,Yes,Business,0
+182,Private Sector,35,Male,High School Equivalent,Married,4,2.79,Marriott,21,No,19,Yes,Leisure Travel,0
+183,Self-Employed,,,MBA,Single,,4,IHG,23,No,4,No,Medical Tourism,2.724336328
+184,Business,23,Female,Associate Degree,Single,,2.34,None,33,No,10,No,Business,0
+185,Public Sector,,Female,MBA,Divorced,1,3.67,None,4,Yes,0,No,Business,0
+186,Private Sector,55,Male,Professional,Single,,2.08,IHG,10,No,19,No,Leisure Travel,0
+187,Public Sector,54,Female,Bachelors Degree,Single,0,3.44,IHG,29,No,12,Yes,Leisure Travel,1393.872073
+188,Business,44,Female,High School Equivalent,Single,0,3,Jumeirah,,No,14,No,Medical Tourism,0
+189,Public Sector,59,Female,Associate Degree,Single,,2.59,IHG,3,Yes,0,Yes,Medical Tourism,0
+190,Self-Employed,29,Female,MBA,Single,,3.07,Marriott,9,No,13,Yes,Leisure Travel,0.007597717
+191,Public Sector,,Female,High School Equivalent,Divorced,1,2.42,IHG,0,No,14,No,Business,2196.533796
+192,Private Sector,,Male,Associate Degree,Married,0,3.82,Marriott,39,Yes,0,Yes,Leisure Travel,0
+193,Self-Employed,,Female,Professional,Single,,2.23,None,28,Yes,0,Yes,Business,340.3826401
+194,Private Sector,33,Male,High School Equivalent,Married,1,1.99,Marriott,27,No,15,Yes,Medical Tourism,0
+195,Public Sector,58,Female,Bachelors Degree,Single,,3.04,Marriott,36,No,4,Yes,Leisure Travel,0
+196,Public Sector,33,Male,Technical/Occupational Certificate,Single,0,3.87,Marriott,7,Yes,0,Yes,Business,3108.547875
+197,Business,,Female,MBA,Divorced,,2.28,Jumeirah,1,Yes,0,Yes,Medical Tourism,2.42203E-06
+198,Business,,Male,Bachelors Degree,Married,1,3.31,None,23,No,13,No,Business,1575.582302
+199,Self-Employed,19,Male,Associate Degree,Married,0,2.79,Marriott,2,No,13,No,Business,11.00696428
+200,Private Sector,,,Professional,Widowed,1,3.03,None,44,No,9,Yes,Medical Tourism,0
+201,Business,44,Female,Associate Degree,Widowed,3,2.65,None,2,No,4,Yes,Medical Tourism,3009.169959
+202,Business,28,Female,MBA,Divorced,2,2.47,Hilton,25,No,14,No,Business,0
+203,Public Sector,24,Male,High School Equivalent,Divorced,1,2.38,Discovery,0,Yes,0,No,Leisure Travel,0
+204,Private Sector,,Male,MBA,Married,,3.43,IHG,24,Yes,0,Yes,Leisure Travel,2374.516319
+205,Private Sector,,,MBA,Single,0,3.32,IHG,6,No,16,Yes,Leisure Travel,0
+206,Private Sector,,Female,Associate Degree,Married,1,2.65,None,25,No,11,No,Medical Tourism,50.25958174
+207,Public Sector,18,,Professional,Single,0,3.1,Marriott,26,Yes,0,No,Business,407.6816339
+208,Private Sector,18,Female,MBA,Married,1,1.99,Marriott,15,Yes,0,No,Business,1.856103665
+209,Business,44,Female,Associate Degree,Single,,2.8,Marriott,7,Yes,0,Yes,Business,0
+210,Business,,Female,MBA,Married,0,3.14,Discovery,2,No,7,Yes,Business,3142.122915
+211,Public Sector,34,Male,High School Equivalent,Married,3,3.23,IHG,35,No,10,No,Business,1.534438287
+212,Public Sector,,Male,MBA,Married,,1.95,IHG,39,No,4,Yes,Business,5220.440464
+213,Public Sector,33,Female,High School Equivalent,Single,,2.33,None,34,No,18,Yes,Business,0
+214,,,Male,MBA,Married,1,3.19,Marriott,30,No,4,Yes,Leisure Travel,20.89385244
+215,Public Sector,,Male,High School Equivalent,Married,1,3.41,Marriott,1,No,9,No,Medical Tourism,0
+216,Self-Employed,,Female,High School Equivalent,Married,0,2.87,Marriott,6,No,12,Yes,Business,170.0301144
+217,Private Sector,30,,High School Equivalent,Married,,3.03,Discovery,32,Yes,0,No,Leisure Travel,356.4973354
+218,Public Sector,,Female,High School Equivalent,Married,1,3.03,IHG,48,No,6,Yes,Leisure Travel,1.572949989
+219,Business,40,Female,MBA,Single,0,2.47,Discovery,48,Yes,0,No,Leisure Travel,0
+220,Business,,Male,High School Equivalent,Widowed,1,2.75,Marriott,5,No,17,No,Leisure Travel,168.9455637
+221,Business,23,Male,MBA,Married,,3.45,Hilton,24,No,2,Yes,Leisure Travel,0.001808725
+222,Self-Employed,,,Doctorate,Married,,1.92,Discovery,26,No,6,No,Medical Tourism,14.05038564
+223,Public Sector,49,,Associate Degree,Divorced,1,3.05,IHG,5,Yes,0,No,Leisure Travel,0.193335998
+224,Self-Employed,36,Female,High School Equivalent,Widowed,,3.25,IHG,17,Yes,0,No,Medical Tourism,10.228346
+225,Business,,Female,High School Equivalent,Widowed,2,2.74,Marriott,38,Yes,0,Yes,Medical Tourism,0
+226,Private Sector,,Female,Associate Degree,Married,1,2.93,Discovery,23,No,16,No,Business,480.0020467
+227,Public Sector,,,MBA,Married,1,3,IHG,20,No,14,No,Medical Tourism,20.4451416
+228,Private Sector,21,Male,High School Equivalent,Divorced,1,2.55,IHG,49,Yes,0,No,Medical Tourism,0
+229,Business,,,High School Equivalent,Widowed,0,2.85,Discovery,30,No,10,No,Business,0
+230,Self-Employed,,,Associate Degree,Single,,3.12,IHG,15,No,15,No,Business,0
+231,Business,40,,Bachelors Degree,Single,,3.13,None,44,Yes,0,Yes,Leisure Travel,481.5111389
+232,Public Sector,40,Male,High School Equivalent,Married,0,2.46,Marriott,22,No,17,Yes,Medical Tourism,0
+233,Self-Employed,22,Female,High School Equivalent,Single,,3.26,None,14,No,11,Yes,Business,0.880111318
+234,Self-Employed,47,,MBA,Widowed,,3.38,Discovery,14,No,11,Yes,Business,0
+235,Private Sector,21,Female,Associate Degree,Married,,3.2,Discovery,,No,11,Yes,Leisure Travel,83.32794115
+236,Private Sector,57,Female,Professional,Married,,2.82,None,,No,6,No,Medical Tourism,0
+237,Private Sector,18,,MBA,Married,,2.76,IHG,,Yes,0,Yes,Business,732.7819921
+238,Business,46,,Associate Degree,Married,1,2.45,IHG,6,No,20,No,Medical Tourism,0
+239,Public Sector,33,Female,MBA,Divorced,,3.51,IHG,25,Yes,0,Yes,Business,2471.460391
+240,Business,,,High School Equivalent,Single,,2.9,IHG,39,No,15,No,Medical Tourism,638.7504005
+241,Private Sector,40,Female,High School Equivalent,Single,0,3.91,Discovery,18,Yes,0,Yes,Business,1576.965229
+242,Business,,Male,Professional,Married,1,2.84,Discovery,39,No,4,Yes,Medical Tourism,2.841089146
+243,Self-Employed,43,Male,MBA,Married,,3.01,Marriott,26,No,8,No,Business,0
+244,Private Sector,,Male,High School Equivalent,Married,,2.05,None,28,No,13,Yes,Medical Tourism,0
+245,Private Sector,,Male,Bachelors Degree,Widowed,0,2.5,Hilton,4,No,9,Yes,Business,0.00034266
+246,Private Sector,,,High School Equivalent,Single,,4,Marriott,43,No,11,Yes,Medical Tourism,8.743654049
+247,Private Sector,51,Male,MBA,Widowed,4,3.88,Marriott,7,No,19,No,Medical Tourism,0.030658142
+248,Private Sector,,Female,Masters Degree,Married,,2.88,Expedia,29,No,1,Yes,Medical Tourism,0
+249,Private Sector,46,Male,Bachelors Degree,Single,,3.58,IHG,29,No,18,Yes,Medical Tourism,0
+250,Self-Employed,49,Male,High School Equivalent,Single,,3.85,Marriott,15,No,4,Yes,Business,1148.404359
+251,,23,,High School Equivalent,Married,,3.65,IHG,4,No,15,Yes,Business,140.8332858
+252,Private Sector,25,Female,Bachelors Degree,Single,0,2.65,Marriott,34,Yes,0,No,Leisure Travel,0
+253,Business,55,Male,MBA,Widowed,,2.5,Marriott,6,No,17,Yes,Leisure Travel,0
+254,Business,,Female,Associate Degree,Divorced,0,3.31,Jumeirah,,No,19,Yes,Medical Tourism,0.001065012
+255,Private Sector,,Female,Associate Degree,Single,0,2.68,IHG,3,Yes,0,No,Business,750.390535
+256,Self-Employed,55,Male,High School Equivalent,Married,1,3.09,None,26,Yes,0,Yes,Medical Tourism,202.5133465
+257,Private Sector,,Female,Associate Degree,Divorced,1,3.22,None,46,No,5,No,Medical Tourism,0.580710685
+258,Self-Employed,,Male,Masters Degree,Divorced,,3.06,Marriott,27,Yes,0,Yes,Leisure Travel,0
+259,Business,42,Male,Masters Degree,Married,2,2.51,None,39,Yes,0,No,Business,0
+260,Public Sector,24,,High School Equivalent,Married,1,2.12,None,0,No,9,Yes,Medical Tourism,76.2841428
+261,,34,Male,High School Equivalent,Single,,2.23,IHG,6,No,17,No,Business,0
+262,Private Sector,29,,High School Equivalent,Single,0,3.24,None,29,No,10,No,Business,1.24482E-06
+263,Private Sector,,Female,High School Equivalent,Married,1,3.42,IHG,25,Yes,0,Yes,Leisure Travel,47043.26523
+264,Self-Employed,,Female,Associate Degree,Single,0,2.94,IHG,31,No,16,No,Medical Tourism,933.4473044
+265,Public Sector,29,Male,MBA,Married,,2.95,Hilton,29,No,9,No,Leisure Travel,0.244075679
+266,Public Sector,40,,Masters Degree,Divorced,,3.31,Marriott,,No,18,No,Leisure Travel,0
+267,Business,,,MBA,Divorced,1,2.42,Marriott,20,No,19,Yes,Business,1324.496033
+268,Business,,Female,High School Equivalent,Single,0,2.31,IHG,16,No,13,No,Business,0
+269,Public Sector,21,Male,MBA,Divorced,,2.27,Marriott,13,No,19,Yes,Leisure Travel,0
+270,Business,34,Female,MBA,Married,,3.2,None,45,No,17,No,Medical Tourism,0
+271,Business,57,Female,Doctorate,Single,,3.27,Expedia,23,No,20,Yes,Leisure Travel,499.7159571
+272,,25,Male,MBA,Single,0,3.69,Expedia,38,No,12,Yes,Medical Tourism,12698.0039
+273,Self-Employed,29,Male,MBA,Married,1,2.95,IHG,2,No,5,No,Business,0.000123048
+274,Business,28,Female,Bachelors Degree,Widowed,0,2.52,IHG,39,Yes,0,Yes,Medical Tourism,0
+275,Private Sector,,Female,MBA,Widowed,,3.67,IHG,,No,12,No,Medical Tourism,0
+276,Public Sector,,Female,High School Equivalent,Divorced,1,2.55,IHG,16,No,12,No,Leisure Travel,5312.222869
+277,Private Sector,,Female,High School Equivalent,Married,0,2.97,Discovery,49,Yes,0,No,Business,31.59528406
+278,Public Sector,19,Male,Associate Degree,Married,,2.7,IHG,15,Yes,0,Yes,Leisure Travel,14617.61191
+279,Private Sector,28,,Associate Degree,Single,,3.25,None,,No,16,No,Medical Tourism,0
+280,Private Sector,55,Female,Professional,Married,1,3.25,IHG,24,No,17,No,Leisure Travel,0
+281,Business,,Male,MBA,Divorced,1,2.95,Discovery,12,No,16,No,Business,38.97325677
+282,Private Sector,,Female,High School Equivalent,Divorced,0,3.01,Marriott,3,Yes,0,No,Leisure Travel,2102.295226
+283,Private Sector,,Female,Masters Degree,Single,0,3.31,IHG,26,No,19,Yes,Leisure Travel,0
+284,Private Sector,,Male,Associate Degree,Married,,3.6,Hilton,43,No,12,Yes,Leisure Travel,7.85821E-06
+285,Business,32,Male,Associate Degree,Widowed,,3.17,Discovery,8,No,16,Yes,Business,0
+286,Business,48,Male,Bachelors Degree,Widowed,,2.65,Discovery,38,No,3,No,Leisure Travel,153.1128593
+287,Self-Employed,55,,Bachelors Degree,Widowed,,3.02,None,,No,7,Yes,Business,130.7817954
+288,Business,57,Female,High School Equivalent,Single,,3.39,Marriott,12,Yes,0,No,Leisure Travel,7323.420431
+289,,45,Male,MBA,Married,1,1.62,Marriott,37,Yes,0,Yes,Business,138.3009696
+290,Public Sector,35,Female,High School Equivalent,Married,,3.56,Discovery,37,No,18,Yes,Business,1863.117988
+291,Private Sector,,Female,Professional,Widowed,1,3.13,Hilton,48,No,7,Yes,Medical Tourism,90.23923446
+292,Private Sector,,Female,Masters Degree,Divorced,,2.59,IHG,37,Yes,0,No,Medical Tourism,0
+293,Private Sector,,Male,Technical/Occupational Certificate,Married,,2.6,IHG,30,No,4,Yes,Business,0
+294,Business,,Male,Bachelors Degree,Divorced,,3.41,IHG,25,No,14,Yes,Business,5713.058337
+295,Private Sector,31,,Bachelors Degree,Married,1,3.15,None,13,Yes,0,Yes,Business,0
+296,Private Sector,33,,MBA,Married,2,1.98,IHG,8,No,7,No,Business,3238.155772
+297,Self-Employed,48,Female,MBA,Single,,2.53,Jumeirah,19,No,5,No,Medical Tourism,0
+298,Self-Employed,19,Female,MBA,Married,1,3.03,Discovery,22,Yes,0,Yes,Leisure Travel,0.036562612
+299,Business,38,Female,Professional,Married,1,3.15,Marriott,34,Yes,0,Yes,Medical Tourism,0.004700973
+300,,36,,Technical/Occupational Certificate,Married,,2.93,Marriott,36,No,4,No,Medical Tourism,0
+301,Self-Employed,19,,Bachelors Degree,Single,,4,IHG,1,No,20,Yes,Business,31.91195178
+302,Public Sector,44,Male,High School Equivalent,Married,3,2.52,Marriott,36,No,17,No,Leisure Travel,8085.46707
+303,Private Sector,41,Female,Masters Degree,Married,,2.69,IHG,1,No,14,No,Business,0
+304,Private Sector,,,Associate Degree,Married,,2.76,IHG,21,Yes,0,Yes,Business,0
+305,Private Sector,42,Male,Associate Degree,Single,,2.81,Jumeirah,49,No,18,No,Medical Tourism,1122.850736
+306,,,Female,Masters Degree,Single,,2.98,Jumeirah,18,No,17,No,Leisure Travel,0
+307,Business,57,Female,High School Equivalent,Single,,3.22,IHG,29,Yes,0,Yes,Leisure Travel,4584.979018
+308,Self-Employed,,,Associate Degree,Widowed,1,3.26,IHG,24,No,3,Yes,Medical Tourism,0
+309,Private Sector,,,Associate Degree,Married,,2.99,None,14,Yes,0,No,Business,211.6866869
+310,Public Sector,,Female,High School Equivalent,Single,,2.58,IHG,13,Yes,0,Yes,Leisure Travel,610.7414537
+311,Private Sector,,Female,MBA,Married,1,3.23,Marriott,22,No,11,Yes,Medical Tourism,3.617828074
+312,Private Sector,24,,High School Equivalent,Married,1,3.11,Hilton,29,Yes,0,No,Leisure Travel,1309.965462
+313,Private Sector,,,High School Equivalent,Married,1,2.38,IHG,16,No,9,Yes,Medical Tourism,1232.702745
+314,Private Sector,24,Female,High School Equivalent,Single,0,2.93,Marriott,11,No,5,No,Business,30.30520818
+315,Private Sector,33,Female,MBA,Single,,2.96,None,21,No,6,No,Leisure Travel,2.030520825
+316,Self-Employed,,Female,MBA,Divorced,,2.6,IHG,40,No,6,Yes,Business,0
+317,Self-Employed,,Male,Bachelors Degree,Single,,1.86,Expedia,39,Yes,0,Yes,Leisure Travel,0
+318,Business,,Female,Associate Degree,Single,,2.21,Discovery,28,No,7,No,Business,0
+319,Public Sector,,Female,Associate Degree,Divorced,,2.87,Marriott,45,No,6,No,Leisure Travel,3.27957E-05
+320,,59,,Bachelors Degree,Single,,2.81,None,28,No,15,No,Leisure Travel,0
+321,Public Sector,,,Bachelors Degree,Married,2,2.64,Hilton,36,No,14,Yes,Business,0
+322,Private Sector,,Female,MBA,Married,,3.53,IHG,,No,20,No,Business,0
+323,Private Sector,,Male,High School Equivalent,Married,,2.99,Marriott,18,No,19,Yes,Business,0
+324,Self-Employed,,Female,Associate Degree,Widowed,,3.23,Marriott,46,Yes,0,Yes,Leisure Travel,2166.295495
+325,Private Sector,58,,MBA,Single,,2.98,Marriott,12,No,18,No,Leisure Travel,0
+326,Public Sector,,Female,High School Equivalent,Married,,2.97,None,6,Yes,0,Yes,Business,0
+327,,31,Female,High School Equivalent,Single,,2.83,Discovery,19,No,20,No,Medical Tourism,1.02733837
+328,Public Sector,19,Male,Professional,Married,1,2.5,IHG,40,Yes,0,No,Medical Tourism,7.028759873
+329,Business,,Female,MBA,Single,0,3.14,Jumeirah,7,No,4,Yes,Medical Tourism,22.44859629
+330,Business,23,Male,Associate Degree,Divorced,0,3.51,IHG,34,Yes,0,Yes,Business,0.441625166
+331,Public Sector,32,,Associate Degree,Single,0,3.11,None,,No,20,Yes,Medical Tourism,2462.519543
+332,Private Sector,51,Female,Professional,Divorced,1,2.38,Discovery,12,Yes,0,Yes,Leisure Travel,54.48143124
+333,Private Sector,36,Male,High School Equivalent,Divorced,0,2.43,Expedia,42,Yes,0,No,Medical Tourism,36042.5902
+334,Public Sector,33,,Associate Degree,Married,1,3.26,Discovery,13,No,6,No,Medical Tourism,0
+335,Private Sector,,Female,High School Equivalent,Single,0,3.4,None,0,No,3,Yes,Leisure Travel,13846.10326
+336,Private Sector,47,Male,Doctorate,Single,0,3.66,None,0,No,13,No,Medical Tourism,0
+337,Private Sector,,Female,High School Equivalent,Divorced,1,2.28,IHG,15,No,16,No,Medical Tourism,31.70093374
+338,Private Sector,52,Male,MBA,Married,1,2.7,Marriott,0,Yes,0,No,Leisure Travel,0
+339,,45,Male,High School Equivalent,Divorced,3,2.51,Marriott,15,No,16,Yes,Business,49.87732836
+340,Private Sector,,Male,Associate Degree,Single,0,3.74,Marriott,16,Yes,0,Yes,Medical Tourism,0
+341,Private Sector,,Male,MBA,Married,2,2.49,Discovery,2,No,6,Yes,Business,9152.081317
+342,,,Male,Professional,Single,,3.51,Marriott,25,Yes,0,Yes,Leisure Travel,0
+343,Private Sector,47,Female,Associate Degree,Married,1,3.51,Marriott,49,No,7,No,Business,0
+344,Private Sector,30,Male,Associate Degree,Single,,3.04,Discovery,18,No,4,Yes,Business,0
+345,Business,,Female,Bachelors Degree,Married,1,3.77,Jumeirah,18,No,9,Yes,Medical Tourism,0
+346,Public Sector,37,Male,High School Equivalent,Married,1,2.52,Discovery,39,No,6,No,Medical Tourism,2463.162566
+347,Business,30,Male,High School Equivalent,Single,0,2.17,None,10,No,2,No,Medical Tourism,0
+348,Private Sector,33,Female,MBA,Married,1,3.29,Marriott,6,Yes,0,Yes,Medical Tourism,15991.53243
+349,Public Sector,25,Female,MBA,Divorced,1,2.46,IHG,30,Yes,0,No,Business,0
+350,Public Sector,,Female,Bachelors Degree,Divorced,,3.01,Hilton,30,Yes,0,Yes,Medical Tourism,123.5348559
+351,Private Sector,,,High School Equivalent,Single,,3.09,IHG,,No,11,Yes,Business,0
+352,Business,,Male,High School Equivalent,Married,1,2.95,Discovery,28,No,14,No,Business,11820.07848
+353,Business,,Male,High School Equivalent,Divorced,1,3.23,None,31,No,5,Yes,Medical Tourism,0
+354,Public Sector,52,Female,Associate Degree,Single,0,3.12,None,27,No,18,Yes,Medical Tourism,0
+355,Private Sector,60,,Associate Degree,Single,,3.32,IHG,42,No,9,No,Medical Tourism,2364.029462
+356,Private Sector,,Male,Associate Degree,Divorced,,3.89,IHG,22,No,20,Yes,Business,0
+357,Self-Employed,43,Female,MBA,Single,0,3,Marriott,10,No,14,Yes,Leisure Travel,0
+358,Public Sector,29,Female,MBA,Divorced,,2.22,Marriott,45,Yes,0,Yes,Business,4.730176804
+359,Private Sector,,Female,High School Equivalent,Single,0,2.91,IHG,36,Yes,0,Yes,Leisure Travel,0.984833546
+360,Private Sector,,Male,Associate Degree,Married,,2.87,Jumeirah,20,No,8,Yes,Medical Tourism,0
+361,Private Sector,,,High School Equivalent,Widowed,0,3.64,Hilton,6,Yes,0,No,Medical Tourism,0
+362,Private Sector,,Male,Associate Degree,Widowed,1,3.27,Marriott,45,No,15,No,Medical Tourism,0
+363,Public Sector,51,Male,High School Equivalent,Married,1,3.26,None,38,No,18,Yes,Medical Tourism,123.4840084
+364,Self-Employed,23,,Masters Degree,Married,,2.87,None,,Yes,0,Yes,Leisure Travel,0
+365,Private Sector,26,Female,High School Equivalent,Single,0,3.06,Marriott,19,No,3,Yes,Medical Tourism,291.318315
+366,Self-Employed,37,,High School Equivalent,Widowed,,2.91,Discovery,17,No,20,Yes,Medical Tourism,0
+367,Public Sector,,Female,MBA,Single,,3.38,IHG,17,Yes,0,Yes,Business,12696.89349
+368,Public Sector,,Female,Bachelors Degree,Divorced,,2.68,Marriott,18,No,17,No,Medical Tourism,1.97746E-05
+369,Business,58,Male,Masters Degree,Married,1,2.97,Marriott,16,Yes,0,No,Business,0
+370,Private Sector,49,Female,Bachelors Degree,Married,,2.79,Marriott,1,No,3,Yes,Leisure Travel,0
+371,Business,56,,Bachelors Degree,Married,2,2.34,Discovery,14,No,4,No,Business,1204.203626
+372,Self-Employed,,Female,High School Equivalent,Single,0,2.82,None,14,No,12,Yes,Business,26.18366737
+373,Private Sector,46,Male,High School Equivalent,Divorced,4,3.11,Discovery,6,No,11,Yes,Business,0
+374,Private Sector,49,Male,High School Equivalent,Single,0,2.91,Marriott,,No,17,Yes,Medical Tourism,6406.995718
+375,Private Sector,,,High School Equivalent,Married,,2.39,IHG,33,No,2,No,Medical Tourism,0.141077396
+376,Business,,Female,Technical/Occupational Certificate,Widowed,3,2.62,Jumeirah,24,No,17,Yes,Leisure Travel,6.53731769
+377,Private Sector,18,Female,Associate Degree,Widowed,2,3.06,Jumeirah,23,No,11,Yes,Business,2.587222125
+378,Business,,Female,MBA,Married,0,2.65,Marriott,44,No,11,No,Leisure Travel,0.000131377
+379,Private Sector,,Male,Doctorate,Married,4,2.32,None,30,No,7,Yes,Medical Tourism,0
+380,Private Sector,51,Female,Associate Degree,Single,,3.65,IHG,,Yes,0,No,Leisure Travel,2.49145E-08
+381,Private Sector,,Female,High School Equivalent,Divorced,,3.19,Jumeirah,49,Yes,0,Yes,Leisure Travel,644.6607286
+382,Business,,Male,Bachelors Degree,Divorced,,2.56,None,18,No,17,No,Leisure Travel,3208.599284
+383,Private Sector,,,Masters Degree,Married,,3.91,Hilton,26,No,10,Yes,Medical Tourism,0
+384,,,,MBA,Married,1,3.36,Marriott,11,Yes,0,No,Leisure Travel,0
+385,Business,52,Male,Associate Degree,Single,0,3.71,IHG,16,No,10,Yes,Business,1244.032336
+386,Private Sector,,Female,High School Equivalent,Married,0,2.69,Discovery,0,No,19,Yes,Medical Tourism,0
+387,Private Sector,40,Female,High School Equivalent,Married,1,3.58,Discovery,39,No,4,Yes,Medical Tourism,6.899053376
+388,Self-Employed,28,Female,Associate Degree,Single,,2.85,Marriott,5,No,19,No,Leisure Travel,5.365115286
+389,Business,,,High School Equivalent,Single,0,2.87,Marriott,40,No,3,No,Leisure Travel,2272.313659
+390,Private Sector,50,,High School Equivalent,Married,,2.1,IHG,9,No,19,Yes,Leisure Travel,3035.664174
+391,Public Sector,,Female,High School Equivalent,Single,0,2.38,IHG,17,No,19,No,Business,1223.487945
+392,Private Sector,,,High School Equivalent,Single,0,3.52,IHG,31,No,14,Yes,Leisure Travel,13252.70404
+393,Private Sector,,Female,Associate Degree,Single,0,2.81,None,8,No,12,Yes,Leisure Travel,0
+394,Private Sector,50,,High School Equivalent,Married,1,3.03,Marriott,12,No,8,Yes,Medical Tourism,39183.41711
+395,Public Sector,41,Female,MBA,Divorced,0,3.69,IHG,47,No,1,Yes,Medical Tourism,0
+396,Private Sector,27,Female,Associate Degree,Married,3,3.13,IHG,30,No,6,No,Medical Tourism,35375.16297
+397,Private Sector,,,High School Equivalent,Widowed,,3.3,IHG,27,No,10,No,Business,6635.635208
+398,Private Sector,31,,Masters Degree,Married,1,2.3,Jumeirah,3,Yes,0,No,Leisure Travel,0
+399,Self-Employed,36,Male,High School Equivalent,Single,0,2.38,IHG,17,No,2,Yes,Leisure Travel,895.1424057
+400,Business,27,Female,High School Equivalent,Single,,3.19,Marriott,33,No,14,Yes,Medical Tourism,802.0515522
+401,Business,56,Male,MBA,Divorced,1,3.37,Discovery,31,No,18,Yes,Leisure Travel,0
+402,Business,,Male,High School Equivalent,Single,0,3.86,Discovery,,No,6,Yes,Business,0
+403,Public Sector,,,Associate Degree,Married,1,3.12,Jumeirah,49,Yes,0,No,Leisure Travel,0
+404,Business,,Female,High School Equivalent,Single,,3.02,Marriott,17,Yes,0,No,Medical Tourism,0
+405,Business,,Male,Associate Degree,Widowed,,2.95,Expedia,26,No,19,Yes,Business,0
+406,Public Sector,38,Male,Associate Degree,Married,1,3.24,Expedia,1,No,18,Yes,Leisure Travel,1090.511666
+407,Self-Employed,33,Male,Bachelors Degree,Widowed,,2.6,IHG,46,No,11,Yes,Leisure Travel,0
+408,Private Sector,28,Female,Bachelors Degree,Widowed,1,2.68,Marriott,49,No,5,Yes,Leisure Travel,0
+409,Private Sector,37,Male,MBA,Married,3,3.14,Marriott,23,No,11,No,Business,0
+410,Public Sector,22,,Bachelors Degree,Widowed,0,3.33,IHG,29,Yes,0,Yes,Business,2653.578207
+411,Business,41,,Associate Degree,Divorced,,2.47,IHG,9,No,16,Yes,Business,0
+412,Private Sector,51,,MBA,Widowed,,4,Marriott,26,No,5,No,Medical Tourism,0
+413,Business,35,Female,High School Equivalent,Married,1,2,None,1,No,5,Yes,Leisure Travel,430.2904081
+414,Business,24,Male,Professional,Widowed,1,2.66,Marriott,35,Yes,0,No,Leisure Travel,0
+415,Private Sector,36,Female,Professional,Single,0,3,Expedia,21,No,14,Yes,Business,0.022195087
+416,Public Sector,41,Female,Associate Degree,Married,,3.58,Expedia,36,No,19,Yes,Business,3568.335433
+417,Private Sector,42,Female,Masters Degree,Widowed,2,2.73,IHG,22,No,20,Yes,Leisure Travel,7576.250867
+418,Public Sector,,Male,Technical/Occupational Certificate,Divorced,0,3.48,None,1,No,10,Yes,Business,0
+419,Private Sector,49,Female,High School Equivalent,Married,,3.59,IHG,4,No,14,No,Business,0
+420,Business,43,Female,High School Equivalent,Married,4,2.61,Marriott,48,Yes,0,No,Medical Tourism,0
+421,Business,30,Female,Associate Degree,Widowed,0,2.42,Marriott,9,No,16,No,Leisure Travel,0
+422,Business,,Female,High School Equivalent,Single,0,1.78,IHG,10,No,12,Yes,Business,2142.826741
+423,Public Sector,24,,Doctorate,Divorced,,2.89,IHG,9,Yes,0,No,Medical Tourism,0
+424,Private Sector,38,,MBA,Divorced,,2.31,None,4,Yes,0,Yes,Business,669.3721202
+425,Private Sector,36,Female,MBA,Married,,3.49,IHG,,No,3,No,Business,3.552278215
+426,Public Sector,,Female,Bachelors Degree,Married,,2.49,Marriott,24,Yes,0,No,Business,1520.960474
+427,Public Sector,45,Male,Associate Degree,Divorced,1,3.21,Marriott,,No,2,No,Leisure Travel,521.6255701
+428,Business,,Female,Bachelors Degree,Divorced,,3.04,Discovery,30,Yes,0,No,Business,1439.235471
+429,,,Male,High School Equivalent,Single,0,3.33,Jumeirah,25,No,16,Yes,Medical Tourism,523.4306681
+430,Business,,Female,High School Equivalent,Single,0,3.02,None,46,No,2,Yes,Business,21.11344219
+431,Public Sector,47,Female,High School Equivalent,Divorced,1,2.5,IHG,7,No,19,No,Business,40.69008964
+432,Public Sector,49,,Associate Degree,Married,1,2.35,None,10,No,11,Yes,Medical Tourism,16.84191288
+433,Business,,Male,High School Equivalent,Widowed,,2.43,Hilton,40,No,19,Yes,Leisure Travel,201.8221115
+434,,50,Female,High School Equivalent,Married,1,2.3,IHG,26,Yes,0,Yes,Business,0
+435,Self-Employed,,,Bachelors Degree,Divorced,1,2.74,None,21,No,20,Yes,Leisure Travel,121.0010781
+436,Public Sector,56,,Bachelors Degree,Single,,2.76,IHG,43,No,3,No,Medical Tourism,0
+437,Private Sector,,Male,High School Equivalent,Single,,3.01,Marriott,11,No,19,No,Business,0
+438,Private Sector,42,,High School Equivalent,Married,1,3.51,IHG,31,Yes,0,No,Medical Tourism,0
+439,Public Sector,,Male,High School Equivalent,Married,1,3.22,IHG,18,Yes,0,Yes,Business,0.144666073
+440,Private Sector,50,Female,High School Equivalent,Single,,2.89,Marriott,32,No,11,No,Business,0
+441,Private Sector,60,,Bachelors Degree,Widowed,,2.69,None,41,No,17,No,Medical Tourism,0
+442,Private Sector,,,Bachelors Degree,Married,1,2.75,IHG,40,No,6,Yes,Business,0
+443,Self-Employed,49,Female,MBA,Single,0,2.58,IHG,15,Yes,0,Yes,Leisure Travel,2572.953397
+444,Private Sector,52,Male,Associate Degree,Married,1,3.39,IHG,12,No,18,No,Medical Tourism,5.977559443
+445,Private Sector,,Female,High School Equivalent,Single,,3.07,Expedia,24,Yes,0,Yes,Business,0
+446,Private Sector,45,Male,MBA,Divorced,1,2.84,None,26,No,8,Yes,Leisure Travel,0
+447,Private Sector,,Female,Associate Degree,Divorced,,3.03,IHG,15,No,14,No,Leisure Travel,0
+448,Business,50,Female,Professional,Married,1,2.36,Jumeirah,13,Yes,0,Yes,Business,3455.858305
+449,Private Sector,24,,Technical/Occupational Certificate,Single,,2.78,IHG,35,Yes,0,Yes,Leisure Travel,63.81454659
+450,Business,28,Female,MBA,Single,0,3.34,Expedia,19,Yes,0,No,Leisure Travel,0
+451,,,,Bachelors Degree,Married,,3.24,IHG,29,No,9,Yes,Leisure Travel,0.210581582
+452,Public Sector,,,Bachelors Degree,Married,0,3.38,Marriott,28,No,11,Yes,Leisure Travel,0
+453,Self-Employed,,Male,Associate Degree,Married,3,2.84,Expedia,29,No,8,Yes,Business,0
+454,Private Sector,27,Female,High School Equivalent,Married,0,3.02,Hilton,,Yes,0,No,Leisure Travel,1.544398844
+455,Business,29,Female,Bachelors Degree,Married,0,2.51,Marriott,42,No,14,No,Medical Tourism,167.1135844
+456,Business,45,Male,Professional,Divorced,0,2.46,IHG,12,No,6,Yes,Medical Tourism,0
+457,Public Sector,,Male,MBA,Single,0,3,IHG,41,No,20,No,Leisure Travel,0.134527927
+458,Private Sector,,Female,High School Equivalent,Single,,2.36,IHG,1,No,13,Yes,Business,0
+459,Self-Employed,43,,Masters Degree,Widowed,0,4,Marriott,47,No,12,Yes,Leisure Travel,0.009946037
+460,Public Sector,,,High School Equivalent,Married,1,3.03,IHG,39,No,13,Yes,Leisure Travel,0
+461,Business,27,Male,High School Equivalent,Single,0,2.17,Marriott,9,No,13,Yes,Business,0
+462,Business,43,Male,High School Equivalent,Single,0,3.83,IHG,16,No,7,No,Business,2.347691079
+463,Public Sector,,,MBA,Single,0,3.49,IHG,42,Yes,0,Yes,Leisure Travel,0
+464,Business,,,Masters Degree,Widowed,,2.97,Expedia,11,No,2,No,Medical Tourism,0
+465,Private Sector,31,Female,High School Equivalent,Single,0,3.05,Jumeirah,6,No,2,Yes,Medical Tourism,0
+466,Private Sector,50,Female,High School Equivalent,Married,,2.6,Marriott,38,No,5,Yes,Business,0
+467,Public Sector,,,Associate Degree,Married,,3.16,Marriott,5,No,10,Yes,Leisure Travel,0
+468,Business,27,Female,MBA,Divorced,3,3.32,None,49,Yes,0,No,Leisure Travel,0.013187455
+469,Business,44,Male,High School Equivalent,Single,,1.44,Marriott,9,No,11,No,Medical Tourism,1.175094164
+470,Self-Employed,53,,Bachelors Degree,Widowed,1,2.94,Discovery,21,No,7,No,Leisure Travel,10440.65135
+471,Private Sector,26,Female,Doctorate,Single,0,2.71,Expedia,17,No,5,Yes,Business,299.2756838
+472,Private Sector,35,Female,Associate Degree,Divorced,,2.52,IHG,39,Yes,0,No,Business,0
+473,Private Sector,,Female,Bachelors Degree,Single,,3.3,Hilton,11,No,1,Yes,Business,715.4437787
+474,Private Sector,,,Bachelors Degree,Married,0,2.4,IHG,47,No,2,Yes,Leisure Travel,0.000361744
+475,Business,,Male,MBA,Married,,2.5,Marriott,15,No,16,Yes,Medical Tourism,0
+476,Private Sector,,,MBA,Single,0,2.72,IHG,42,Yes,0,No,Medical Tourism,4459.307236
+477,Business,45,Male,MBA,Single,0,3.23,IHG,42,No,15,Yes,Business,26517.28481
+478,Business,50,Female,MBA,Single,0,2.42,None,29,No,10,Yes,Leisure Travel,0
+479,Private Sector,31,,Professional,Divorced,0,2.47,Marriott,37,No,3,No,Business,5087.25269
+480,Private Sector,19,Female,MBA,Divorced,3,3.26,IHG,42,No,9,No,Leisure Travel,4.206843411
+481,Private Sector,,,High School Equivalent,Married,1,2.82,IHG,37,No,4,No,Medical Tourism,1.805116843
+482,Private Sector,51,Male,Bachelors Degree,Widowed,1,2.45,Discovery,27,No,19,Yes,Leisure Travel,8764.971334
+483,Private Sector,,,MBA,Single,0,2.93,IHG,19,No,4,Yes,Leisure Travel,0.007035162
+484,Private Sector,56,Female,Bachelors Degree,Single,0,2.41,Marriott,34,No,12,No,Leisure Travel,167.3064377
+485,Business,,Female,Doctorate,Single,,2.82,Marriott,2,No,20,Yes,Leisure Travel,72.14650293
+486,Private Sector,,Female,Bachelors Degree,Single,,2.98,Marriott,34,No,3,No,Leisure Travel,0
+487,Private Sector,49,Male,Bachelors Degree,Married,,2.52,None,4,No,6,Yes,Business,4766.992106
+488,Business,51,,MBA,Divorced,,2.95,Expedia,,Yes,0,No,Leisure Travel,0
+489,Business,43,Female,Doctorate,Single,0,2.28,Marriott,34,No,17,Yes,Leisure Travel,2439.311065
+490,Private Sector,43,Female,High School Equivalent,Divorced,,3.73,Discovery,,No,8,Yes,Business,202.4511978
+491,Private Sector,,Female,Bachelors Degree,Single,0,3.05,Marriott,16,Yes,0,Yes,Medical Tourism,2794.979211
+492,Business,31,Female,High School Equivalent,Single,,3.06,Discovery,2,No,13,No,Business,8246.03596
+493,Business,,Male,MBA,Divorced,,2.62,Hilton,12,No,5,No,Business,0
+494,Private Sector,,Male,High School Equivalent,Married,,2.65,None,2,No,16,No,Medical Tourism,0
+495,Self-Employed,,Male,High School Equivalent,Divorced,0,2.84,None,26,No,12,No,Medical Tourism,1553.338071
+496,Self-Employed,,Male,MBA,Single,0,2.81,None,22,Yes,0,No,Medical Tourism,8314.120255
+497,Public Sector,,Female,Doctorate,Single,0,3.5,Marriott,48,No,18,No,Leisure Travel,0
+498,Private Sector,,Male,High School Equivalent,Single,0,2.67,Marriott,,Yes,0,No,Leisure Travel,6126.951945
+499,Private Sector,,Female,High School Equivalent,Divorced,,3.17,Marriott,28,No,10,No,Leisure Travel,0
+500,Private Sector,,,MBA,Single,,3.12,Marriott,45,No,9,Yes,Business,332.4589009
+501,Business,,Male,High School Equivalent,Married,1,3.09,IHG,44,No,17,Yes,Medical Tourism,3066.982298
+502,Business,31,Male,High School Equivalent,Divorced,1,2.51,IHG,47,Yes,0,Yes,Medical Tourism,4134.041242
+503,Public Sector,,,High School Equivalent,Single,0,2.15,None,,No,18,No,Leisure Travel,1831.211023
+504,Public Sector,,Male,Bachelors Degree,Married,,2.24,None,17,No,4,Yes,Leisure Travel,0.125746886
+505,Public Sector,45,,Doctorate,Single,0,2.9,Marriott,10,No,16,Yes,Medical Tourism,15754.3219
+506,Private Sector,34,,Associate Degree,Single,,1.47,None,24,Yes,0,No,Leisure Travel,0
+507,Business,60,,Doctorate,Single,0,2.94,Marriott,20,No,14,No,Business,0
+508,Public Sector,,Female,Associate Degree,Married,1,2.61,None,25,No,17,No,Leisure Travel,0
+509,Private Sector,24,Male,Associate Degree,Married,,3,IHG,22,Yes,0,No,Business,29.8210258
+510,Private Sector,44,Female,MBA,Divorced,1,2.9,IHG,6,Yes,0,Yes,Leisure Travel,0
+511,Private Sector,,Female,High School Equivalent,Married,,2.31,Discovery,45,No,7,No,Medical Tourism,0
+512,Business,,,Bachelors Degree,Widowed,,2.4,Marriott,2,No,20,No,Leisure Travel,0
+513,Private Sector,48,Male,MBA,Divorced,,2.7,Marriott,23,Yes,0,Yes,Medical Tourism,0
+514,,45,Female,MBA,Divorced,0,2.03,IHG,12,No,7,No,Leisure Travel,9899.187377
+515,Private Sector,27,Female,High School Equivalent,Single,,3.55,IHG,42,Yes,0,No,Medical Tourism,0
+516,Public Sector,37,,High School Equivalent,Divorced,1,2.89,IHG,32,Yes,0,No,Leisure Travel,0
+517,,,Female,High School Equivalent,Single,0,3.38,IHG,,No,12,No,Business,0
+518,Private Sector,39,Male,MBA,Married,,2.91,Marriott,33,No,3,No,Business,6042.940219
+519,Private Sector,,Male,High School Equivalent,Single,,3.39,Marriott,32,No,16,Yes,Leisure Travel,0
+520,Business,,,High School Equivalent,Single,0,3.55,Jumeirah,6,Yes,0,Yes,Business,6.797353927
+521,Private Sector,32,Female,High School Equivalent,Divorced,0,2.6,Hilton,19,No,17,No,Business,0
+522,Business,43,Female,MBA,Widowed,1,3.81,IHG,16,No,9,No,Business,0
+523,Business,,,High School Equivalent,Divorced,,2.76,Marriott,6,No,20,Yes,Business,212.7966662
+524,Self-Employed,,Female,Bachelors Degree,Single,,3.51,Marriott,24,No,10,Yes,Medical Tourism,0
+525,Business,,Female,Technical/Occupational Certificate,Divorced,1,2.83,Marriott,,No,3,Yes,Medical Tourism,2161.761402
+526,,,Male,High School Equivalent,Single,0,1.97,Discovery,,No,2,No,Leisure Travel,0
+527,Self-Employed,58,Male,Professional,Divorced,3,3.01,Discovery,19,No,4,No,Medical Tourism,2558.353671
+528,Public Sector,,Female,MBA,Single,,2.58,Marriott,43,No,14,Yes,Medical Tourism,265.2097666
+529,Private Sector,18,,High School Equivalent,Widowed,1,2.48,Marriott,,No,13,No,Business,3601.484735
+530,Private Sector,,Female,MBA,Divorced,,3.23,Hilton,48,Yes,0,No,Business,4400.455238
+531,Business,,,High School Equivalent,Widowed,,2.89,None,21,No,10,Yes,Medical Tourism,0
+532,Public Sector,,Male,High School Equivalent,Single,0,2.34,None,4,No,18,No,Leisure Travel,0
+533,Business,45,Female,Bachelors Degree,Divorced,,2.66,IHG,26,Yes,0,No,Medical Tourism,0
+534,Private Sector,,Female,High School Equivalent,Married,,3.51,None,18,No,16,No,Business,0
+535,Private Sector,56,Female,High School Equivalent,Single,,3.39,IHG,9,Yes,0,Yes,Medical Tourism,0
+536,Private Sector,59,,Professional,Single,0,2.69,IHG,8,Yes,0,No,Business,0
+537,Private Sector,,Female,High School Equivalent,Single,,2.74,Jumeirah,27,Yes,0,Yes,Leisure Travel,0
+538,Private Sector,,Female,Technical/Occupational Certificate,Married,1,2.42,IHG,35,No,10,Yes,Leisure Travel,666.415012
+539,Public Sector,36,Female,High School Equivalent,Married,0,2.64,IHG,40,No,1,Yes,Leisure Travel,0
+540,Business,,,Masters Degree,Divorced,,2.42,IHG,38,No,4,Yes,Leisure Travel,0
+541,Business,34,Male,High School Equivalent,Single,0,1.91,None,27,Yes,0,Yes,Leisure Travel,0
+542,Private Sector,,,High School Equivalent,Married,0,2.62,Marriott,1,No,18,Yes,Medical Tourism,43.64817084
+543,Business,48,,Professional,Divorced,,2.57,Discovery,,No,16,No,Medical Tourism,0
+544,Self-Employed,50,Female,MBA,Married,,3.56,Marriott,48,No,3,Yes,Business,0.000565113
+545,Self-Employed,,Female,Bachelors Degree,Divorced,1,3.24,Discovery,37,Yes,0,No,Business,1753.33831
+546,Public Sector,45,Male,Bachelors Degree,Widowed,0,3.81,Marriott,26,No,15,Yes,Leisure Travel,0.000116524
+547,Business,26,Male,High School Equivalent,Single,,2.6,Marriott,47,Yes,0,Yes,Leisure Travel,0
+548,Private Sector,,,High School Equivalent,Single,,3.04,None,40,No,17,No,Leisure Travel,0
+549,Public Sector,55,Male,High School Equivalent,Single,,2.93,IHG,2,No,5,Yes,Leisure Travel,0
+550,Public Sector,49,,Bachelors Degree,Married,,2.73,Hilton,11,No,10,No,Medical Tourism,0
+551,Business,38,,Bachelors Degree,Single,0,3.11,Marriott,43,Yes,0,No,Leisure Travel,45985.06599
+552,Public Sector,24,Female,High School Equivalent,Married,3,2.3,Marriott,26,No,10,Yes,Business,5301.625534
+553,Self-Employed,25,Male,Associate Degree,Single,,2.97,Marriott,1,No,2,No,Business,0
+554,Private Sector,50,Male,Professional,Divorced,0,2.17,Expedia,,Yes,0,Yes,Medical Tourism,0.002222593
+555,Private Sector,,Female,Bachelors Degree,Married,,2.99,Hilton,43,No,17,No,Medical Tourism,0
+556,Business,53,Female,High School Equivalent,Divorced,4,3.52,IHG,38,No,20,Yes,Business,0
+557,Private Sector,49,Female,Masters Degree,Divorced,,2.05,None,42,Yes,0,Yes,Leisure Travel,2012.925067
+558,Private Sector,,Female,High School Equivalent,Widowed,,2.49,IHG,5,No,16,Yes,Leisure Travel,7773.870054
+559,Business,51,Female,Bachelors Degree,Divorced,1,3.12,None,44,No,8,No,Leisure Travel,0
+560,Business,49,Female,High School Equivalent,Divorced,,3.06,Marriott,12,No,17,Yes,Business,868.943095
+561,Private Sector,18,,MBA,Divorced,1,3.17,Marriott,45,No,14,Yes,Leisure Travel,0
+562,Business,30,Female,MBA,Married,1,2.64,Hilton,29,No,16,No,Leisure Travel,0
+563,Private Sector,,,MBA,Single,,2.63,Marriott,49,No,5,Yes,Medical Tourism,660.9212659
+564,Private Sector,39,Female,Associate Degree,Divorced,,3.38,None,22,No,12,No,Business,0
+565,,58,Male,High School Equivalent,Divorced,,3.33,Expedia,,No,19,No,Medical Tourism,0
+566,Self-Employed,,Male,Masters Degree,Married,,3.54,Marriott,35,Yes,0,Yes,Leisure Travel,560.1483527
+567,Private Sector,36,Male,Associate Degree,Married,,2.54,Jumeirah,27,No,16,No,Medical Tourism,0
+568,Private Sector,39,Female,MBA,Single,0,2.77,Expedia,13,No,11,No,Medical Tourism,0
+569,Private Sector,,Female,High School Equivalent,Married,,2.39,IHG,34,Yes,0,Yes,Leisure Travel,0
+570,Public Sector,,Female,Professional,Divorced,1,3.31,Hilton,16,No,20,Yes,Business,2647.221017
+571,Private Sector,,Male,High School Equivalent,Married,1,2.67,IHG,22,No,14,Yes,Business,2645.813057
+572,Private Sector,,Female,MBA,Married,,2.8,Discovery,45,No,12,No,Medical Tourism,0
+573,Private Sector,34,,Associate Degree,Married,,2.51,Marriott,39,No,18,Yes,Business,0
+574,Business,,Male,Professional,Single,0,2.84,None,45,No,14,No,Leisure Travel,19665.34927
+575,Business,51,,High School Equivalent,Single,,2.99,IHG,24,Yes,0,No,Medical Tourism,0
+576,Private Sector,20,Female,High School Equivalent,Married,,2.95,Expedia,43,No,9,Yes,Leisure Travel,0
+577,Private Sector,44,Female,MBA,Married,1,2.26,Marriott,4,Yes,0,No,Medical Tourism,521.0519687
+578,Self-Employed,,Female,Masters Degree,Single,,3.25,IHG,29,No,3,Yes,Medical Tourism,568.9070651
+579,Business,39,Female,High School Equivalent,Divorced,1,3.14,None,1,No,18,No,Business,0
+580,Public Sector,,,High School Equivalent,Married,1,3.52,IHG,15,No,9,Yes,Medical Tourism,0.000185693
+581,Business,51,Female,MBA,Married,1,2.94,None,8,No,8,Yes,Medical Tourism,253.1878194
+582,Private Sector,20,,MBA,Single,,2.44,IHG,26,No,9,Yes,Medical Tourism,0
+583,,,Female,Bachelors Degree,Widowed,3,2.8,None,10,Yes,0,Yes,Medical Tourism,762.1061679
+584,Business,,Male,High School Equivalent,Single,,3.49,IHG,35,No,18,Yes,Business,1084.953634
+585,Private Sector,,Female,High School Equivalent,Married,,3.52,Marriott,10,Yes,0,No,Medical Tourism,0
+586,Business,45,Male,High School Equivalent,Married,1,2.59,IHG,39,No,18,Yes,Leisure Travel,0
+587,Private Sector,43,,High School Equivalent,Single,0,4,Hilton,32,Yes,0,Yes,Leisure Travel,0
+588,Public Sector,58,Female,High School Equivalent,Widowed,,2.32,Discovery,,Yes,0,No,Leisure Travel,0.056371999
+589,Private Sector,40,Male,Masters Degree,Single,0,3.19,Discovery,39,Yes,0,Yes,Medical Tourism,0
+590,Private Sector,45,,Bachelors Degree,Married,,2.5,Marriott,8,No,16,No,Medical Tourism,17.91762691
+591,Self-Employed,30,Male,Bachelors Degree,Married,1,3.71,Marriott,21,Yes,0,Yes,Leisure Travel,2061.199675
+592,Private Sector,,Male,MBA,Widowed,1,3.18,IHG,2,Yes,0,Yes,Leisure Travel,0
+593,Public Sector,39,,Professional,Married,,2.6,Marriott,1,Yes,0,Yes,Medical Tourism,0
+594,Public Sector,,Male,High School Equivalent,Married,,3.44,None,17,No,13,Yes,Business,0
+595,Public Sector,29,,Bachelors Degree,Married,,2.87,Marriott,,No,18,Yes,Business,511.9558433
+596,Business,45,Female,MBA,Divorced,1,2.69,IHG,9,No,10,Yes,Medical Tourism,112.8266895
+597,Private Sector,,Female,Bachelors Degree,Married,2,3.32,None,31,No,1,No,Medical Tourism,154.8456745
+598,Private Sector,57,Female,High School Equivalent,Married,3,2.72,IHG,12,No,9,No,Leisure Travel,0
+599,Private Sector,,Male,Associate Degree,Single,,1.73,IHG,34,Yes,0,Yes,Business,50.36842524
+600,,,,Associate Degree,Married,4,3.32,Marriott,37,No,19,No,Business,2740.16799
+601,Public Sector,37,,Bachelors Degree,Single,0,3.21,IHG,47,Yes,0,Yes,Leisure Travel,2090.816625
+602,,,Female,MBA,Married,1,3.81,Marriott,48,No,18,Yes,Medical Tourism,2872.931528
+603,Self-Employed,,,Bachelors Degree,Divorced,,3.14,Marriott,1,No,8,Yes,Leisure Travel,9817.972969
+604,Private Sector,56,Female,High School Equivalent,Divorced,1,3.52,IHG,14,No,4,Yes,Leisure Travel,0
+605,Private Sector,36,Female,Bachelors Degree,Single,0,2.02,IHG,,No,17,No,Leisure Travel,0
+606,Self-Employed,27,Female,Masters Degree,Divorced,,2.06,IHG,19,No,6,No,Leisure Travel,0
+607,Private Sector,,,MBA,Married,3,2.5,Discovery,6,Yes,0,Yes,Business,0
+608,Business,,Female,Associate Degree,Married,,3.47,IHG,22,No,13,No,Business,0
+609,Business,54,Female,Bachelors Degree,Married,,2.83,IHG,2,No,12,No,Medical Tourism,1706.614244
+610,Private Sector,42,Male,High School Equivalent,Single,0,3.11,Discovery,5,No,20,No,Medical Tourism,0
+611,Business,,Female,Bachelors Degree,Single,,1.75,Discovery,24,No,20,Yes,Medical Tourism,0
+612,Public Sector,21,Male,Associate Degree,Single,,2.37,IHG,38,No,10,No,Business,11683.62977
+613,Business,40,,High School Equivalent,Married,3,2.77,Expedia,47,No,10,No,Business,1322.961439
+614,Private Sector,,Male,Bachelors Degree,Married,2,2.77,IHG,,No,4,Yes,Medical Tourism,12267.99678
+615,Private Sector,21,Male,Associate Degree,Married,0,2.34,IHG,8,No,9,Yes,Business,21.61470203
+616,Public Sector,23,Female,Bachelors Degree,Married,1,2.25,IHG,17,No,9,Yes,Business,2358.404765
+617,Public Sector,31,Female,MBA,Married,1,2.57,Marriott,2,No,4,No,Leisure Travel,150.6355489
+618,Public Sector,53,Male,Masters Degree,Single,0,3.44,Expedia,40,Yes,0,No,Business,2429.447526
+619,Self-Employed,,Female,High School Equivalent,Single,0,2.63,Marriott,,No,8,No,Leisure Travel,212.0324229
+620,Private Sector,42,,High School Equivalent,Married,1,2.28,Jumeirah,34,Yes,0,Yes,Leisure Travel,0.110320942
+621,Private Sector,35,Female,Bachelors Degree,Divorced,1,3.03,None,29,Yes,0,No,Business,0.732465455
+622,Private Sector,,,High School Equivalent,Married,1,2.55,Marriott,21,Yes,0,Yes,Business,0
+623,Private Sector,,,Associate Degree,Single,,2.8,Marriott,10,No,17,No,Leisure Travel,4770.071477
+624,Private Sector,21,,Bachelors Degree,Single,,1.88,Discovery,28,Yes,0,Yes,Medical Tourism,1516.090829
+625,Business,60,Female,Associate Degree,Married,,2.31,Hilton,43,No,5,No,Medical Tourism,0
+626,Private Sector,,,Bachelors Degree,Single,0,3.21,None,10,No,12,Yes,Leisure Travel,0
+627,Public Sector,,,High School Equivalent,Married,,3.69,Jumeirah,8,No,18,No,Leisure Travel,0
+628,Public Sector,,,Bachelors Degree,Married,,3.53,Marriott,28,No,20,Yes,Business,0.224462056
+629,Private Sector,34,Male,MBA,Married,0,3.71,IHG,11,Yes,0,No,Business,0
+630,Business,53,Male,Bachelors Degree,Single,,3.47,Jumeirah,27,No,5,Yes,Medical Tourism,0
+631,Private Sector,33,Male,Bachelors Degree,Divorced,1,2.49,Marriott,36,No,8,Yes,Leisure Travel,0
+632,Public Sector,53,Male,High School Equivalent,Married,3,2.76,Discovery,46,No,10,No,Medical Tourism,0
+633,Business,32,,Bachelors Degree,Single,,2.88,IHG,25,No,16,No,Business,0.003733867
+634,Self-Employed,26,Female,Doctorate,Single,,3.13,Discovery,,No,4,No,Leisure Travel,0
+635,Self-Employed,55,Female,Masters Degree,Divorced,,3.38,None,,Yes,0,Yes,Business,0.002071661
+636,Private Sector,,Male,Professional,Single,0,2.49,None,41,No,12,Yes,Business,6284.914125
+637,Business,44,,Bachelors Degree,Married,1,3.03,IHG,,Yes,0,Yes,Leisure Travel,8879.003671
+638,Private Sector,49,Male,Bachelors Degree,Married,1,2.54,IHG,18,No,7,No,Business,28.96783033
+639,Business,24,,Bachelors Degree,Single,0,2.62,None,6,No,8,Yes,Medical Tourism,0
+640,Private Sector,,Female,High School Equivalent,Divorced,1,3.08,None,35,No,12,No,Medical Tourism,0
+641,Private Sector,57,Female,MBA,Single,,2.63,Marriott,38,Yes,0,Yes,Medical Tourism,279.482727
+642,Business,21,Female,High School Equivalent,Single,0,3.04,IHG,44,No,12,Yes,Leisure Travel,2538.630538
+643,Business,,Female,Masters Degree,Divorced,3,3.19,Marriott,35,No,10,Yes,Business,0
+644,Private Sector,,Female,High School Equivalent,Single,,2.99,IHG,34,No,4,Yes,Business,729.5264988
+645,Private Sector,,,MBA,Married,1,2.17,IHG,32,No,2,Yes,Business,0
+646,Business,58,Female,Professional,Married,1,2.88,None,6,No,13,Yes,Leisure Travel,0.029952801
+647,Private Sector,,Male,Professional,Divorced,1,2.26,Marriott,44,Yes,0,No,Medical Tourism,1927.963413
+648,Private Sector,48,Female,Bachelors Degree,Single,0,3.2,Jumeirah,42,No,8,No,Business,1238.340163
+649,Private Sector,60,Female,Bachelors Degree,Single,,1.94,Discovery,,No,19,No,Medical Tourism,0.195298702
+650,Public Sector,,,Associate Degree,Divorced,1,2.59,IHG,,No,5,No,Leisure Travel,0
+651,Private Sector,24,,High School Equivalent,Married,,3.3,Marriott,29,No,15,Yes,Leisure Travel,282.0754376
+652,Business,44,,Bachelors Degree,Divorced,0,2.54,IHG,47,Yes,0,No,Business,3.88495E-05
+653,Business,39,Male,MBA,Divorced,1,2.94,Expedia,16,Yes,0,Yes,Medical Tourism,70.35586893
+654,Public Sector,50,,MBA,Single,0,3.24,Marriott,15,No,1,No,Business,0
+655,Business,,Female,High School Equivalent,Divorced,,3.11,IHG,45,No,11,Yes,Business,15.19398468
+656,Private Sector,48,,Bachelors Degree,Widowed,,2.69,IHG,10,No,19,Yes,Leisure Travel,910.3936201
+657,Private Sector,28,,Bachelors Degree,Married,,2.8,IHG,10,No,5,Yes,Leisure Travel,0
+658,Private Sector,20,Female,MBA,Married,,2.77,IHG,12,No,18,No,Leisure Travel,0
+659,Private Sector,,Female,High School Equivalent,Married,0,3.7,Discovery,36,No,1,Yes,Medical Tourism,0.996337229
+660,Public Sector,31,Female,MBA,Single,,3.07,IHG,41,No,3,Yes,Business,8479.63535
+661,Business,22,Male,MBA,Widowed,,2.65,Marriott,30,No,6,Yes,Business,0
+662,Private Sector,,Female,Bachelors Degree,Widowed,,2.4,Marriott,19,No,17,Yes,Medical Tourism,0
+663,Business,25,Male,Masters Degree,Married,1,2.9,Marriott,32,Yes,0,Yes,Business,0
+664,Public Sector,,Male,Masters Degree,Married,1,2.54,IHG,44,No,9,No,Leisure Travel,0
+665,Self-Employed,58,Female,High School Equivalent,Married,,2.12,Marriott,,Yes,0,No,Leisure Travel,2069.995443
+666,Private Sector,23,Female,High School Equivalent,Widowed,,2.61,IHG,22,No,13,No,Business,247.2746689
+667,Self-Employed,52,Female,Associate Degree,Married,2,2.98,IHG,39,No,1,Yes,Medical Tourism,52368.15467
+668,Business,,Female,High School Equivalent,Widowed,1,2.63,Marriott,21,Yes,0,No,Medical Tourism,0
+669,,,Female,MBA,Single,0,3.11,IHG,41,No,13,Yes,Medical Tourism,0
+670,Business,57,Female,MBA,Divorced,1,2.27,Discovery,35,Yes,0,Yes,Leisure Travel,0
+671,Public Sector,30,,Technical/Occupational Certificate,Married,1,2.44,Expedia,49,No,8,No,Business,7608.431949
+672,Business,54,Female,Associate Degree,Divorced,,2.9,IHG,39,Yes,0,No,Business,1153.441075
+673,Public Sector,,Female,High School Equivalent,Divorced,,2.82,Hilton,15,No,1,Yes,Leisure Travel,264.4386018
+674,Private Sector,19,Male,High School Equivalent,Married,,3.11,IHG,48,Yes,0,No,Business,949.1051658
+675,Private Sector,22,Female,Bachelors Degree,Single,0,3.09,Marriott,44,No,14,No,Medical Tourism,0
+676,Business,18,Male,Bachelors Degree,Divorced,1,2.89,IHG,,No,16,Yes,Business,283.4324531
+677,Business,27,Female,Professional,Married,,2.19,Marriott,15,Yes,0,No,Leisure Travel,5221.58167
+678,Business,,,Doctorate,Divorced,1,3.86,None,25,No,18,No,Business,43.40756855
+679,Private Sector,56,Female,Associate Degree,Divorced,,2.6,None,23,No,20,Yes,Leisure Travel,12.1158736
+680,Self-Employed,,,High School Equivalent,Married,0,3.5,IHG,15,Yes,0,Yes,Medical Tourism,478.531599
+681,Private Sector,,,Technical/Occupational Certificate,Married,1,3.62,IHG,,No,5,Yes,Business,421.6780921
+682,Private Sector,25,Female,Technical/Occupational Certificate,Married,1,2.42,Marriott,9,Yes,0,No,Medical Tourism,0
+683,Public Sector,,,MBA,Married,,2.17,IHG,33,Yes,0,No,Medical Tourism,2270.25097
+684,Public Sector,,Female,Professional,Single,0,2.79,Marriott,46,No,6,No,Business,21.38919744
+685,Private Sector,,Female,High School Equivalent,Single,0,2.76,IHG,18,No,11,Yes,Business,0
+686,Public Sector,28,,Associate Degree,Married,,3.29,IHG,2,Yes,0,No,Medical Tourism,0
+687,Private Sector,,,Doctorate,Divorced,,2.74,Marriott,30,No,14,Yes,Leisure Travel,11342.58321
+688,Public Sector,,,Associate Degree,Married,1,2.43,IHG,41,No,1,Yes,Medical Tourism,0
+689,Public Sector,,Female,Bachelors Degree,Married,,3.25,Jumeirah,45,Yes,0,No,Medical Tourism,304.7847369
+690,Self-Employed,,Male,Masters Degree,Married,,2.77,IHG,38,Yes,0,No,Business,0
+691,Self-Employed,60,,Bachelors Degree,Divorced,3,3.05,Marriott,43,Yes,0,Yes,Business,0.001356627
+692,Private Sector,29,Female,Doctorate,Married,,2.63,IHG,33,No,4,No,Leisure Travel,5.860414214
+693,,,,Professional,Single,,3.43,IHG,3,Yes,0,Yes,Business,0
+694,Private Sector,47,Male,High School Equivalent,Divorced,,3.09,IHG,49,Yes,0,Yes,Medical Tourism,0
+695,,43,Female,Bachelors Degree,Single,,3.19,Jumeirah,5,No,14,No,Business,148.448373
+696,Private Sector,,Female,High School Equivalent,Married,,2.11,IHG,35,Yes,0,Yes,Leisure Travel,0
+697,Self-Employed,59,,Masters Degree,Single,0,2.49,Discovery,29,No,6,No,Business,0
+698,Business,,Female,Bachelors Degree,Married,0,2.65,Hilton,7,No,5,No,Medical Tourism,516.7123732
+699,Private Sector,30,Female,Bachelors Degree,Married,1,3.97,None,21,Yes,0,No,Business,38.08545486
+700,Private Sector,32,Male,Bachelors Degree,Married,1,3.36,IHG,10,No,11,No,Business,2188.424733
+701,Business,21,Male,Technical/Occupational Certificate,Single,,3.14,IHG,43,Yes,0,Yes,Medical Tourism,0.475508331
+702,Public Sector,22,,MBA,Divorced,,2.75,IHG,21,No,4,Yes,Business,3165.359386
+703,Private Sector,28,Female,Professional,Single,,3.47,Hilton,22,No,19,No,Medical Tourism,0
+704,Private Sector,29,Female,MBA,Married,,1.58,IHG,7,No,1,Yes,Business,0
+705,Private Sector,,,High School Equivalent,Widowed,,2.36,None,10,Yes,0,No,Leisure Travel,0.000300113
+706,Private Sector,26,Male,Associate Degree,Divorced,1,2.22,Discovery,45,Yes,0,No,Leisure Travel,16713.08022
+707,Private Sector,,Female,Professional,Divorced,,3.29,None,45,No,20,Yes,Leisure Travel,14.20889606
+708,Self-Employed,40,Female,Associate Degree,Married,,2.16,None,,No,7,No,Business,0
+709,Business,37,Male,High School Equivalent,Married,,2.77,IHG,,No,6,Yes,Medical Tourism,0
+710,Public Sector,55,Male,Professional,Single,0,3.31,Hilton,37,No,2,Yes,Business,0
+711,Business,,Female,High School Equivalent,Single,,2.91,IHG,21,Yes,0,No,Business,76.11921312
+712,Private Sector,,Female,High School Equivalent,Widowed,1,2.84,Marriott,16,Yes,0,Yes,Leisure Travel,0
+713,Public Sector,,Female,Bachelors Degree,Married,,3.16,Discovery,1,Yes,0,No,Leisure Travel,47.24356979
+714,Private Sector,42,,Professional,Married,1,3.1,Expedia,35,No,11,No,Leisure Travel,0
+715,Private Sector,,Female,MBA,Single,0,2.27,IHG,3,Yes,0,No,Business,0
+716,Private Sector,,,Technical/Occupational Certificate,Widowed,1,2.35,None,,No,14,No,Business,8.48783E-06
+717,Business,47,Female,Associate Degree,Widowed,,2.54,Jumeirah,,Yes,0,No,Business,0
+718,Private Sector,32,Female,Professional,Single,0,3.96,IHG,15,No,13,Yes,Business,0
+719,Business,,,MBA,Married,,2.98,Marriott,13,No,11,No,Medical Tourism,20909.40209
+720,Private Sector,,Male,MBA,Single,0,3.27,IHG,31,No,17,No,Business,5429.407732
+721,Business,,Male,Bachelors Degree,Married,1,3.77,IHG,16,No,1,No,Leisure Travel,9675.904375
+722,Public Sector,43,Female,High School Equivalent,Single,0,2.5,None,2,No,15,No,Medical Tourism,2718.298557
+723,,59,Male,Associate Degree,Widowed,,2.92,IHG,6,No,12,No,Business,8372.697828
+724,Business,34,,High School Equivalent,Married,0,1.49,IHG,4,No,11,Yes,Business,0
+725,Private Sector,,Female,Associate Degree,Divorced,1,2.78,Marriott,23,No,7,No,Business,5033.115816
+726,Public Sector,19,Male,Associate Degree,Married,1,2.97,Jumeirah,14,No,11,No,Business,0
+727,Business,39,,High School Equivalent,Single,,3.19,Expedia,41,No,4,Yes,Leisure Travel,0
+728,Private Sector,,,MBA,Divorced,,2.52,Expedia,4,No,16,No,Leisure Travel,0
+729,,48,Male,High School Equivalent,Divorced,,3.36,IHG,24,Yes,0,Yes,Medical Tourism,0
+730,Private Sector,37,Male,High School Equivalent,Divorced,1,3.22,IHG,2,No,12,Yes,Business,0
+731,Business,29,Female,Bachelors Degree,Single,0,2.99,None,40,No,8,No,Leisure Travel,2147.845624
+732,Business,60,Male,Technical/Occupational Certificate,Single,0,2.53,None,43,No,1,Yes,Business,0
+733,Business,58,Female,Associate Degree,Single,,3.64,Marriott,17,Yes,0,Yes,Business,0
+734,Business,22,,Bachelors Degree,Single,0,2.96,Marriott,31,Yes,0,No,Leisure Travel,5677.101902
+735,Private Sector,,Male,Associate Degree,Married,0,3.41,IHG,4,No,18,Yes,Leisure Travel,0
+736,Business,34,,High School Equivalent,Single,,2.84,Jumeirah,10,No,5,Yes,Leisure Travel,4470.658608
+737,Private Sector,60,Male,MBA,Single,,3.29,Expedia,12,No,17,No,Leisure Travel,0
+738,Business,,Male,Bachelors Degree,Single,0,2.46,IHG,42,Yes,0,Yes,Leisure Travel,505.7426024
+739,Business,18,Female,High School Equivalent,Divorced,,2.7,None,24,No,7,No,Business,0
+740,Private Sector,,Female,MBA,Single,,3.63,IHG,0,No,16,Yes,Medical Tourism,0
+741,Private Sector,34,Male,Bachelors Degree,Married,,2.95,IHG,34,Yes,0,Yes,Medical Tourism,0
+742,Private Sector,,Male,Bachelors Degree,Single,,2.56,Marriott,26,No,2,No,Business,3809.950348
+743,Private Sector,51,Female,Associate Degree,Widowed,,2.8,Expedia,46,Yes,0,Yes,Leisure Travel,0.580794047
+744,Business,31,,Masters Degree,Divorced,,3.58,Marriott,,No,19,No,Business,0
+745,Business,,Female,High School Equivalent,Divorced,1,3.33,IHG,35,No,10,Yes,Medical Tourism,22.02039574
+746,Public Sector,46,Male,Associate Degree,Married,1,2.72,IHG,44,No,3,Yes,Medical Tourism,7.945759234
+747,Private Sector,36,,Associate Degree,Married,1,2.31,Marriott,36,No,12,Yes,Business,0
+748,Public Sector,,,High School Equivalent,Married,1,2.37,IHG,12,No,5,No,Medical Tourism,284.0030068
+749,Private Sector,49,Male,High School Equivalent,Single,,2.91,Marriott,13,No,9,No,Leisure Travel,9158.946766
+750,Business,,,High School Equivalent,Married,1,3.05,IHG,31,No,6,No,Business,742.3417432
+751,Self-Employed,,Male,MBA,Married,3,2.9,Discovery,3,No,20,No,Medical Tourism,1052.621667
+752,Public Sector,30,Female,Masters Degree,Single,,4,IHG,23,No,20,Yes,Leisure Travel,5691.566945
+753,Business,23,Female,MBA,Married,3,2.75,IHG,22,No,7,Yes,Leisure Travel,0
+754,Private Sector,44,Female,MBA,Widowed,,3,None,44,No,4,No,Medical Tourism,0
+755,Public Sector,,Female,MBA,Divorced,1,3.56,IHG,44,Yes,0,Yes,Medical Tourism,0
+756,Public Sector,,,High School Equivalent,Single,0,3.23,IHG,39,No,8,No,Business,0
+757,Private Sector,42,Female,Associate Degree,Married,,2.53,None,,No,10,No,Medical Tourism,1461.735878
+758,Business,26,,High School Equivalent,Divorced,2,2.76,Marriott,46,No,6,No,Business,864.4504448
+759,Public Sector,,Female,Bachelors Degree,Married,0,3.74,Discovery,14,No,9,Yes,Business,414.3325809
+760,Business,,Female,Associate Degree,Married,0,4,None,33,No,12,Yes,Business,0.000189832
+761,Private Sector,43,Male,Associate Degree,Married,1,2.95,IHG,24,No,12,Yes,Business,15.18602386
+762,Private Sector,,,MBA,Divorced,,2.01,Marriott,,No,15,Yes,Medical Tourism,259.439653
+763,Business,,Female,Bachelors Degree,Single,,2.6,IHG,39,Yes,0,No,Leisure Travel,14.80512934
+764,Private Sector,,,MBA,Married,1,2.54,None,31,No,7,No,Leisure Travel,165.5346541
+765,Self-Employed,60,Male,High School Equivalent,Married,1,2.56,Expedia,6,No,9,Yes,Medical Tourism,0
+766,Private Sector,20,,Associate Degree,Single,,2.49,None,30,No,13,No,Leisure Travel,67.86563063
+767,Public Sector,,Male,Masters Degree,Single,,3.08,Marriott,1,No,4,Yes,Medical Tourism,1.14731E-05
+768,Public Sector,44,Female,High School Equivalent,Single,,2.29,Discovery,7,No,18,Yes,Leisure Travel,0.001920459
+769,Business,49,Female,Professional,Widowed,0,3.53,IHG,21,No,15,Yes,Business,10.07492035
+770,Private Sector,,Female,Masters Degree,Married,1,3.68,Discovery,,No,4,Yes,Medical Tourism,3572.273144
+771,Public Sector,21,Female,Associate Degree,Widowed,1,2.55,Marriott,0,No,2,Yes,Medical Tourism,0
+772,Private Sector,,Female,High School Equivalent,Single,0,3.9,Marriott,47,No,14,No,Leisure Travel,0
+773,Private Sector,20,,Associate Degree,Single,0,2.61,Marriott,9,No,14,No,Medical Tourism,2112.39675
+774,Business,,Male,High School Equivalent,Married,,2.58,Marriott,49,No,8,Yes,Medical Tourism,3013.092318
+775,Business,31,Female,MBA,Divorced,,2.78,IHG,11,Yes,0,Yes,Business,0
+776,Private Sector,,,MBA,Single,,2.54,Marriott,38,No,1,Yes,Medical Tourism,133.8709336
+777,,45,Female,High School Equivalent,Divorced,1,3.31,None,,No,18,No,Business,612.867018
+778,Private Sector,40,Female,Bachelors Degree,Married,,3.36,IHG,26,Yes,0,Yes,Medical Tourism,2954.620156
+779,Business,40,,Professional,Married,1,3.15,Marriott,48,Yes,0,No,Business,0
+780,Business,49,Female,High School Equivalent,Divorced,4,2.73,IHG,19,No,12,No,Business,0
+781,,,,Bachelors Degree,Widowed,1,3.02,IHG,32,Yes,0,Yes,Business,1533.767847
+782,,43,Male,High School Equivalent,Widowed,1,2.66,Discovery,49,No,12,Yes,Medical Tourism,9268.694183
+783,,27,Female,MBA,Married,,3.11,Discovery,31,Yes,0,Yes,Leisure Travel,0
+784,Public Sector,56,Female,MBA,Divorced,1,2.36,IHG,40,Yes,0,Yes,Leisure Travel,2048.591698
+785,Business,22,Female,MBA,Widowed,1,3.8,IHG,,No,7,No,Business,2485.990789
+786,Private Sector,43,,Bachelors Degree,Married,,3.56,Marriott,29,No,5,Yes,Medical Tourism,2909.832159
+787,Business,,,MBA,Divorced,1,3.65,Marriott,4,No,8,No,Leisure Travel,0
+788,Private Sector,50,Male,MBA,Married,0,2.17,IHG,5,No,19,No,Business,1.977898872
+789,Public Sector,,Female,Professional,Single,,3.58,Marriott,49,No,16,Yes,Medical Tourism,0
+790,Public Sector,43,Female,Bachelors Degree,Single,,2.59,Discovery,32,No,4,Yes,Medical Tourism,0
+791,Private Sector,23,Male,Technical/Occupational Certificate,Married,3,2.9,Marriott,43,No,3,Yes,Medical Tourism,0
+792,Public Sector,51,Male,High School Equivalent,Married,4,3.2,None,7,No,18,Yes,Business,5836.093252
+793,Self-Employed,49,,High School Equivalent,Married,4,3.27,Hilton,40,No,15,No,Leisure Travel,0
+794,Business,49,,MBA,Divorced,0,3.27,IHG,2,Yes,0,No,Business,0
+795,Business,46,Male,High School Equivalent,Married,1,3.17,None,,Yes,0,No,Leisure Travel,0
+796,Business,,,High School Equivalent,Single,,2.44,IHG,10,No,4,No,Medical Tourism,753.999841
+797,Business,,Female,High School Equivalent,Married,,2.96,IHG,,No,3,Yes,Business,0
+798,Private Sector,,Female,MBA,Married,,2.97,IHG,6,No,8,Yes,Business,82.32139578
+799,Business,,Female,Technical/Occupational Certificate,Married,3,2.59,Marriott,9,No,1,No,Medical Tourism,4673.951309
+800,Business,23,Male,MBA,Single,0,3.79,None,,Yes,0,Yes,Business,2317.28405
+801,Private Sector,,Female,Bachelors Degree,Widowed,3,2.86,IHG,8,No,13,Yes,Leisure Travel,0
+802,Public Sector,,,Bachelors Degree,Divorced,,3.77,IHG,,Yes,0,No,Leisure Travel,0
+803,Business,47,,Professional,Married,1,2.85,Marriott,8,No,5,No,Business,0.383213642
+804,Self-Employed,,Male,MBA,Divorced,1,3.35,Marriott,25,No,6,No,Business,80.59903927
+805,Public Sector,,Male,MBA,Single,,2.8,Jumeirah,28,No,13,No,Medical Tourism,25.54361101
+806,Private Sector,,Male,High School Equivalent,Single,0,2.44,IHG,11,No,8,No,Medical Tourism,0
+807,Private Sector,59,Female,Bachelors Degree,Single,,2.58,Marriott,41,No,12,Yes,Leisure Travel,657.7588333
+808,Public Sector,49,Male,High School Equivalent,Married,,3.47,IHG,15,Yes,0,No,Business,0
+809,Private Sector,,Female,High School Equivalent,Married,,3.54,IHG,24,Yes,0,Yes,Business,0.19092924
+810,Private Sector,52,Male,Bachelors Degree,Widowed,,3.16,Marriott,,Yes,0,No,Medical Tourism,4.292853053
+811,Public Sector,40,Male,Bachelors Degree,Single,,3.28,Marriott,24,Yes,0,No,Business,0
+812,Private Sector,22,Male,Bachelors Degree,Married,4,2.41,Discovery,18,No,19,No,Leisure Travel,0
+813,Private Sector,20,Male,High School Equivalent,Married,,3.11,IHG,1,No,7,Yes,Business,840.9401583
+814,Self-Employed,19,,MBA,Single,,3.04,Hilton,25,No,17,No,Leisure Travel,0
+815,Private Sector,43,Female,Professional,Married,,3.51,Marriott,29,Yes,0,No,Medical Tourism,2132.543743
+816,Private Sector,,,Associate Degree,Widowed,,2.86,IHG,11,Yes,0,No,Business,18192.32785
+817,Public Sector,27,,MBA,Married,,3.4,Marriott,,No,9,Yes,Medical Tourism,0.060115936
+818,Private Sector,38,Male,MBA,Widowed,,2.3,Marriott,36,No,16,Yes,Medical Tourism,0.071895737
+819,Business,23,Male,Bachelors Degree,Married,1,2.94,Expedia,,No,14,Yes,Medical Tourism,0
+820,Private Sector,33,Female,MBA,Married,1,2.73,IHG,46,Yes,0,No,Medical Tourism,0
+821,Private Sector,35,,Masters Degree,Widowed,1,3.13,Marriott,23,No,10,Yes,Business,0
+822,Private Sector,32,Male,MBA,Divorced,,2.86,Marriott,23,No,6,Yes,Business,3061.69404
+823,Business,,Female,Masters Degree,Married,0,2.29,IHG,29,No,2,Yes,Business,8.064062479
+824,Public Sector,18,Female,Masters Degree,Widowed,1,2.12,None,24,No,3,No,Leisure Travel,6.51134E-05
+825,Public Sector,,,High School Equivalent,Single,0,2.53,IHG,38,Yes,0,Yes,Leisure Travel,102.6739766
+826,Business,48,Female,High School Equivalent,Married,,3.65,IHG,31,No,20,Yes,Business,16540.67334
+827,Business,35,Female,Professional,Widowed,1,2.92,IHG,34,No,20,Yes,Leisure Travel,0
+828,Private Sector,,Female,MBA,Married,0,2.09,Expedia,,No,14,No,Medical Tourism,10510.56265
+829,Self-Employed,49,Male,MBA,Married,,2.86,Discovery,39,No,19,No,Medical Tourism,11.44894765
+830,Self-Employed,,,High School Equivalent,Single,0,2.8,IHG,,No,7,Yes,Medical Tourism,7.117282957
+831,Business,24,Male,Associate Degree,Married,3,3.47,None,30,No,8,Yes,Business,47.56232258
+832,Business,,Male,MBA,Single,,3.74,IHG,,No,16,Yes,Medical Tourism,696.8777272
+833,Private Sector,,Female,High School Equivalent,Single,,1.66,Marriott,3,No,10,Yes,Medical Tourism,0
+834,Public Sector,38,Male,MBA,Divorced,,2.92,None,10,No,8,No,Leisure Travel,0
+835,Business,55,,Masters Degree,Divorced,,2.89,Discovery,45,Yes,0,Yes,Leisure Travel,238.2943463
+836,Private Sector,,Male,MBA,Married,3,1.7,None,37,No,7,No,Medical Tourism,0
+837,Public Sector,40,Female,Doctorate,Single,,3.02,None,12,No,16,No,Business,1863.693124
+838,Business,,Female,Doctorate,Widowed,,2.92,Jumeirah,12,Yes,0,Yes,Leisure Travel,2990.737593
+839,Private Sector,23,Female,Technical/Occupational Certificate,Married,1,2.8,Marriott,4,Yes,0,No,Leisure Travel,0
+840,,36,Female,Bachelors Degree,Single,0,2.94,Marriott,,No,17,Yes,Leisure Travel,1008.103484
+841,Private Sector,,Male,High School Equivalent,Single,,2.91,Marriott,41,No,12,Yes,Business,0.167286923
+842,Business,,,Associate Degree,Married,,3.29,IHG,8,No,20,Yes,Business,0
+843,Private Sector,,,Associate Degree,Divorced,1,3.25,IHG,47,No,13,No,Business,8919.546341
+844,Self-Employed,,Male,Bachelors Degree,Divorced,2,2.98,Marriott,6,Yes,0,Yes,Medical Tourism,17257.16563
+845,Private Sector,,Male,High School Equivalent,Single,,2.92,None,3,No,8,Yes,Leisure Travel,0.000777815
+846,Private Sector,,,Professional,Single,,2.72,Jumeirah,13,No,11,Yes,Leisure Travel,806.1123001
+847,Private Sector,60,Female,Bachelors Degree,Single,0,1.97,Discovery,18,No,19,Yes,Medical Tourism,0
+848,Business,,Female,High School Equivalent,Married,,3.18,Jumeirah,9,No,11,Yes,Leisure Travel,0
+849,Private Sector,,Female,Professional,Married,3,2.61,None,7,No,7,Yes,Leisure Travel,0
+850,Private Sector,,Male,Bachelors Degree,Single,0,2.67,IHG,8,No,18,No,Medical Tourism,0
+851,Business,,Female,MBA,Widowed,1,3,None,6,Yes,0,Yes,Medical Tourism,0
+852,Private Sector,48,Female,MBA,Single,0,2.53,Marriott,46,No,1,Yes,Medical Tourism,0
+853,Public Sector,55,,High School Equivalent,Single,0,3.72,Marriott,40,No,20,Yes,Business,0
+854,Business,24,Female,Professional,Married,,3.06,Expedia,38,No,3,Yes,Leisure Travel,0
+855,Business,38,,High School Equivalent,Divorced,,3.4,IHG,43,No,2,Yes,Leisure Travel,0
+856,Business,,,High School Equivalent,Married,,3.54,Marriott,47,No,19,Yes,Leisure Travel,783.1560059
+857,Business,,,Bachelors Degree,Single,,2.82,IHG,28,No,16,No,Leisure Travel,12527.93241
+858,Private Sector,29,Female,High School Equivalent,Married,1,2.78,None,37,No,3,Yes,Business,0
+859,Private Sector,31,,High School Equivalent,Divorced,,2.56,IHG,30,Yes,0,No,Business,0
+860,Business,57,,High School Equivalent,Married,1,3.61,IHG,35,Yes,0,No,Medical Tourism,0
+861,Self-Employed,,Female,Bachelors Degree,Married,,2.64,Marriott,1,No,1,No,Leisure Travel,3643.269885
+862,Private Sector,,,MBA,Divorced,1,3.5,Jumeirah,6,No,5,Yes,Leisure Travel,0
+863,Private Sector,56,Female,Bachelors Degree,Widowed,1,2.2,Jumeirah,46,Yes,0,No,Leisure Travel,0
+864,Public Sector,29,Male,Professional,Married,1,2.81,None,48,Yes,0,No,Medical Tourism,0
+865,Private Sector,21,Female,Associate Degree,Single,,2.61,Marriott,39,Yes,0,Yes,Medical Tourism,64.79757718
+866,Private Sector,,Female,MBA,Divorced,,3.18,None,8,Yes,0,Yes,Medical Tourism,0
+867,Business,,Female,High School Equivalent,Widowed,0,2.2,Marriott,13,No,11,Yes,Medical Tourism,42.54773348
+868,Public Sector,22,Female,MBA,Single,0,2.61,Marriott,49,No,8,Yes,Leisure Travel,7086.681267
+869,Public Sector,,Female,High School Equivalent,Single,,3.52,None,20,Yes,0,Yes,Leisure Travel,6864.270697
+870,Business,25,,High School Equivalent,Single,,3.34,Expedia,49,No,12,Yes,Leisure Travel,0
+871,Public Sector,55,Female,Associate Degree,Divorced,,2.04,None,34,Yes,0,No,Leisure Travel,1.32702E-05
+872,Private Sector,60,Female,MBA,Married,,1.88,Hilton,29,No,18,Yes,Business,0
+873,Private Sector,54,,High School Equivalent,Widowed,,3.51,IHG,0,Yes,0,Yes,Medical Tourism,2.651325171
+874,Self-Employed,53,Female,Masters Degree,Single,,2.76,Expedia,,No,15,No,Leisure Travel,7221.029386
+875,Private Sector,47,Male,High School Equivalent,Married,0,2.25,Marriott,5,No,3,Yes,Leisure Travel,2106.347262
+876,Private Sector,39,,Doctorate,Single,,2.71,Marriott,1,No,9,No,Medical Tourism,0.049573452
+877,Private Sector,,,High School Equivalent,Married,1,4,Marriott,41,Yes,0,No,Business,4147.616368
+878,Private Sector,,,Professional,Married,2,3.51,None,39,Yes,0,No,Medical Tourism,0
+879,Private Sector,,,High School Equivalent,Divorced,1,2.02,Expedia,5,No,6,Yes,Business,3347.880522
+880,Private Sector,18,,High School Equivalent,Single,0,2.17,Discovery,13,No,2,Yes,Leisure Travel,0.141882803
+881,Private Sector,40,Female,Associate Degree,Married,,2.42,IHG,32,No,17,No,Leisure Travel,4061.426009
+882,Business,50,Female,Associate Degree,Single,,2.68,Marriott,47,Yes,0,Yes,Business,0
+883,,,,Doctorate,Divorced,1,3.65,Marriott,3,Yes,0,No,Leisure Travel,0
+884,Private Sector,,,Bachelors Degree,Married,0,2.69,IHG,34,Yes,0,No,Leisure Travel,2819.479151
+885,Business,18,Male,MBA,Divorced,3,2.89,IHG,32,No,12,Yes,Business,0
+886,Private Sector,,Female,High School Equivalent,Divorced,,3.21,IHG,46,No,7,No,Medical Tourism,0
+887,Business,,Female,Masters Degree,Divorced,3,2.48,IHG,12,No,10,Yes,Leisure Travel,862.609667
+888,Business,50,Female,High School Equivalent,Married,1,1.75,Marriott,14,No,2,Yes,Business,0
+889,Private Sector,,,MBA,Divorced,,2.25,None,26,Yes,0,Yes,Leisure Travel,0
+890,Public Sector,29,Male,High School Equivalent,Married,,2.54,None,39,No,17,No,Business,0
+891,Business,,Female,High School Equivalent,Married,,2.93,IHG,40,Yes,0,No,Business,97.03636305
+892,Private Sector,43,Male,High School Equivalent,Married,,2.72,None,,No,14,No,Leisure Travel,1220.299888
+893,Private Sector,29,Male,MBA,Single,0,2.86,None,42,No,15,Yes,Business,1385.328391
+894,Business,,Female,High School Equivalent,Married,1,2.27,Jumeirah,28,Yes,0,Yes,Leisure Travel,0
+895,Public Sector,,Female,Doctorate,Married,,2.75,None,3,Yes,0,Yes,Business,0
+896,Business,,Female,High School Equivalent,Single,,2.77,Marriott,5,Yes,0,No,Medical Tourism,0
+897,Private Sector,,Female,Bachelors Degree,Single,0,3.07,IHG,,No,5,No,Business,2895.841049
+898,Private Sector,,Male,Associate Degree,Single,,3.12,IHG,6,No,3,No,Leisure Travel,13058.1178
+899,Private Sector,,Male,MBA,Widowed,3,1.77,IHG,26,No,6,No,Medical Tourism,0.319664788
+900,Business,33,Male,High School Equivalent,Married,1,3.15,IHG,14,Yes,0,No,Leisure Travel,0.025603307
+901,Private Sector,48,Male,Associate Degree,Single,0,3.5,IHG,3,No,7,Yes,Leisure Travel,6.19479E-06
+902,Public Sector,55,Male,Masters Degree,Married,0,3.86,Marriott,24,No,2,No,Leisure Travel,1233.643139
+903,Private Sector,21,,Bachelors Degree,Widowed,0,2.6,Discovery,21,Yes,0,No,Business,2405.109036
+904,Business,,Male,High School Equivalent,Single,,3.17,IHG,,Yes,0,Yes,Medical Tourism,0
+905,Public Sector,,Female,Doctorate,Single,0,3.61,None,7,No,19,Yes,Business,0
+906,Public Sector,29,Female,MBA,Married,0,2.89,Discovery,14,Yes,0,No,Leisure Travel,1994.008062
+907,Public Sector,,Male,Professional,Widowed,1,1.65,Marriott,13,No,17,Yes,Medical Tourism,12.55878886
+908,Public Sector,,Male,High School Equivalent,Married,,2.64,Marriott,36,No,13,No,Business,0
+909,Public Sector,,Female,Masters Degree,Divorced,,2.66,Marriott,9,No,10,No,Medical Tourism,0.266110352
+910,Private Sector,,Female,Bachelors Degree,Single,,2.7,Marriott,11,No,14,No,Business,9.361053045
+911,Business,45,Male,High School Equivalent,Married,,2.73,Marriott,40,No,20,No,Leisure Travel,11360.54374
+912,Business,31,Male,Bachelors Degree,Married,,3.21,Discovery,,No,10,No,Leisure Travel,22.56242555
+913,Business,,,MBA,Married,1,3.45,Marriott,31,No,12,Yes,Leisure Travel,0
+914,Private Sector,,Female,Associate Degree,Married,,2.96,Expedia,35,No,2,Yes,Leisure Travel,0
+915,Business,,,MBA,Married,0,2.6,Marriott,15,No,19,Yes,Medical Tourism,6202.064769
+916,Self-Employed,23,Male,MBA,Widowed,1,3.59,Discovery,41,No,4,No,Business,0
+917,Private Sector,,,High School Equivalent,Married,1,2.78,IHG,9,No,7,No,Medical Tourism,65.418586
+918,Private Sector,35,Male,High School Equivalent,Widowed,1,3.02,Marriott,40,No,13,Yes,Business,6501.528498
+919,Business,,Male,MBA,Single,0,3.72,Marriott,19,No,17,Yes,Medical Tourism,0
+920,Business,33,Female,MBA,Divorced,,3.36,Discovery,26,No,16,Yes,Business,1437.505511
+921,Private Sector,,Female,High School Equivalent,Divorced,,2.2,Marriott,1,Yes,0,No,Leisure Travel,0
+922,Business,48,Male,MBA,Married,0,2.89,Jumeirah,27,Yes,0,Yes,Leisure Travel,31322.09922
+923,Private Sector,57,Male,MBA,Single,0,3.1,IHG,13,Yes,0,No,Business,0
+924,Public Sector,53,Male,MBA,Divorced,1,3.26,Discovery,8,No,1,No,Medical Tourism,6.274364097
+925,,40,Male,Bachelors Degree,Single,,3.19,IHG,12,No,17,Yes,Leisure Travel,3263.250178
+926,Business,,,High School Equivalent,Single,,2.51,IHG,22,No,2,Yes,Medical Tourism,1.018880197
+927,Public Sector,,,Bachelors Degree,Single,0,2.06,IHG,0,No,16,Yes,Medical Tourism,13418.548
+928,Private Sector,,Female,Associate Degree,Married,,2.62,Expedia,38,No,7,No,Medical Tourism,0
+929,Self-Employed,24,,Associate Degree,Divorced,1,3.07,IHG,24,Yes,0,Yes,Leisure Travel,0
+930,Business,59,Female,Bachelors Degree,Single,,2.21,Hilton,11,No,7,Yes,Leisure Travel,1534.826656
+931,Business,26,Female,High School Equivalent,Married,0,3.3,IHG,8,No,15,No,Business,10131.99705
+932,Business,26,,Associate Degree,Divorced,1,3.06,None,32,No,11,Yes,Medical Tourism,0
+933,,,Male,MBA,Single,,3.81,Marriott,41,Yes,0,Yes,Business,0
+934,Business,30,Male,Professional,Married,3,3.55,None,,No,20,No,Leisure Travel,0
+935,Business,,,Masters Degree,Divorced,1,3.17,Marriott,,No,19,Yes,Leisure Travel,0
+936,Private Sector,43,Female,MBA,Married,1,3.08,None,6,No,18,Yes,Medical Tourism,1877.777522
+937,Private Sector,27,Female,High School Equivalent,Widowed,,3.47,Hilton,32,No,3,No,Medical Tourism,0.315244823
+938,Private Sector,,,High School Equivalent,Married,1,2.59,Marriott,34,Yes,0,Yes,Business,1507.872189
+939,Private Sector,27,Male,Technical/Occupational Certificate,Single,0,2.69,IHG,46,Yes,0,No,Business,0
+940,Public Sector,,,Professional,Married,1,3.08,Marriott,19,No,10,Yes,Leisure Travel,14965.81681
+941,Private Sector,40,Male,Associate Degree,Married,,2.66,Expedia,23,No,17,No,Business,0
+942,Public Sector,46,Male,Associate Degree,Single,0,2.58,IHG,,No,14,Yes,Leisure Travel,0
+943,Self-Employed,,,MBA,Single,0,1.89,Discovery,46,Yes,0,No,Leisure Travel,2093.539366
+944,Private Sector,,Male,MBA,Single,,3.1,IHG,,No,6,No,Business,7.00108E-06
+945,Private Sector,,,Professional,Single,,2.87,Discovery,8,Yes,0,No,Medical Tourism,0
+946,Public Sector,,Male,High School Equivalent,Married,1,3.3,IHG,47,Yes,0,Yes,Business,5702.966096
+947,Private Sector,25,Female,Bachelors Degree,Single,0,2.61,None,10,No,16,Yes,Leisure Travel,0
+948,Private Sector,44,,High School Equivalent,Divorced,0,3.16,None,21,Yes,0,Yes,Medical Tourism,3.58671E-06
+949,Business,34,Female,High School Equivalent,Married,1,2.22,Jumeirah,46,No,19,Yes,Business,142.2642439
+950,Public Sector,53,,High School Equivalent,Divorced,1,3.33,Marriott,9,No,13,Yes,Medical Tourism,1070.915415
+951,Business,47,Male,Professional,Married,3,1.51,IHG,,No,16,Yes,Business,0
+952,Public Sector,56,Male,Bachelors Degree,Married,,2.2,Marriott,31,No,6,No,Business,200.3477497
+953,Private Sector,,Male,Professional,Divorced,1,2.48,Marriott,26,Yes,0,Yes,Medical Tourism,0
+954,Self-Employed,,Female,Associate Degree,Married,1,2.71,IHG,25,No,13,Yes,Medical Tourism,0
+955,Public Sector,36,Female,Masters Degree,Divorced,1,4,IHG,30,No,1,No,Leisure Travel,0
+956,Private Sector,,Male,High School Equivalent,Single,0,2.37,IHG,16,No,15,No,Medical Tourism,0
+957,Business,,Male,High School Equivalent,Married,,2.26,Hilton,7,Yes,0,Yes,Leisure Travel,0
+958,Private Sector,,Female,High School Equivalent,Married,0,3.14,IHG,11,No,10,No,Leisure Travel,5480.043759
+959,Private Sector,,,Bachelors Degree,Divorced,,2.38,IHG,33,No,17,No,Medical Tourism,0
+960,Business,,,High School Equivalent,Divorced,,2.59,IHG,20,No,12,Yes,Business,0
+961,Self-Employed,,Male,MBA,Married,,3.61,None,23,No,12,No,Leisure Travel,1877.753308
+962,Private Sector,45,Male,Bachelors Degree,Single,,3.52,IHG,18,No,11,No,Business,0
+963,Private Sector,40,,High School Equivalent,Divorced,,3.27,IHG,16,No,19,Yes,Medical Tourism,813.1101561
+964,Private Sector,26,Male,MBA,Widowed,,3.28,IHG,15,Yes,0,No,Leisure Travel,7703.055814
+965,Private Sector,41,Female,Professional,Married,1,2.67,Hilton,45,No,5,Yes,Medical Tourism,0
+966,Business,38,,High School Equivalent,Widowed,,2.61,Marriott,19,No,5,No,Medical Tourism,0
+967,Private Sector,42,Male,Associate Degree,Widowed,1,2.44,IHG,29,No,8,Yes,Leisure Travel,0
+968,Business,22,Female,MBA,Single,,2.61,Jumeirah,34,Yes,0,No,Medical Tourism,1061.451253
+969,Private Sector,41,Female,High School Equivalent,Married,1,2.72,Discovery,30,No,6,Yes,Business,0
+970,,31,Male,MBA,Single,,2.03,Marriott,43,No,19,No,Business,1079.26603
+971,Self-Employed,28,Female,High School Equivalent,Married,4,2.67,None,45,No,6,Yes,Medical Tourism,0
+972,Business,20,Female,Associate Degree,Widowed,1,2.7,None,36,No,15,No,Business,2.447589875
+973,Private Sector,40,Female,Bachelors Degree,Divorced,1,3.39,Hilton,21,No,1,Yes,Business,0
+974,Business,,,High School Equivalent,Married,,3.89,IHG,,Yes,0,Yes,Business,31235.73792
+975,Private Sector,38,Female,Masters Degree,Widowed,0,3.63,None,29,Yes,0,No,Medical Tourism,0
+976,Private Sector,,Female,High School Equivalent,Married,0,3.28,Marriott,44,No,5,Yes,Medical Tourism,14622.27265
+977,Self-Employed,58,Female,MBA,Married,1,2.65,Jumeirah,25,Yes,0,Yes,Leisure Travel,0
+978,Private Sector,,,Associate Degree,Divorced,,3.3,IHG,6,No,19,No,Medical Tourism,5750.045258
+979,Private Sector,,,High School Equivalent,Married,1,2.33,None,,No,14,No,Business,0
+980,Private Sector,,Female,High School Equivalent,Widowed,1,2.93,IHG,21,Yes,0,No,Business,0
+981,Private Sector,,,Bachelors Degree,Divorced,,3.59,IHG,28,No,2,No,Business,63.28975075
+982,Business,33,Female,MBA,Married,1,2.66,IHG,18,No,12,No,Business,0.053191297
+983,Business,46,Female,MBA,Single,,3.36,Marriott,43,No,18,No,Leisure Travel,4614.467132
+984,Private Sector,,,High School Equivalent,Single,0,2.38,Marriott,,Yes,0,Yes,Business,2195.591
+985,Private Sector,,,Masters Degree,Single,,3.46,Marriott,12,No,9,Yes,Leisure Travel,413.4010344
+986,Business,,Female,MBA,Married,,2.83,IHG,48,No,16,Yes,Business,46.96929281
+987,Private Sector,19,Female,Bachelors Degree,Divorced,3,2.67,Marriott,27,Yes,0,No,Medical Tourism,0
+988,Private Sector,28,Female,High School Equivalent,Widowed,,2.4,IHG,1,No,17,Yes,Medical Tourism,0.000291243
+989,Public Sector,,,MBA,Single,0,2.16,Marriott,37,No,12,No,Leisure Travel,0
+990,Public Sector,,Female,Associate Degree,Widowed,1,2.2,Marriott,,No,16,No,Leisure Travel,81.15933462
+991,Public Sector,55,,Bachelors Degree,Divorced,3,3.66,Discovery,26,No,10,No,Business,528.7936009
+992,Business,,,Associate Degree,Married,3,2.38,Marriott,33,Yes,0,Yes,Medical Tourism,15343.00255
+993,Private Sector,39,Female,High School Equivalent,Married,1,3.19,Jumeirah,27,No,12,Yes,Business,500.7703186
+994,Business,,,MBA,Divorced,2,3.13,Marriott,20,No,6,No,Leisure Travel,0
+995,Self-Employed,,Female,Associate Degree,Single,,3.33,None,33,No,11,No,Medical Tourism,0
+996,Public Sector,38,,Bachelors Degree,Married,3,2.62,IHG,20,Yes,0,No,Medical Tourism,0
+997,Private Sector,,,Bachelors Degree,Divorced,0,1.99,Discovery,26,No,9,No,Leisure Travel,0.14967221
+998,Private Sector,,,Bachelors Degree,Single,,2.05,IHG,25,No,15,No,Leisure Travel,0
+999,Self-Employed,56,Female,Professional,Single,0,2.02,Hilton,13,Yes,0,No,Medical Tourism,0
+1000,Public Sector,35,Male,Associate Degree,Single,0,2.81,IHG,34,No,19,No,Leisure Travel,0
+1001,Business,18,Female,High School Equivalent,Married,1,3.39,IHG,15,Yes,0,Yes,Leisure Travel,0
+1002,Private Sector,,Female,High School Equivalent,Married,4,3.1,Discovery,4,No,16,Yes,Medical Tourism,4233.413881
+1003,Business,59,Female,Doctorate,Widowed,,2.8,Marriott,22,No,15,Yes,Business,15.47710431
+1004,Private Sector,48,,Masters Degree,Divorced,1,3.02,Marriott,25,No,17,No,Medical Tourism,0
+1005,Business,23,Male,High School Equivalent,Married,,3.21,IHG,40,Yes,0,Yes,Leisure Travel,6599.867419
+1006,Self-Employed,23,,MBA,Single,0,3.2,IHG,26,No,10,No,Leisure Travel,0
+1007,Private Sector,23,Male,Bachelors Degree,Single,,1.65,IHG,31,No,4,No,Leisure Travel,33.91935708
+1008,,48,Male,High School Equivalent,Married,,3.79,Marriott,28,No,18,No,Medical Tourism,915.4362062
+1009,Public Sector,,Female,MBA,Single,0,2.22,Discovery,13,No,4,No,Leisure Travel,0
+1010,Private Sector,21,Female,High School Equivalent,Married,4,2.34,Marriott,0,No,4,Yes,Medical Tourism,158.1763907
+1011,Business,30,,Doctorate,Married,,3.47,IHG,35,No,8,Yes,Medical Tourism,0
+1012,Public Sector,49,Female,High School Equivalent,Single,0,2.95,None,15,No,1,Yes,Leisure Travel,12.03647029
+1013,Business,60,Female,MBA,Widowed,,2.29,None,25,No,8,Yes,Medical Tourism,0
+1014,Business,19,Female,Masters Degree,Single,,3.05,Hilton,5,Yes,0,No,Medical Tourism,365.0884161
+1015,,59,,MBA,Divorced,,2.96,Discovery,9,Yes,0,Yes,Medical Tourism,400.8681688
+1016,Private Sector,38,,MBA,Single,0,2.73,IHG,15,No,19,Yes,Medical Tourism,1944.480681
+1017,Private Sector,34,Female,MBA,Widowed,3,3.89,Jumeirah,31,No,5,Yes,Business,0
+1018,Business,46,,Associate Degree,Single,0,3.27,Jumeirah,35,No,9,Yes,Business,0
+1019,Private Sector,30,Male,Associate Degree,Widowed,,3.19,Discovery,45,No,13,No,Leisure Travel,1211.764166
+1020,Private Sector,42,Male,High School Equivalent,Married,1,2.45,IHG,14,No,1,No,Medical Tourism,50.87228391
+1021,Private Sector,,,MBA,Single,0,2.68,IHG,20,No,17,No,Medical Tourism,0
+1022,Private Sector,,Female,High School Equivalent,Married,3,2.67,Marriott,,Yes,0,Yes,Business,0.00071339
+1023,Private Sector,,Male,Associate Degree,Married,1,3.18,IHG,17,No,3,Yes,Business,0
+1024,Private Sector,,Male,High School Equivalent,Married,1,2.48,IHG,0,No,5,No,Leisure Travel,3928.08709
+1025,Private Sector,,,High School Equivalent,Married,0,3.27,None,37,No,10,Yes,Business,0
+1026,Private Sector,,,MBA,Divorced,1,3.66,IHG,22,No,15,No,Leisure Travel,124.0921725
+1027,Private Sector,,,Associate Degree,Married,1,2.54,Jumeirah,30,Yes,0,Yes,Business,0.000234994
+1028,Public Sector,27,Female,High School Equivalent,Single,,2.75,Expedia,24,No,20,No,Medical Tourism,884.5445346
+1029,Public Sector,52,Female,Bachelors Degree,Divorced,1,2.36,IHG,35,No,1,No,Business,0
+1030,Private Sector,58,,Bachelors Degree,Divorced,,3.73,Expedia,44,Yes,0,No,Business,0
+1031,Private Sector,42,Female,Professional,Single,,1.93,Discovery,2,Yes,0,No,Business,1088.104401
+1032,Public Sector,,,Associate Degree,Widowed,,2.11,IHG,15,No,2,No,Medical Tourism,0
+1033,Business,,Female,Bachelors Degree,Single,,3.13,None,28,Yes,0,Yes,Medical Tourism,2.39486841
+1034,Public Sector,,Female,High School Equivalent,Divorced,,2.76,IHG,24,Yes,0,Yes,Leisure Travel,0
+1035,Public Sector,47,Female,Bachelors Degree,Divorced,1,2.8,Marriott,26,No,5,No,Medical Tourism,138.2398136
+1036,Private Sector,,Female,Professional,Divorced,,2.89,None,19,No,18,No,Medical Tourism,36.33526632
+1037,Private Sector,,,High School Equivalent,Single,0,3.28,Discovery,8,Yes,0,Yes,Medical Tourism,0
+1038,Private Sector,25,Female,Bachelors Degree,Single,0,2.33,IHG,30,No,17,No,Medical Tourism,0
+1039,Private Sector,,Male,Associate Degree,Married,,2.36,IHG,46,No,9,Yes,Business,18.76224095
+1040,Business,39,Female,Technical/Occupational Certificate,Married,,3.03,Marriott,32,No,6,No,Medical Tourism,4.974502756
+1041,Private Sector,,Female,Associate Degree,Widowed,,2.52,IHG,5,Yes,0,No,Medical Tourism,1504.438637
+1042,Self-Employed,,,Bachelors Degree,Single,,2.94,Marriott,34,Yes,0,No,Leisure Travel,0
+1043,Business,36,Female,MBA,Married,,2.87,IHG,4,Yes,0,No,Medical Tourism,3.641950601
+1044,Private Sector,42,Female,MBA,Single,0,3.25,Expedia,47,No,7,Yes,Medical Tourism,9.26923E-06
+1045,Private Sector,28,Female,Associate Degree,Single,0,2.76,IHG,36,No,13,No,Business,1419.885028
+1046,Business,,Male,MBA,Married,1,3.14,Marriott,21,No,15,Yes,Leisure Travel,0
+1047,Private Sector,36,,Bachelors Degree,Divorced,1,2.91,Discovery,9,No,15,No,Medical Tourism,0
+1048,Private Sector,,,MBA,Single,0,1.56,None,28,Yes,0,No,Leisure Travel,0
+1049,Self-Employed,,Female,Bachelors Degree,Married,0,3.35,Expedia,19,No,2,No,Medical Tourism,0
+1050,Business,39,Female,Professional,Divorced,0,3.53,IHG,19,No,8,Yes,Medical Tourism,63.38792686
+1051,Business,,Female,High School Equivalent,Divorced,1,2.68,None,30,No,14,Yes,Medical Tourism,0
+1052,Business,,Male,MBA,Single,0,3.1,Jumeirah,7,No,7,Yes,Medical Tourism,0
+1053,,,,Professional,Single,0,3.06,Hilton,17,No,6,No,Leisure Travel,2952.282568
+1054,Public Sector,56,Female,High School Equivalent,Single,0,3.05,Discovery,18,No,10,No,Business,0
+1055,Public Sector,,Female,Doctorate,Married,4,2.03,IHG,18,No,10,Yes,Business,180.6165669
+1056,Private Sector,56,Female,High School Equivalent,Married,,2.5,IHG,15,Yes,0,No,Medical Tourism,0
+1057,Business,48,,Masters Degree,Single,,2.88,Hilton,31,No,19,Yes,Medical Tourism,0
+1058,Private Sector,55,Male,MBA,Divorced,0,3.32,Hilton,13,Yes,0,No,Business,4813.745404
+1059,Business,45,,High School Equivalent,Married,1,2.69,IHG,35,No,6,Yes,Medical Tourism,11.52491999
+1060,Private Sector,,Male,High School Equivalent,Married,,3.15,IHG,,No,14,No,Leisure Travel,0
+1061,Public Sector,18,,Associate Degree,Widowed,1,2.95,Discovery,,No,5,No,Leisure Travel,90.71263624
+1062,Business,21,Male,High School Equivalent,Married,,2.73,Marriott,,No,9,No,Business,0
+1063,Private Sector,48,Female,High School Equivalent,Single,0,3.15,Expedia,49,No,8,No,Medical Tourism,1.186625654
+1064,Private Sector,27,Male,Doctorate,Single,0,3.74,Expedia,14,No,5,No,Leisure Travel,2229.361352
+1065,Private Sector,25,Female,Associate Degree,Married,0,2.74,Hilton,7,Yes,0,Yes,Leisure Travel,0
+1066,Private Sector,,Female,Associate Degree,Divorced,1,2.59,IHG,28,No,6,Yes,Leisure Travel,1466.441099
+1067,Private Sector,28,Male,MBA,Married,1,2.32,IHG,21,No,9,Yes,Business,18.45911651
+1068,Public Sector,,,Bachelors Degree,Married,,2.58,IHG,,No,1,No,Medical Tourism,464.95044
+1069,Business,,Male,MBA,Single,,3.21,Marriott,49,No,2,Yes,Business,126.9719383
+1070,,30,Female,Masters Degree,Divorced,3,3.18,Marriott,13,No,5,No,Medical Tourism,0
+1071,Private Sector,42,Male,MBA,Married,,4,None,,No,18,Yes,Leisure Travel,3.09314E-05
+1072,Public Sector,,Male,High School Equivalent,Single,0,2,None,27,No,12,No,Business,0
+1073,Business,22,Male,Bachelors Degree,Single,,3.27,Marriott,7,No,10,Yes,Medical Tourism,2564.124536
+1074,Business,43,Female,Masters Degree,Divorced,,2.94,Marriott,33,No,1,Yes,Leisure Travel,0.014461732
+1075,Private Sector,56,,High School Equivalent,Married,1,2.01,Jumeirah,42,No,7,Yes,Business,0
+1076,Private Sector,41,Female,Bachelors Degree,Married,1,2.85,IHG,4,No,7,Yes,Business,0
+1077,Business,,Male,Masters Degree,Divorced,,2.75,Marriott,2,Yes,0,Yes,Medical Tourism,311.5023151
+1078,Private Sector,,,MBA,Divorced,,3.03,Marriott,7,No,7,Yes,Medical Tourism,3017.31703
+1079,Public Sector,37,Female,Bachelors Degree,Single,,3.02,Hilton,23,No,12,Yes,Leisure Travel,0
+1080,Public Sector,25,Male,Masters Degree,Married,,3.02,IHG,44,No,3,No,Medical Tourism,0.013216948
+1081,,,,MBA,Single,,3.65,Discovery,17,Yes,0,No,Medical Tourism,9559.582862
+1082,Business,,Female,MBA,Widowed,3,3.03,Jumeirah,15,Yes,0,No,Business,0
+1083,Private Sector,,,MBA,Widowed,1,3.43,None,26,No,18,Yes,Medical Tourism,24180.51655
+1084,Private Sector,,,Technical/Occupational Certificate,Single,0,2.32,IHG,38,Yes,0,No,Leisure Travel,99.59512452
+1085,Business,58,Female,MBA,Single,,2.4,Hilton,5,No,15,No,Business,44.97399661
+1086,Business,47,Female,MBA,Married,1,2.59,IHG,24,No,18,No,Leisure Travel,0
+1087,Private Sector,20,Female,Bachelors Degree,Married,1,2.76,Jumeirah,32,No,13,Yes,Medical Tourism,0
+1088,Private Sector,,Female,MBA,Single,0,2.92,Jumeirah,16,No,11,Yes,Medical Tourism,0
+1089,Private Sector,32,Female,Professional,Single,0,2.4,Expedia,47,No,19,Yes,Leisure Travel,0
+1090,Private Sector,,Male,High School Equivalent,Single,0,2.43,Hilton,13,No,18,No,Medical Tourism,3908.689451
+1091,Private Sector,24,Female,Bachelors Degree,Single,,2.6,IHG,18,No,3,No,Medical Tourism,23519.65557
+1092,Private Sector,,Female,High School Equivalent,Married,,3.02,Discovery,38,No,20,No,Leisure Travel,37716.08761
+1093,Private Sector,43,Female,High School Equivalent,Married,1,2.33,Hilton,40,No,14,No,Leisure Travel,1278.267525
+1094,Private Sector,23,Male,MBA,Married,0,3.13,IHG,19,No,16,No,Leisure Travel,0
+1095,Business,,Female,High School Equivalent,Single,,3.46,Marriott,38,No,16,No,Medical Tourism,0.034429861
+1096,Private Sector,,Male,High School Equivalent,Single,,2.42,Expedia,,No,18,Yes,Leisure Travel,0
+1097,Private Sector,46,Male,High School Equivalent,Married,,3.18,Expedia,39,No,14,No,Medical Tourism,4484.042
+1098,Business,21,Female,High School Equivalent,Married,1,1.85,IHG,8,Yes,0,Yes,Medical Tourism,6642.625708
+1099,Private Sector,,Male,Professional,Divorced,1,1.82,IHG,,No,5,Yes,Medical Tourism,5388.00065
+1100,,,Female,High School Equivalent,Widowed,0,2.47,Marriott,48,No,3,No,Leisure Travel,2980.234817
+1101,Business,39,Female,MBA,Divorced,1,3.45,IHG,17,No,10,No,Business,0
+1102,Public Sector,,Female,High School Equivalent,Married,,3.55,IHG,4,No,20,Yes,Business,6436.569988
+1103,Business,36,Female,MBA,Single,,2.54,None,7,Yes,0,No,Business,0
+1104,Business,49,Female,MBA,Single,0,3.02,Hilton,12,No,4,No,Medical Tourism,55.94637829
+1105,Private Sector,53,,MBA,Single,,3.17,Expedia,8,No,3,No,Leisure Travel,0
+1106,Business,,,High School Equivalent,Married,,2.04,IHG,20,No,5,No,Medical Tourism,66.76240308
+1107,Private Sector,,Male,High School Equivalent,Single,0,3.14,Discovery,4,No,12,No,Leisure Travel,8443.702814
+1108,Public Sector,,Female,Bachelors Degree,Married,,2.91,None,40,No,17,No,Business,4.670734406
+1109,Business,,Female,MBA,Divorced,0,2.3,Marriott,39,Yes,0,No,Leisure Travel,4316.849984
+1110,Business,,Female,Associate Degree,Single,0,2.83,Marriott,38,No,10,No,Leisure Travel,668.1419116
+1111,Private Sector,59,,High School Equivalent,Widowed,1,3.44,None,32,Yes,0,Yes,Business,1953.881262
+1112,Business,39,Male,Bachelors Degree,Divorced,,3.27,Discovery,44,No,20,No,Leisure Travel,10703.22876
+1113,Public Sector,40,,Associate Degree,Divorced,1,2.13,IHG,5,Yes,0,Yes,Leisure Travel,24020.28482
+1114,Private Sector,,Male,High School Equivalent,Married,,2.18,Marriott,28,No,11,No,Business,3.997993877
+1115,Private Sector,22,Female,Professional,Divorced,,2.18,Marriott,8,No,10,No,Leisure Travel,0
+1116,Business,19,Female,Bachelors Degree,Divorced,,3.48,Marriott,7,Yes,0,Yes,Business,0
+1117,Private Sector,,,Associate Degree,Divorced,0,2.42,IHG,18,No,6,Yes,Leisure Travel,4698.103464
+1118,Private Sector,50,,MBA,Widowed,,2.9,IHG,39,No,17,No,Business,1148.057481
+1119,Private Sector,58,,Bachelors Degree,Divorced,1,2.72,IHG,,Yes,0,No,Leisure Travel,19.9024879
+1120,Private Sector,38,,High School Equivalent,Married,3,3.05,IHG,36,Yes,0,No,Leisure Travel,1168.53434
+1121,Self-Employed,,,Bachelors Degree,Widowed,1,2.35,IHG,21,No,7,Yes,Business,4944.747431
+1122,Self-Employed,53,,High School Equivalent,Widowed,4,2.87,Marriott,,No,14,No,Leisure Travel,1776.486097
+1123,Self-Employed,,,Associate Degree,Widowed,,3.39,Marriott,25,No,3,No,Business,154.6716173
+1124,Public Sector,36,Female,High School Equivalent,Single,0,3.5,None,22,Yes,0,Yes,Leisure Travel,4.1648E-11
+1125,Self-Employed,,Male,Bachelors Degree,Single,,2.64,IHG,16,No,12,Yes,Leisure Travel,76.58655537
+1126,Self-Employed,,Female,Masters Degree,Divorced,,3.16,Marriott,34,Yes,0,No,Leisure Travel,0
+1127,Public Sector,60,Female,High School Equivalent,Single,0,2.69,IHG,41,No,8,Yes,Medical Tourism,0
+1128,Business,37,Female,Bachelors Degree,Single,0,3.27,Marriott,15,No,1,No,Leisure Travel,9426.463234
+1129,Public Sector,50,Female,Technical/Occupational Certificate,Married,4,2.66,Marriott,23,No,19,No,Leisure Travel,8820.435188
+1130,Business,,Female,High School Equivalent,Married,3,3.78,Marriott,4,Yes,0,No,Leisure Travel,3945.656272
+1131,Public Sector,36,Female,High School Equivalent,Widowed,1,2.81,None,1,Yes,0,No,Medical Tourism,537.247533
+1132,Business,,Female,High School Equivalent,Single,0,2.4,Discovery,2,No,3,Yes,Leisure Travel,0
+1133,Private Sector,,Female,Associate Degree,Divorced,,2.81,IHG,36,Yes,0,Yes,Medical Tourism,475.2248453
+1134,Business,,Female,Associate Degree,Married,0,2.35,Marriott,20,No,6,Yes,Medical Tourism,0
+1135,Private Sector,,Female,High School Equivalent,Widowed,1,2.48,IHG,29,No,4,Yes,Medical Tourism,149.2367487
+1136,Business,,,High School Equivalent,Divorced,0,2.75,Hilton,29,Yes,0,Yes,Business,1.82633E-05
+1137,Private Sector,21,Female,Associate Degree,Single,,3.23,IHG,,Yes,0,No,Business,0
+1138,Public Sector,40,Female,MBA,Single,0,2.67,None,49,Yes,0,No,Medical Tourism,0.041921376
+1139,Business,20,Female,Technical/Occupational Certificate,Married,1,2.78,None,12,No,15,Yes,Medical Tourism,1.48123E-09
+1140,Business,,Male,High School Equivalent,Divorced,1,2.74,None,45,No,3,No,Medical Tourism,0
+1141,Business,35,,Doctorate,Widowed,,2.74,Marriott,,No,18,No,Leisure Travel,10.42196979
+1142,Private Sector,,Male,Associate Degree,Married,,2.46,None,6,No,9,No,Leisure Travel,2412.288178
+1143,Public Sector,59,Female,MBA,Single,0,3.2,None,49,No,14,Yes,Business,145.31838
+1144,Private Sector,50,Male,High School Equivalent,Married,,3.01,IHG,16,No,16,Yes,Leisure Travel,5853.548219
+1145,Business,26,Female,Professional,Single,0,3.12,Marriott,18,Yes,0,Yes,Business,0
+1146,Public Sector,,,Technical/Occupational Certificate,Married,,3.73,None,6,No,18,Yes,Business,772.9240154
+1147,Public Sector,42,Male,MBA,Single,0,3.35,Discovery,16,No,4,No,Medical Tourism,240.3828386
+1148,Private Sector,44,Male,MBA,Married,,2.44,Expedia,47,No,6,No,Leisure Travel,869.4306861
+1149,Self-Employed,,Female,High School Equivalent,Married,,2.1,IHG,35,No,19,No,Medical Tourism,240.4357905
+1150,Public Sector,38,Female,High School Equivalent,Married,,2.76,IHG,25,No,18,No,Business,0
+1151,Public Sector,,Female,Associate Degree,Divorced,,3,IHG,49,No,19,Yes,Medical Tourism,0
+1152,Private Sector,44,,MBA,Single,,3.14,Discovery,35,Yes,0,No,Leisure Travel,0.01972625
+1153,Public Sector,30,,High School Equivalent,Married,1,2.56,Discovery,10,No,4,No,Medical Tourism,0.000575382
+1154,,26,Male,High School Equivalent,Married,3,3.37,None,42,No,17,No,Medical Tourism,9237.521411
+1155,Self-Employed,25,,Bachelors Degree,Single,0,2.87,Expedia,10,Yes,0,Yes,Medical Tourism,14864.54352
+1156,Public Sector,30,Male,High School Equivalent,Divorced,2,2.89,Marriott,46,Yes,0,No,Leisure Travel,0.000358676
+1157,Public Sector,41,Female,Associate Degree,Married,,2.43,Discovery,49,No,16,No,Business,979.3267766
+1158,Business,,Male,MBA,Divorced,1,2.96,IHG,46,Yes,0,Yes,Leisure Travel,0
+1159,Private Sector,55,Female,Associate Degree,Married,,2.85,None,18,No,10,Yes,Business,0
+1160,Business,21,,Professional,Single,0,2.15,None,45,No,6,No,Medical Tourism,10353.47702
+1161,Public Sector,,Male,MBA,Widowed,2,2.63,Hilton,42,No,19,No,Business,0
+1162,Private Sector,42,Female,Bachelors Degree,Divorced,,2.22,None,12,No,2,No,Business,1460.961763
+1163,,,Male,High School Equivalent,Married,,3.95,None,9,No,5,No,Business,0
+1164,Business,22,,Associate Degree,Single,0,2.66,Jumeirah,7,No,16,No,Business,635.721072
+1165,Private Sector,,Female,Professional,Married,,2.33,Discovery,5,Yes,0,No,Leisure Travel,39.85141225
+1166,Public Sector,48,Female,MBA,Divorced,1,2.38,IHG,49,Yes,0,Yes,Business,118.7129765
+1167,Private Sector,,Male,High School Equivalent,Married,1,2.47,Hilton,44,No,6,No,Leisure Travel,0
+1168,Self-Employed,,Female,Bachelors Degree,Married,1,4,Marriott,29,No,17,Yes,Medical Tourism,0
+1169,Private Sector,,Male,High School Equivalent,Married,1,2.58,Marriott,46,Yes,0,Yes,Business,0
+1170,Private Sector,26,Male,High School Equivalent,Married,,3.65,None,32,No,2,Yes,Business,936.447465
+1171,Private Sector,44,Female,High School Equivalent,Divorced,,3.69,IHG,14,Yes,0,No,Medical Tourism,2.931776312
+1172,Public Sector,51,Male,Bachelors Degree,Married,0,2.36,Discovery,28,Yes,0,Yes,Leisure Travel,0
+1173,Public Sector,,Female,MBA,Single,0,3.01,IHG,1,No,8,Yes,Leisure Travel,0
+1174,Public Sector,58,,MBA,Married,1,3.18,IHG,40,No,2,No,Business,0
+1175,,,Female,Bachelors Degree,Married,,2.72,IHG,35,No,17,No,Business,0
+1176,Private Sector,29,,High School Equivalent,Single,0,3.56,Expedia,18,Yes,0,Yes,Leisure Travel,0
+1177,Private Sector,37,Female,Bachelors Degree,Married,1,2.26,Discovery,8,No,7,Yes,Medical Tourism,630.9548361
+1178,Public Sector,,Male,MBA,Single,,2.82,IHG,19,No,19,Yes,Medical Tourism,0
+1179,Private Sector,,,High School Equivalent,Divorced,,3.02,Marriott,20,No,5,Yes,Leisure Travel,0
+1180,Private Sector,32,Female,Bachelors Degree,Single,,1.8,None,,Yes,0,Yes,Leisure Travel,0.66701788
+1181,Private Sector,47,Male,High School Equivalent,Single,0,2.03,Marriott,32,No,4,No,Leisure Travel,0
+1182,Private Sector,,Female,Bachelors Degree,Single,,2.99,None,39,Yes,0,No,Medical Tourism,1393.872102
+1183,Private Sector,,Male,Bachelors Degree,Single,,2.86,None,26,No,6,No,Business,8985.586494
+1184,Private Sector,59,Female,MBA,Divorced,,3.39,IHG,6,Yes,0,No,Medical Tourism,1817.983751
+1185,Private Sector,40,,MBA,Divorced,0,2.51,Discovery,6,No,19,Yes,Leisure Travel,3349.526872
+1186,Self-Employed,57,Female,Associate Degree,Married,2,2.88,Marriott,35,Yes,0,Yes,Leisure Travel,3161.794106
+1187,Private Sector,39,Female,Masters Degree,Single,,2.94,Expedia,49,Yes,0,Yes,Leisure Travel,22496.91552
+1188,Business,,Female,High School Equivalent,Married,,2.89,None,43,No,12,No,Business,0.379378844
+1189,Private Sector,42,Female,High School Equivalent,Married,,2.31,IHG,,No,2,No,Medical Tourism,0
+1190,Private Sector,59,Female,High School Equivalent,Divorced,1,2.33,Discovery,39,Yes,0,No,Business,0
+1191,Business,23,,High School Equivalent,Married,0,2.86,Marriott,49,No,2,No,Business,423.957124
+1192,Public Sector,,,MBA,Widowed,,3.3,None,42,No,8,No,Leisure Travel,1969.018806
+1193,Self-Employed,45,Male,MBA,Married,1,2.86,IHG,6,No,19,Yes,Medical Tourism,0
+1194,Business,20,Female,MBA,Single,0,3.25,IHG,49,Yes,0,Yes,Medical Tourism,3479.8818
+1195,Business,36,,Bachelors Degree,Married,,2.63,IHG,2,No,2,Yes,Medical Tourism,0
+1196,Private Sector,41,Female,High School Equivalent,Married,1,2.28,IHG,25,No,4,Yes,Medical Tourism,0.978424199
+1197,Public Sector,,Male,Associate Degree,Married,,2.63,Marriott,2,No,6,Yes,Business,0
+1198,,58,Male,High School Equivalent,Married,3,3.06,Marriott,18,No,7,No,Business,0
+1199,Self-Employed,,Male,High School Equivalent,Single,0,3.45,Marriott,49,No,4,No,Business,0
+1200,Private Sector,,Male,Bachelors Degree,Married,3,2.21,Marriott,27,No,13,Yes,Business,4.174542348
+1201,Private Sector,,Female,Bachelors Degree,Single,0,2.97,IHG,10,No,4,Yes,Leisure Travel,8708.542808
+1202,Private Sector,,Male,Bachelors Degree,Widowed,,2.33,None,,Yes,0,No,Business,0
+1203,Business,37,Female,Bachelors Degree,Single,0,3.88,IHG,3,No,4,Yes,Leisure Travel,234.9224774
+1204,Private Sector,21,Female,High School Equivalent,Single,,2.9,None,28,No,9,No,Leisure Travel,5196.771436
+1205,Self-Employed,,,High School Equivalent,Divorced,,3.07,IHG,27,No,15,Yes,Medical Tourism,2855.679558
+1206,Private Sector,,Male,Bachelors Degree,Widowed,2,2.51,IHG,23,No,16,Yes,Leisure Travel,0
+1207,Business,25,Female,Bachelors Degree,Single,,3.11,Marriott,5,No,20,No,Leisure Travel,3422.103956
+1208,Public Sector,28,,Technical/Occupational Certificate,Widowed,1,2.9,None,37,No,20,Yes,Business,11147.57849
+1209,Public Sector,,Female,High School Equivalent,Divorced,,2.94,None,42,No,17,Yes,Business,3.470678913
+1210,Public Sector,24,,Bachelors Degree,Single,,2.46,IHG,10,No,5,No,Leisure Travel,9063.376296
+1211,Private Sector,56,Female,Professional,Married,,3.25,Jumeirah,14,No,8,Yes,Leisure Travel,0.249777846
+1212,Private Sector,,Male,High School Equivalent,Single,0,2.62,None,33,No,14,Yes,Medical Tourism,303.8861653
+1213,Business,34,Female,High School Equivalent,Divorced,3,3.16,Marriott,0,No,4,Yes,Business,0
+1214,Business,53,Female,Associate Degree,Married,,2.61,Jumeirah,46,Yes,0,Yes,Medical Tourism,0
+1215,Public Sector,,Female,Associate Degree,Divorced,,1.64,Expedia,23,No,18,No,Leisure Travel,106.3674113
+1216,Private Sector,,Male,Bachelors Degree,Single,0,3.08,Marriott,,No,4,No,Medical Tourism,0
+1217,Public Sector,,Male,Bachelors Degree,Single,0,3.1,IHG,31,No,3,Yes,Business,9539.894509
+1218,Business,52,,Professional,Married,,3.1,IHG,,No,13,Yes,Business,0
+1219,Public Sector,44,Female,High School Equivalent,Married,,2.64,None,14,No,3,Yes,Business,76.51094481
+1220,Private Sector,38,Male,Associate Degree,Married,1,3.07,Marriott,21,No,18,No,Leisure Travel,5.88002E-05
+1221,Private Sector,41,Female,High School Equivalent,Married,1,2.31,IHG,25,No,20,No,Leisure Travel,0
+1222,Business,,Female,Associate Degree,Married,,2.4,IHG,16,No,20,Yes,Business,0
+1223,Public Sector,56,Male,High School Equivalent,Single,0,2.35,Discovery,17,No,18,No,Medical Tourism,0
+1224,Public Sector,,Male,High School Equivalent,Single,,3.3,Marriott,47,No,16,No,Business,3.905060189
+1225,Private Sector,,Male,High School Equivalent,Single,,2.68,Marriott,25,No,14,Yes,Medical Tourism,402.5695288
+1226,,,Female,High School Equivalent,Single,0,3.07,IHG,26,No,12,No,Business,0.008310774
+1227,Business,23,Female,High School Equivalent,Divorced,3,3.3,Discovery,40,No,20,Yes,Medical Tourism,1105.430628
+1228,Private Sector,,,Bachelors Degree,Divorced,1,2.16,Marriott,,Yes,0,No,Medical Tourism,3.4256E-07
+1229,Public Sector,30,,Bachelors Degree,Widowed,,2.6,IHG,2,Yes,0,Yes,Medical Tourism,0
+1230,Private Sector,,,Associate Degree,Divorced,,3.26,IHG,,Yes,0,No,Medical Tourism,14.06151715
+1231,Private Sector,38,Female,High School Equivalent,Married,,2.05,Marriott,17,Yes,0,Yes,Business,0
+1232,Private Sector,,Female,High School Equivalent,Married,1,3.06,Marriott,17,No,18,Yes,Leisure Travel,0
+1233,Self-Employed,,Female,Masters Degree,Married,1,2.68,Discovery,,No,5,No,Medical Tourism,0
+1234,Private Sector,,Female,High School Equivalent,Divorced,,2.76,Discovery,38,Yes,0,Yes,Business,0
+1235,Business,32,Female,Associate Degree,Single,0,2.45,IHG,29,Yes,0,Yes,Medical Tourism,0
+1236,,26,,Bachelors Degree,Married,0,3.02,Marriott,28,No,5,No,Medical Tourism,5.208052017
+1237,Business,44,Female,Professional,Married,,2.33,None,12,Yes,0,No,Leisure Travel,1165.876964
+1238,Business,38,,MBA,Widowed,1,3.03,IHG,47,No,8,No,Leisure Travel,0
+1239,Public Sector,,Female,MBA,Single,0,3.05,IHG,,Yes,0,Yes,Medical Tourism,16584.48765
+1240,Business,,,Associate Degree,Divorced,1,2.72,Expedia,,No,10,Yes,Medical Tourism,0.817454738
+1241,Private Sector,,Male,Professional,Married,,2.73,Discovery,17,No,8,No,Medical Tourism,0
+1242,Private Sector,,Female,High School Equivalent,Married,,3.12,IHG,33,No,19,Yes,Medical Tourism,0
+1243,Business,41,Male,Associate Degree,Widowed,,3.43,IHG,40,Yes,0,Yes,Leisure Travel,0
+1244,Public Sector,33,Female,High School Equivalent,Married,,2.99,IHG,5,No,3,Yes,Business,5056.780465
+1245,Private Sector,30,Male,High School Equivalent,Married,1,2.61,IHG,40,No,19,Yes,Medical Tourism,0
+1246,Business,,Female,High School Equivalent,Widowed,,2.64,Marriott,47,No,1,Yes,Medical Tourism,18883.35951
+1247,Business,34,Female,High School Equivalent,Divorced,0,2.83,Discovery,17,Yes,0,Yes,Medical Tourism,0
+1248,Public Sector,,Male,High School Equivalent,Married,1,1.85,Marriott,,No,20,Yes,Medical Tourism,14.27412052
+1249,Business,42,Male,MBA,Married,1,2.48,Hilton,26,No,20,No,Business,80.81961297
+1250,Private Sector,46,Female,High School Equivalent,Married,,2.45,Marriott,6,Yes,0,No,Leisure Travel,0
+1251,,,,High School Equivalent,Married,,3.74,Marriott,33,Yes,0,No,Medical Tourism,0
+1252,Business,,Male,MBA,Widowed,1,3.25,None,6,No,7,Yes,Leisure Travel,0.146295309
+1253,,,Male,Associate Degree,Widowed,,2.65,IHG,3,No,1,Yes,Business,0.088092842
+1254,Public Sector,48,Male,MBA,Married,,2.65,Marriott,43,No,12,Yes,Medical Tourism,4117.482585
+1255,Private Sector,21,,High School Equivalent,Single,0,2.74,None,26,No,3,Yes,Leisure Travel,0
+1256,Business,,Female,Masters Degree,Single,,3.15,Marriott,38,No,8,No,Leisure Travel,0
+1257,Business,,Female,MBA,Married,3,4,IHG,6,No,2,No,Business,58905.79461
+1258,Business,27,,Professional,Married,0,3.11,Jumeirah,5,Yes,0,No,Medical Tourism,0.016793569
+1259,Self-Employed,,Female,Bachelors Degree,Divorced,1,1.99,Discovery,44,No,4,No,Medical Tourism,0
+1260,Business,43,,MBA,Widowed,,3.75,Jumeirah,8,No,9,Yes,Leisure Travel,517.2169562
+1261,Business,28,Female,High School Equivalent,Married,,3.1,Expedia,31,No,11,No,Medical Tourism,0
+1262,Self-Employed,36,Female,High School Equivalent,Married,1,3.02,Marriott,47,No,7,No,Business,37.52768902
+1263,Private Sector,48,,High School Equivalent,Single,0,3.14,Expedia,,No,12,Yes,Leisure Travel,0.142655507
+1264,Self-Employed,32,,Bachelors Degree,Married,,2.77,IHG,11,Yes,0,No,Medical Tourism,6527.846303
+1265,Public Sector,36,,Associate Degree,Divorced,,3.01,Marriott,42,Yes,0,Yes,Medical Tourism,2.963175333
+1266,Business,27,,Associate Degree,Married,1,3.01,IHG,36,No,9,Yes,Medical Tourism,2.28689E-05
+1267,Private Sector,27,,High School Equivalent,Single,0,3.36,IHG,28,No,6,Yes,Business,4393.836091
+1268,Public Sector,,Female,High School Equivalent,Divorced,0,3.26,Expedia,9,Yes,0,No,Business,8.869569506
+1269,Business,28,Female,High School Equivalent,Single,,4,Marriott,35,No,7,Yes,Business,1069.600516
+1270,Business,57,Female,High School Equivalent,Married,1,3.36,IHG,25,Yes,0,Yes,Medical Tourism,0
+1271,Self-Employed,,Female,High School Equivalent,Divorced,1,2.05,IHG,4,No,20,No,Leisure Travel,1249.673836
+1272,,51,Male,Technical/Occupational Certificate,Single,,3.45,Expedia,49,No,1,Yes,Business,5636.279967
+1273,Business,,Female,MBA,Married,3,2.69,Discovery,46,Yes,0,No,Business,572.0035424
+1274,Business,53,Male,Professional,Single,0,3.52,IHG,6,No,10,Yes,Business,2447.444868
+1275,Public Sector,,Female,High School Equivalent,Widowed,0,2.6,None,1,Yes,0,No,Leisure Travel,0
+1276,Private Sector,,Male,MBA,Single,0,3.23,Marriott,46,Yes,0,Yes,Medical Tourism,0
+1277,Public Sector,55,Female,Bachelors Degree,Single,,2.73,Marriott,4,Yes,0,No,Leisure Travel,275.1439855
+1278,Business,,Male,MBA,Divorced,3,3.16,IHG,38,No,16,No,Medical Tourism,0
+1279,Private Sector,55,,Masters Degree,Divorced,,3.39,IHG,36,Yes,0,Yes,Medical Tourism,1167.058822
+1280,Private Sector,37,,Bachelors Degree,Single,0,2.48,Hilton,14,Yes,0,No,Leisure Travel,0.006930487
+1281,Public Sector,,,High School Equivalent,Married,,2.68,Marriott,24,No,15,No,Medical Tourism,0.008089421
+1282,Business,56,,Bachelors Degree,Single,,3.07,Hilton,19,No,6,Yes,Business,0
+1283,Private Sector,,Male,MBA,Married,,3.66,IHG,25,No,12,No,Business,3590.518114
+1284,Business,47,Male,Technical/Occupational Certificate,Married,1,2.06,Marriott,45,No,4,No,Leisure Travel,0.063671772
+1285,Business,,Male,Doctorate,Single,0,2.75,Jumeirah,,Yes,0,Yes,Leisure Travel,80.93546897
+1286,Private Sector,22,,MBA,Single,0,2.49,Marriott,49,No,4,Yes,Business,1.331390834
+1287,Business,,Male,MBA,Married,1,2.61,None,36,No,3,No,Business,0
+1288,Business,32,Male,High School Equivalent,Married,1,2.46,IHG,15,No,14,No,Leisure Travel,1166.944648
+1289,Public Sector,,Male,Masters Degree,Single,0,3.2,IHG,45,No,4,No,Medical Tourism,96.87983445
+1290,Private Sector,,,Bachelors Degree,Married,,2.83,IHG,28,Yes,0,No,Medical Tourism,2305.547953
+1291,,,Female,MBA,Divorced,1,3.85,Hilton,18,No,20,Yes,Leisure Travel,0
+1292,Business,53,Female,Professional,Divorced,1,3.19,Marriott,17,No,10,Yes,Medical Tourism,3739.453988
+1293,Private Sector,,Male,MBA,Single,0,2.58,IHG,29,No,13,No,Medical Tourism,0
+1294,Private Sector,25,Female,MBA,Married,,3.67,IHG,17,No,9,Yes,Medical Tourism,20104.03858
+1295,Public Sector,29,Female,High School Equivalent,Single,,2.48,IHG,19,Yes,0,Yes,Business,12176.43355
+1296,Business,59,Female,High School Equivalent,Married,,3.05,IHG,,No,14,No,Business,1503.462348
+1297,Public Sector,50,Female,Associate Degree,Widowed,1,3.92,Hilton,12,Yes,0,No,Medical Tourism,6.459800191
+1298,Private Sector,,Female,Technical/Occupational Certificate,Divorced,,2.84,None,4,No,2,No,Leisure Travel,0
+1299,Business,,Male,High School Equivalent,Single,0,3.3,IHG,29,No,17,No,Business,0
+1300,Private Sector,,,High School Equivalent,Single,0,3.2,IHG,46,No,18,No,Medical Tourism,16283.48163
+1301,Self-Employed,,Male,High School Equivalent,Single,,3.76,IHG,33,Yes,0,No,Business,0
+1302,Self-Employed,55,,Bachelors Degree,Married,3,2.89,IHG,17,Yes,0,No,Business,2.14750963
+1303,Public Sector,50,Female,Associate Degree,Single,,3.81,Discovery,29,No,10,Yes,Medical Tourism,0
+1304,Private Sector,51,,MBA,Married,,2.87,IHG,39,No,1,Yes,Leisure Travel,0
+1305,,56,Female,Bachelors Degree,Married,0,3.32,IHG,8,Yes,0,Yes,Medical Tourism,49.06831934
+1306,Business,53,Female,High School Equivalent,Married,1,2.6,IHG,38,No,16,Yes,Medical Tourism,8.024411206
+1307,Private Sector,,,MBA,Married,,2.2,None,33,No,14,No,Business,1334.519044
+1308,Private Sector,33,Male,Professional,Married,,2.67,Marriott,11,No,7,No,Leisure Travel,12605.16482
+1309,Public Sector,55,Male,High School Equivalent,Divorced,,2.92,None,0,Yes,0,Yes,Business,12974.31631
+1310,Self-Employed,19,Female,Associate Degree,Married,,2.99,IHG,20,No,4,Yes,Leisure Travel,0
+1311,Business,,Male,Bachelors Degree,Single,,2.51,Marriott,16,Yes,0,No,Leisure Travel,0
+1312,Public Sector,,Male,High School Equivalent,Divorced,1,2.39,Hilton,10,No,20,No,Business,987.8628323
+1313,Public Sector,,Male,High School Equivalent,Married,1,2.9,Marriott,35,No,17,Yes,Leisure Travel,0
+1314,Business,29,Female,MBA,Married,,2.53,Marriott,34,No,19,No,Medical Tourism,3078.971719
+1315,Public Sector,,Male,MBA,Married,1,2.76,None,3,Yes,0,No,Medical Tourism,0.109087792
+1316,Private Sector,20,,MBA,Married,2,3.15,Marriott,49,No,2,Yes,Leisure Travel,0
+1317,Business,43,,High School Equivalent,Married,0,1.53,IHG,18,Yes,0,Yes,Business,0
+1318,Private Sector,41,Female,Associate Degree,Divorced,,3.52,Marriott,15,No,17,No,Medical Tourism,0
+1319,,58,Female,High School Equivalent,Widowed,1,3.86,Marriott,41,No,10,Yes,Medical Tourism,0
+1320,Public Sector,44,Male,Masters Degree,Married,,2.88,IHG,49,Yes,0,Yes,Leisure Travel,1.955739848
+1321,Private Sector,45,Female,Associate Degree,Married,1,2.35,Marriott,44,No,18,Yes,Leisure Travel,0
+1322,Public Sector,54,,Bachelors Degree,Married,1,2.6,IHG,47,No,4,No,Medical Tourism,0
+1323,Private Sector,53,Male,Associate Degree,Single,,2.81,IHG,35,No,5,Yes,Business,0
+1324,Self-Employed,,Female,Associate Degree,Widowed,,4,None,22,No,1,Yes,Medical Tourism,27.1105204
+1325,Private Sector,32,,Professional,Married,,3.23,Discovery,15,No,8,No,Business,0
+1326,Public Sector,20,,High School Equivalent,Divorced,1,2.63,Jumeirah,40,Yes,0,Yes,Business,0
+1327,Private Sector,37,,Bachelors Degree,Married,1,3.09,Discovery,33,No,18,Yes,Medical Tourism,0
+1328,Private Sector,25,Male,MBA,Married,,3.33,IHG,2,No,2,No,Medical Tourism,0
+1329,Business,20,Male,Bachelors Degree,Married,1,2.66,Expedia,17,No,17,Yes,Medical Tourism,816.6500619
+1330,Private Sector,,Female,Professional,Single,,3.29,Marriott,10,No,15,Yes,Leisure Travel,0
+1331,Business,42,,Professional,Widowed,,3.52,Discovery,37,No,15,No,Business,652.4638848
+1332,Private Sector,21,Female,MBA,Married,0,2.23,Jumeirah,8,No,16,Yes,Medical Tourism,121.5832483
+1333,Public Sector,,Female,MBA,Married,1,3.27,Marriott,32,No,2,Yes,Leisure Travel,0.621507304
+1334,Business,44,,Associate Degree,Divorced,1,2.67,Discovery,,Yes,0,Yes,Medical Tourism,2177.927879
+1335,Business,41,Male,High School Equivalent,Married,0,3.09,Marriott,13,No,20,No,Business,12.69077589
+1336,Private Sector,,Female,MBA,Married,1,2.87,Marriott,,No,18,Yes,Business,0
+1337,Public Sector,,Female,Associate Degree,Divorced,,2.4,Marriott,34,No,11,No,Medical Tourism,828.4137042
+1338,Private Sector,44,Female,MBA,Divorced,0,2.62,Hilton,1,Yes,0,Yes,Leisure Travel,25142.12422
+1339,Private Sector,,Male,High School Equivalent,Married,,2.89,IHG,28,No,17,Yes,Medical Tourism,13.71664197
+1340,Private Sector,,,High School Equivalent,Divorced,0,2.16,Discovery,45,No,9,No,Business,4100.0443
+1341,Private Sector,,,Bachelors Degree,Married,3,1.85,Marriott,6,No,2,No,Leisure Travel,12.9980722
+1342,,45,Female,High School Equivalent,Divorced,0,3.03,Marriott,5,No,9,No,Business,1643.686788
+1343,Private Sector,,Female,Associate Degree,Married,,2.65,Marriott,0,No,17,No,Medical Tourism,14.81658654
+1344,Self-Employed,27,Female,High School Equivalent,Married,,2.99,IHG,,No,18,No,Medical Tourism,5.512002112
+1345,Self-Employed,,Female,Associate Degree,Married,,3.36,IHG,28,No,5,No,Leisure Travel,0
+1346,Private Sector,36,Female,High School Equivalent,Married,0,2.59,None,35,No,7,No,Leisure Travel,0
+1347,Private Sector,,Male,MBA,Single,0,3.15,None,36,No,15,No,Medical Tourism,25156.60082
+1348,Private Sector,,,Bachelors Degree,Married,,3.22,IHG,27,Yes,0,Yes,Medical Tourism,0
+1349,Self-Employed,,Female,Bachelors Degree,Divorced,1,4,IHG,19,Yes,0,Yes,Medical Tourism,14.72046091
+1350,Public Sector,,Male,MBA,Single,,2.55,None,9,No,16,Yes,Leisure Travel,11.76090796
+1351,Business,60,Male,MBA,Married,,3.09,None,5,No,2,Yes,Leisure Travel,77.51038441
+1352,Public Sector,,Female,High School Equivalent,Married,,3.27,IHG,45,No,19,Yes,Medical Tourism,126.5857526
+1353,Private Sector,,Female,MBA,Single,0,2.14,IHG,40,Yes,0,Yes,Business,93.11934536
+1354,Private Sector,25,Female,Bachelors Degree,Widowed,1,2.84,Expedia,33,No,6,No,Medical Tourism,177.0071531
+1355,Public Sector,47,Female,High School Equivalent,Married,1,2.33,IHG,46,Yes,0,No,Leisure Travel,7950.288845
+1356,,31,Female,Bachelors Degree,Married,,2.58,Marriott,20,No,6,Yes,Medical Tourism,0
+1357,Private Sector,,Female,High School Equivalent,Single,0,2.4,Marriott,0,Yes,0,No,Leisure Travel,41.92157527
+1358,Private Sector,,Female,Associate Degree,Single,,3.06,IHG,25,Yes,0,Yes,Leisure Travel,0
+1359,Self-Employed,20,Female,Associate Degree,Single,0,3.01,Marriott,13,Yes,0,No,Business,0
+1360,Private Sector,51,Female,MBA,Single,0,1.78,Hilton,,No,20,No,Business,0
+1361,Business,30,Female,Bachelors Degree,Divorced,1,3.61,Expedia,20,No,4,No,Medical Tourism,1465.004586
+1362,Business,,,MBA,Single,0,3.28,None,,No,2,No,Medical Tourism,0
+1363,Self-Employed,48,,Associate Degree,Married,1,1.81,Marriott,37,Yes,0,No,Medical Tourism,0
+1364,Business,24,Female,MBA,Married,,2.95,IHG,13,Yes,0,Yes,Medical Tourism,211.2484994
+1365,Self-Employed,,Female,High School Equivalent,Single,0,2.18,IHG,46,No,6,No,Leisure Travel,0.749538651
+1366,Private Sector,,Female,Associate Degree,Single,,1.86,IHG,21,No,20,No,Medical Tourism,0
+1367,Public Sector,21,Female,Bachelors Degree,Single,0,3.34,IHG,12,No,12,Yes,Leisure Travel,1.924770527
+1368,Public Sector,22,Female,Associate Degree,Widowed,,3.21,IHG,41,No,19,No,Business,0
+1369,Business,44,Female,MBA,Widowed,,3.54,IHG,25,No,1,No,Business,0
+1370,Public Sector,,,High School Equivalent,Married,,2.96,Hilton,30,No,11,No,Leisure Travel,0.635230386
+1371,Public Sector,,Male,Masters Degree,Single,0,2.55,Expedia,12,No,10,Yes,Medical Tourism,0
+1372,Business,,Male,Bachelors Degree,Single,0,1.98,Jumeirah,44,No,16,Yes,Business,0
+1373,Business,23,Female,High School Equivalent,Divorced,1,2.23,IHG,30,No,20,Yes,Business,0
+1374,Private Sector,23,Female,High School Equivalent,Divorced,,2.84,Marriott,36,No,1,No,Leisure Travel,3151.845083
+1375,Business,,,High School Equivalent,Single,0,3.79,Discovery,18,No,1,No,Business,0
+1376,Public Sector,58,Female,High School Equivalent,Widowed,1,3.6,Marriott,8,Yes,0,No,Business,6123.285114
+1377,Self-Employed,,Male,High School Equivalent,Married,,3.6,None,,No,16,No,Medical Tourism,0
+1378,Private Sector,,Female,MBA,Divorced,2,2.96,Discovery,16,Yes,0,Yes,Business,0
+1379,Private Sector,,Male,Associate Degree,Married,0,3.75,None,10,No,6,No,Business,326.0230147
+1380,Business,33,Female,High School Equivalent,Single,0,2.29,Jumeirah,19,No,1,Yes,Medical Tourism,2.152611135
+1381,Business,23,Female,Associate Degree,Divorced,,4,IHG,1,Yes,0,Yes,Leisure Travel,0
+1382,Public Sector,25,Male,High School Equivalent,Married,,4,Marriott,,No,14,Yes,Leisure Travel,0
+1383,,,,Associate Degree,Single,,2.72,IHG,,No,10,No,Leisure Travel,5.339853997
+1384,Business,37,Female,MBA,Single,,2.86,Hilton,38,No,9,Yes,Medical Tourism,131.0621326
+1385,Private Sector,36,Male,High School Equivalent,Divorced,,3.2,Discovery,38,No,6,No,Leisure Travel,5.431603982
+1386,Public Sector,20,Female,High School Equivalent,Married,1,2.97,None,13,Yes,0,No,Medical Tourism,5.491752988
+1387,Public Sector,,,High School Equivalent,Single,0,1.48,IHG,47,No,18,No,Medical Tourism,4700.895961
+1388,Private Sector,,Male,MBA,Married,1,2.35,Discovery,,No,5,No,Business,0
+1389,Business,47,Female,High School Equivalent,Married,,2.62,Marriott,0,No,18,Yes,Leisure Travel,382.9122603
+1390,Private Sector,49,Female,Associate Degree,Married,,2.82,Hilton,30,No,20,Yes,Leisure Travel,18871.59529
+1391,Business,57,Male,Masters Degree,Divorced,,2.98,Marriott,24,Yes,0,Yes,Leisure Travel,0
+1392,Private Sector,,Male,Masters Degree,Divorced,,2.78,Marriott,6,No,20,No,Leisure Travel,7125.018332
+1393,Private Sector,,Female,Bachelors Degree,Divorced,,4,Marriott,38,No,16,No,Medical Tourism,0
+1394,Public Sector,54,Female,Bachelors Degree,Divorced,1,2.88,Hilton,38,No,16,Yes,Medical Tourism,1.035990962
+1395,Self-Employed,39,Male,Associate Degree,Single,,3.05,IHG,31,No,3,Yes,Business,0
+1396,Public Sector,52,Male,Associate Degree,Single,0,1.12,IHG,11,Yes,0,Yes,Business,156.6492077
+1397,Business,38,,Bachelors Degree,Married,,2.48,None,15,No,4,No,Leisure Travel,56973.85837
+1398,Public Sector,57,Female,MBA,Divorced,0,3.7,IHG,38,No,9,No,Medical Tourism,0
+1399,Private Sector,27,,High School Equivalent,Single,0,2.4,IHG,7,No,14,Yes,Leisure Travel,0
+1400,Business,,Male,Professional,Married,1,3.36,Jumeirah,7,Yes,0,Yes,Business,2705.930365
+1401,Private Sector,,Male,Bachelors Degree,Married,1,2.89,Marriott,16,Yes,0,No,Medical Tourism,16.64097523
+1402,Private Sector,,Male,High School Equivalent,Divorced,1,3.1,IHG,26,Yes,0,Yes,Leisure Travel,2061.331187
+1403,Business,,Male,High School Equivalent,Widowed,,2.96,IHG,18,No,7,No,Leisure Travel,0
+1404,Public Sector,,Male,High School Equivalent,Single,0,2.33,Jumeirah,46,Yes,0,Yes,Leisure Travel,0
+1405,Private Sector,,Male,Bachelors Degree,Married,,2.21,IHG,45,Yes,0,Yes,Leisure Travel,79.29885377
+1406,Business,34,Male,High School Equivalent,Divorced,1,2.24,Jumeirah,45,Yes,0,No,Medical Tourism,21060.63496
+1407,,20,Male,Associate Degree,Widowed,1,3.38,Jumeirah,3,Yes,0,Yes,Medical Tourism,0
+1408,Private Sector,,Male,Bachelors Degree,Divorced,2,2.97,Marriott,10,No,11,Yes,Business,0
+1409,Business,,Male,Associate Degree,Divorced,1,2.76,Discovery,29,Yes,0,No,Business,0
+1410,Public Sector,26,,MBA,Single,0,1.83,Marriott,19,No,12,Yes,Medical Tourism,7.119831011
+1411,Private Sector,46,,Associate Degree,Married,,2.84,IHG,24,Yes,0,Yes,Leisure Travel,0
+1412,,,Male,Bachelors Degree,Widowed,1,2.35,IHG,,Yes,0,Yes,Business,47.71332251
+1413,Public Sector,48,Male,MBA,Divorced,1,3.09,IHG,33,No,18,Yes,Medical Tourism,0
+1414,Private Sector,,,MBA,Married,4,2.44,IHG,21,No,5,Yes,Medical Tourism,5761.012097
+1415,Business,,Female,High School Equivalent,Married,,2.2,None,21,Yes,0,Yes,Medical Tourism,175.504952
+1416,Public Sector,,Female,Professional,Widowed,,2.92,IHG,1,Yes,0,No,Medical Tourism,0
+1417,Private Sector,,Male,Bachelors Degree,Widowed,1,2.71,IHG,45,Yes,0,No,Business,0
+1418,Private Sector,22,Male,High School Equivalent,Married,1,3.17,Expedia,46,No,4,Yes,Business,0
+1419,Public Sector,52,,Masters Degree,Divorced,,2.65,None,11,Yes,0,No,Business,0
+1420,Private Sector,,Male,High School Equivalent,Single,0,1.52,IHG,10,No,14,No,Medical Tourism,3326.234287
+1421,Public Sector,,Female,Associate Degree,Divorced,,3.17,Discovery,45,No,11,No,Medical Tourism,0
+1422,Self-Employed,35,,High School Equivalent,Single,,3.08,IHG,44,No,6,No,Medical Tourism,0
+1423,Public Sector,26,,Bachelors Degree,Married,,2.84,IHG,22,Yes,0,No,Leisure Travel,0
+1424,Business,56,Male,MBA,Single,0,1.55,IHG,29,No,14,Yes,Leisure Travel,33409.62409
+1425,Public Sector,,,High School Equivalent,Widowed,,3.23,Discovery,,No,14,No,Business,16346.76409
+1426,Business,,Male,Bachelors Degree,Married,1,2.69,Hilton,12,No,2,No,Leisure Travel,6.177169341
+1427,Private Sector,30,Male,MBA,Married,3,3.25,Marriott,10,No,16,No,Medical Tourism,0
+1428,Business,47,,High School Equivalent,Single,,1.89,Discovery,49,No,8,No,Medical Tourism,0.003277054
+1429,Business,51,,High School Equivalent,Married,0,3.16,IHG,,No,9,Yes,Medical Tourism,4212.39534
+1430,Private Sector,18,Female,Bachelors Degree,Widowed,,2.73,Marriott,6,Yes,0,Yes,Leisure Travel,171.5601197
+1431,Self-Employed,,Male,MBA,Married,1,3.2,Expedia,39,No,10,No,Business,58.80108601
+1432,,,,High School Equivalent,Married,,2.56,Marriott,1,Yes,0,No,Business,148.0696027
+1433,Private Sector,28,Female,MBA,Divorced,,3.28,None,13,No,15,No,Medical Tourism,36.37641881
+1434,Business,27,Female,High School Equivalent,Single,,2.54,IHG,36,No,20,No,Leisure Travel,0
+1435,Private Sector,32,Male,MBA,Married,,2.39,IHG,,No,10,Yes,Business,5.93689163
+1436,Private Sector,,Female,MBA,Married,3,2.52,IHG,7,No,14,No,Medical Tourism,0
+1437,Business,,Female,MBA,Married,,2.77,Jumeirah,13,No,16,Yes,Leisure Travel,3541.080315
+1438,Business,45,,Professional,Widowed,1,1.87,Marriott,28,No,18,No,Leisure Travel,0
+1439,Business,19,Female,High School Equivalent,Married,1,3.25,Marriott,39,No,3,No,Business,0
+1440,Business,48,Female,High School Equivalent,Single,0,3.62,Hilton,43,No,5,No,Leisure Travel,64.00555049
+1441,Self-Employed,,,Associate Degree,Married,,2.72,Marriott,40,No,11,Yes,Medical Tourism,60.00949529
+1442,Public Sector,45,,High School Equivalent,Married,,3.89,Discovery,8,No,15,Yes,Leisure Travel,1097.660287
+1443,Business,42,Male,High School Equivalent,Single,0,2.24,Marriott,32,No,17,Yes,Business,0.062711869
+1444,Business,43,Male,High School Equivalent,Single,0,3.38,IHG,16,No,20,No,Leisure Travel,0
+1445,Private Sector,40,Female,Associate Degree,Single,,2.19,Marriott,19,No,9,No,Medical Tourism,0
+1446,Private Sector,60,,MBA,Single,,3.13,IHG,17,No,18,No,Leisure Travel,79.89505891
+1447,Public Sector,,Female,High School Equivalent,Single,,3.2,None,12,No,12,No,Business,0
+1448,Business,58,Female,High School Equivalent,Single,,3.2,IHG,,No,4,Yes,Business,85.23142378
+1449,Business,20,,Bachelors Degree,Single,0,3.12,IHG,23,No,16,No,Leisure Travel,0
+1450,Private Sector,57,Male,MBA,Single,,2.21,IHG,23,Yes,0,Yes,Medical Tourism,0
+1451,Business,49,Male,MBA,Widowed,0,2.71,None,26,No,10,No,Medical Tourism,0
+1452,Public Sector,,Male,High School Equivalent,Married,1,3.27,Expedia,34,Yes,0,Yes,Medical Tourism,0
+1453,Private Sector,24,Male,Bachelors Degree,Widowed,1,2.37,Discovery,14,No,1,No,Medical Tourism,0
+1454,,,,Bachelors Degree,Divorced,,3.71,IHG,26,No,10,No,Business,5560.691363
+1455,Public Sector,,,High School Equivalent,Single,0,3.44,Marriott,11,Yes,0,Yes,Business,0
+1456,Public Sector,,Female,Bachelors Degree,Divorced,3,2.9,Hilton,9,No,14,No,Business,1190.092617
+1457,Private Sector,18,,MBA,Married,2,2.9,IHG,12,Yes,0,No,Medical Tourism,0.343667743
+1458,Business,19,Female,Technical/Occupational Certificate,Married,3,3.85,Marriott,7,No,13,No,Medical Tourism,0
+1459,Public Sector,,Male,High School Equivalent,Single,,2.76,IHG,49,Yes,0,No,Business,49615.99883
+1460,Business,58,,Technical/Occupational Certificate,Married,,3.19,IHG,,Yes,0,No,Business,8469.269077
+1461,Private Sector,60,Female,Professional,Single,0,2.6,IHG,34,Yes,0,Yes,Medical Tourism,0
+1462,Business,,Female,High School Equivalent,Married,2,3.22,Marriott,18,No,9,No,Medical Tourism,58.47789659
+1463,Business,18,Male,Bachelors Degree,Married,,3,Marriott,,Yes,0,Yes,Medical Tourism,0
+1464,,,Female,Bachelors Degree,Single,0,2.81,IHG,,Yes,0,No,Medical Tourism,0
+1465,Self-Employed,22,Male,High School Equivalent,Married,1,2.42,IHG,39,Yes,0,No,Business,0
+1466,Business,,Female,Professional,Single,0,2.29,IHG,27,Yes,0,No,Medical Tourism,4.701315087
+1467,Public Sector,29,Male,High School Equivalent,Married,,3.55,Marriott,48,No,7,No,Business,90.25618446
+1468,Self-Employed,34,,High School Equivalent,Widowed,,3.1,None,2,No,9,Yes,Business,1895.085569
+1469,Public Sector,,Female,High School Equivalent,Single,0,3.1,None,,No,18,Yes,Business,0
+1470,Business,,Male,MBA,Single,0,3.17,Marriott,21,No,3,No,Leisure Travel,912.3193604
+1471,Private Sector,,Female,Bachelors Degree,Single,,3.35,IHG,22,No,2,Yes,Business,1595.42992
+1472,Public Sector,43,,High School Equivalent,Married,3,2.91,None,23,No,4,Yes,Leisure Travel,358.7367994
+1473,Business,41,Female,Associate Degree,Divorced,0,2.51,Discovery,35,No,4,Yes,Medical Tourism,17341.73441
+1474,Business,37,Female,MBA,Single,0,2.87,Marriott,26,No,13,No,Medical Tourism,3543.582157
+1475,Private Sector,,Female,Masters Degree,Widowed,,2.46,IHG,,No,6,No,Medical Tourism,1022.044593
+1476,Business,,Male,MBA,Single,,3.21,Jumeirah,30,No,2,Yes,Leisure Travel,1.68380939
+1477,Business,,,High School Equivalent,Divorced,4,2.88,Discovery,,Yes,0,No,Medical Tourism,52117.74114
+1478,Private Sector,,Female,High School Equivalent,Single,0,2.94,IHG,10,No,10,Yes,Business,28.33868721
+1479,Business,,,Professional,Single,0,3.7,IHG,48,No,9,Yes,Business,3045.294077
+1480,Self-Employed,58,Female,Associate Degree,Married,,2.7,IHG,1,No,19,No,Business,984.5933364
+1481,,47,Male,Associate Degree,Married,,2.44,Hilton,32,Yes,0,No,Leisure Travel,22.74128303
+1482,Private Sector,,Female,High School Equivalent,Married,,2.75,IHG,7,No,17,Yes,Medical Tourism,0
+1483,Self-Employed,,Male,Associate Degree,Single,,2.85,Hilton,27,Yes,0,Yes,Leisure Travel,5727.626344
+1484,Business,47,Female,High School Equivalent,Divorced,1,2.37,Jumeirah,15,No,14,Yes,Medical Tourism,1.081633525
+1485,Private Sector,,Female,MBA,Single,,2.98,Marriott,21,No,12,Yes,Business,0
+1486,Private Sector,20,Female,Bachelors Degree,Single,0,3.19,IHG,3,No,5,No,Business,0
+1487,Private Sector,,Male,Masters Degree,Married,0,3.01,IHG,20,No,20,No,Medical Tourism,33433.77116
+1488,Business,29,Male,Masters Degree,Single,,3.62,Marriott,9,No,1,Yes,Leisure Travel,11434.29098
+1489,Business,25,Male,High School Equivalent,Married,1,2.66,Jumeirah,14,No,3,Yes,Leisure Travel,14.01077494
+1490,Public Sector,,Female,Professional,Married,1,2.07,Marriott,29,No,2,No,Business,5193.655245
+1491,,32,,Associate Degree,Widowed,,2.53,None,9,No,16,Yes,Business,0
+1492,Public Sector,59,Male,Associate Degree,Single,,2.88,Marriott,27,No,2,No,Business,135.4191875
+1493,Private Sector,29,Male,High School Equivalent,Widowed,,3.32,IHG,24,No,13,No,Leisure Travel,304.5740416
+1494,Self-Employed,,Male,Bachelors Degree,Single,,2.61,Discovery,18,No,7,Yes,Leisure Travel,0
+1495,,34,Female,Bachelors Degree,Married,,2.37,Hilton,27,No,2,No,Leisure Travel,9838.780412
+1496,Private Sector,,Male,High School Equivalent,Married,2,2.99,Marriott,25,No,10,No,Medical Tourism,0
+1497,Self-Employed,47,Female,High School Equivalent,Married,1,3.12,IHG,0,No,18,Yes,Leisure Travel,0
+1498,,39,Female,Bachelors Degree,Married,2,2.43,Jumeirah,21,Yes,0,No,Business,4602.14143
+1499,Private Sector,31,Female,High School Equivalent,Single,0,1.68,IHG,24,No,5,Yes,Medical Tourism,949.3479114
+1500,Business,,Male,MBA,Married,,2.93,None,17,Yes,0,Yes,Medical Tourism,0
+1501,Business,,Male,MBA,Married,,2.21,IHG,34,No,3,Yes,Medical Tourism,4260.357886
+1502,Self-Employed,,Male,Bachelors Degree,Single,,3.52,Marriott,31,Yes,0,No,Medical Tourism,0
+1503,Private Sector,,,MBA,Single,,2.55,Expedia,19,No,20,Yes,Business,225.2639151
+1504,Public Sector,59,Female,High School Equivalent,Single,,2.59,IHG,2,No,13,No,Leisure Travel,0
+1505,Public Sector,,Female,High School Equivalent,Single,0,2.72,IHG,29,No,14,Yes,Business,695.6726774
+1506,Business,,Male,High School Equivalent,Single,,2.86,IHG,,No,12,Yes,Medical Tourism,1294.237694
+1507,Business,33,,High School Equivalent,Single,0,2.56,IHG,8,No,11,Yes,Leisure Travel,0
+1508,Business,37,,MBA,Single,,2.33,Jumeirah,35,No,19,No,Medical Tourism,14.18309767
+1509,Public Sector,,Female,MBA,Widowed,1,3.59,None,45,No,9,No,Leisure Travel,0
+1510,Business,18,Female,Doctorate,Married,1,3.56,Hilton,16,Yes,0,Yes,Medical Tourism,0
+1511,Public Sector,,,Bachelors Degree,Single,,3.05,IHG,28,No,12,No,Medical Tourism,3820.01978
+1512,Private Sector,,Male,Bachelors Degree,Single,0,2.98,IHG,1,No,10,Yes,Medical Tourism,0
+1513,Business,,,Professional,Married,0,3.21,Discovery,41,Yes,0,Yes,Medical Tourism,2.10924E-05
+1514,Private Sector,60,Female,High School Equivalent,Single,0,2.92,IHG,20,No,17,No,Leisure Travel,0
+1515,Public Sector,51,Female,Bachelors Degree,Widowed,,3.01,Discovery,25,Yes,0,No,Leisure Travel,0
+1516,Business,60,Male,High School Equivalent,Married,3,1.79,Hilton,1,Yes,0,No,Medical Tourism,0
+1517,Business,42,Male,MBA,Married,1,3.69,None,1,No,10,Yes,Leisure Travel,0
+1518,Business,,Female,High School Equivalent,Single,,4,Marriott,30,No,16,No,Business,6349.897286
+1519,Business,33,Female,MBA,Married,,2.67,Marriott,18,No,11,No,Medical Tourism,0
+1520,Public Sector,36,Female,MBA,Single,,3.11,Marriott,,No,10,No,Leisure Travel,16012.11656
+1521,Private Sector,51,,High School Equivalent,Married,0,3.34,IHG,12,No,15,Yes,Business,162.5813203
+1522,Private Sector,55,Female,High School Equivalent,Married,1,2.68,None,8,No,18,No,Medical Tourism,44651.52112
+1523,,56,Female,High School Equivalent,Divorced,1,3.51,Expedia,39,No,16,No,Medical Tourism,0
+1524,Business,,,High School Equivalent,Single,,1.64,Marriott,30,No,14,No,Medical Tourism,3.116595659
+1525,Public Sector,,,Doctorate,Married,1,3.08,Discovery,19,No,1,No,Business,0
+1526,Public Sector,42,Male,High School Equivalent,Widowed,,2.52,Marriott,,No,15,Yes,Business,0
+1527,Private Sector,57,Female,MBA,Married,1,2.61,Marriott,3,No,10,No,Leisure Travel,1773.480202
+1528,Private Sector,,Male,Masters Degree,Married,1,3.67,Marriott,41,Yes,0,Yes,Medical Tourism,0
+1529,Business,19,Female,Associate Degree,Married,,2.79,Hilton,36,No,15,Yes,Leisure Travel,4577.8702
+1530,Public Sector,27,,Associate Degree,Married,1,2.53,Jumeirah,17,No,9,No,Medical Tourism,13931.26969
+1531,Private Sector,,Female,MBA,Married,,2.78,Marriott,4,Yes,0,Yes,Business,0
+1532,Private Sector,59,Male,Bachelors Degree,Divorced,1,3.86,IHG,48,No,19,Yes,Business,488.606951
+1533,Public Sector,,Female,Bachelors Degree,Married,3,3.14,None,2,Yes,0,Yes,Medical Tourism,0.005602544
+1534,Public Sector,,Female,Bachelors Degree,Single,,2.13,None,48,No,20,No,Leisure Travel,1515.190333
+1535,Business,,Male,Bachelors Degree,Divorced,1,2.13,IHG,17,No,18,Yes,Leisure Travel,0
+1536,Private Sector,,,High School Equivalent,Single,,2.65,Discovery,42,No,1,Yes,Business,16.71477461
+1537,Business,47,Male,High School Equivalent,Single,,2.42,Expedia,36,No,2,Yes,Business,13739.99363
+1538,,40,Male,MBA,Married,1,3.54,IHG,38,No,2,Yes,Medical Tourism,31758.58006
+1539,Business,59,,MBA,Widowed,1,2.36,IHG,6,No,1,Yes,Leisure Travel,4055.31163
+1540,Business,27,Female,MBA,Married,0,3.19,None,,No,20,Yes,Business,2371.427895
+1541,Private Sector,47,Female,Bachelors Degree,Widowed,,3.06,Marriott,18,No,11,Yes,Business,192.941131
+1542,Public Sector,48,Female,High School Equivalent,Married,3,2.41,Hilton,44,No,9,No,Medical Tourism,0
+1543,Public Sector,57,Male,High School Equivalent,Married,1,3.31,Discovery,12,Yes,0,Yes,Leisure Travel,0
+1544,Business,47,Male,Bachelors Degree,Divorced,1,3.47,Marriott,35,No,8,No,Leisure Travel,5854.935142
+1545,Business,38,Female,High School Equivalent,Divorced,3,2.93,IHG,14,Yes,0,No,Leisure Travel,0
+1546,Private Sector,,Female,High School Equivalent,Single,0,3.61,Jumeirah,42,No,1,Yes,Leisure Travel,0
+1547,Public Sector,,,High School Equivalent,Married,1,2.62,None,33,Yes,0,No,Medical Tourism,553.1639673
+1548,Business,,Female,Bachelors Degree,Married,,3.03,Expedia,26,Yes,0,Yes,Medical Tourism,10189.04893
+1549,Self-Employed,,,High School Equivalent,Single,0,2.71,None,19,No,15,Yes,Business,49.4794397
+1550,Private Sector,,Female,Bachelors Degree,Single,0,3.21,IHG,,Yes,0,Yes,Business,38.5420752
+1551,Business,34,Female,MBA,Married,1,3.16,Discovery,36,No,17,Yes,Leisure Travel,0
+1552,Business,58,Female,Doctorate,Divorced,,3.56,Jumeirah,4,No,17,Yes,Medical Tourism,123.5958631
+1553,,50,Female,High School Equivalent,Divorced,2,3.1,IHG,16,No,7,No,Medical Tourism,0.488537433
+1554,Private Sector,33,Female,High School Equivalent,Married,1,2.83,Expedia,18,No,5,No,Medical Tourism,1905.726497
+1555,Business,47,Female,Bachelors Degree,Married,1,2.93,None,,Yes,0,Yes,Medical Tourism,2397.873307
+1556,Public Sector,,Female,Masters Degree,Married,,3.16,None,28,No,20,Yes,Business,0
+1557,Public Sector,30,Male,Bachelors Degree,Widowed,3,3.06,IHG,29,No,7,Yes,Medical Tourism,0
+1558,Business,,Female,Bachelors Degree,Married,,2.43,Marriott,48,No,5,No,Medical Tourism,144.1043143
+1559,Self-Employed,51,,Associate Degree,Widowed,,2.52,None,32,Yes,0,Yes,Leisure Travel,25.53486694
+1560,Public Sector,20,Male,High School Equivalent,Single,,2.57,Discovery,15,Yes,0,Yes,Leisure Travel,0
+1561,Public Sector,44,Male,High School Equivalent,Divorced,,2.71,IHG,41,No,11,No,Medical Tourism,0
+1562,Public Sector,49,,High School Equivalent,Single,0,2.61,Discovery,41,Yes,0,No,Medical Tourism,0
+1563,,,Male,Associate Degree,Divorced,1,3.67,None,29,No,5,No,Medical Tourism,0
+1564,Public Sector,,,Bachelors Degree,Married,,3.02,Marriott,19,Yes,0,Yes,Leisure Travel,0
+1565,Business,,,High School Equivalent,Married,1,2.94,Marriott,32,Yes,0,Yes,Business,0
+1566,Self-Employed,29,Male,Associate Degree,Married,,2.8,IHG,47,Yes,0,Yes,Business,0
+1567,Private Sector,30,Male,High School Equivalent,Married,0,2.6,IHG,,No,7,Yes,Medical Tourism,6728.293106
+1568,Business,48,Female,High School Equivalent,Married,,3.43,None,41,No,9,Yes,Business,0
+1569,Private Sector,29,,Doctorate,Divorced,,2.85,IHG,6,Yes,0,Yes,Business,199.8366224
+1570,Public Sector,19,Male,Masters Degree,Divorced,3,3.26,IHG,20,No,6,No,Business,0
+1571,Private Sector,,Male,High School Equivalent,Single,0,2.81,Marriott,27,No,9,Yes,Business,4557.462784
+1572,Self-Employed,,Female,Bachelors Degree,Divorced,1,2.91,IHG,13,No,6,No,Medical Tourism,0
+1573,Public Sector,31,,Associate Degree,Single,,2.6,IHG,9,No,3,Yes,Medical Tourism,12.3903709
+1574,Private Sector,,Female,Professional,Married,0,2.74,IHG,,No,13,Yes,Medical Tourism,0
+1575,Public Sector,28,Male,Associate Degree,Single,,3.29,None,16,No,3,Yes,Medical Tourism,19.70910095
+1576,Private Sector,52,Female,Bachelors Degree,Widowed,1,3.15,IHG,37,No,12,No,Leisure Travel,0
+1577,Public Sector,46,Female,Masters Degree,Single,0,3.31,IHG,1,No,18,No,Leisure Travel,0
+1578,Private Sector,,Male,High School Equivalent,Married,,2.85,IHG,43,No,2,No,Leisure Travel,1021.188495
+1579,Public Sector,,,MBA,Divorced,,2.37,None,29,No,1,Yes,Business,117.6177247
+1580,Private Sector,,,High School Equivalent,Married,,2.65,None,44,No,14,Yes,Leisure Travel,4069.535735
+1581,Public Sector,57,Female,Professional,Married,,4,Jumeirah,,No,4,No,Leisure Travel,65.00774115
+1582,Private Sector,,Female,Associate Degree,Married,,3.33,Marriott,30,No,18,No,Medical Tourism,0
+1583,Private Sector,,,High School Equivalent,Divorced,0,2.54,None,5,No,13,No,Leisure Travel,0
+1584,Public Sector,,,High School Equivalent,Married,1,2.55,IHG,,Yes,0,Yes,Medical Tourism,3612.500348
+1585,Private Sector,,Female,Associate Degree,Single,,2.59,Marriott,20,No,15,Yes,Leisure Travel,0
+1586,Private Sector,41,,Doctorate,Married,0,2.21,Marriott,,No,2,Yes,Medical Tourism,0
+1587,,26,Female,Associate Degree,Widowed,,3.04,IHG,37,No,2,No,Leisure Travel,0
+1588,Private Sector,,Female,High School Equivalent,Divorced,,3.25,IHG,7,No,10,No,Leisure Travel,5.033728253
+1589,Public Sector,39,Male,High School Equivalent,Single,0,2.7,None,49,No,4,No,Business,145.8618775
+1590,Private Sector,,Male,MBA,Single,0,3.41,IHG,9,No,8,No,Business,849.7131899
+1591,Private Sector,24,,Associate Degree,Single,,2.6,Discovery,19,No,11,Yes,Business,32.06226965
+1592,Business,18,Female,High School Equivalent,Single,0,2.8,None,21,No,5,Yes,Medical Tourism,0
+1593,Private Sector,,,Associate Degree,Married,0,2.25,Marriott,34,No,11,Yes,Medical Tourism,9508.737538
+1594,Business,40,Female,MBA,Divorced,1,3.43,None,46,No,13,Yes,Business,0
+1595,Private Sector,30,Female,MBA,Married,0,3.17,Marriott,43,No,17,Yes,Business,49588.51849
+1596,Private Sector,47,Female,Associate Degree,Married,,2.37,IHG,5,No,5,Yes,Medical Tourism,0.253804733
+1597,Private Sector,29,Female,High School Equivalent,Divorced,,2.48,Marriott,0,Yes,0,Yes,Business,4709.845158
+1598,Business,20,Female,High School Equivalent,Single,,2.85,Marriott,19,Yes,0,No,Medical Tourism,1754.784284
+1599,Business,55,,High School Equivalent,Divorced,,3.13,None,29,No,11,Yes,Leisure Travel,0
+1600,Self-Employed,,Female,Bachelors Degree,Married,,2.24,IHG,3,Yes,0,Yes,Leisure Travel,0
+1601,Self-Employed,,,High School Equivalent,Divorced,,2.95,IHG,22,No,5,Yes,Business,29.71513265
+1602,Business,56,Female,High School Equivalent,Divorced,,3.11,IHG,38,Yes,0,Yes,Business,0
+1603,Private Sector,,Male,Bachelors Degree,Divorced,1,1.55,None,38,Yes,0,No,Leisure Travel,0
+1604,Public Sector,37,Male,High School Equivalent,Married,,2.24,Marriott,46,Yes,0,Yes,Business,0
+1605,Private Sector,,Female,Associate Degree,Single,,3.24,Discovery,29,Yes,0,No,Medical Tourism,0
+1606,Business,,Male,MBA,Single,0,2.14,Discovery,27,Yes,0,No,Medical Tourism,0
+1607,Private Sector,39,,Bachelors Degree,Single,0,3.5,None,25,No,9,Yes,Business,21399.49571
+1608,Private Sector,29,Male,MBA,Widowed,,3.59,IHG,,No,17,No,Medical Tourism,0
+1609,Public Sector,,Female,High School Equivalent,Single,,3.26,Marriott,,No,2,No,Leisure Travel,0
+1610,Self-Employed,,,Associate Degree,Divorced,0,2.53,IHG,1,No,13,No,Business,1246.354242
+1611,Private Sector,54,Male,Associate Degree,Married,0,3.11,Discovery,,Yes,0,No,Leisure Travel,0
+1612,Private Sector,,,Bachelors Degree,Widowed,1,3.29,Expedia,28,No,2,Yes,Business,162.101364
+1613,Self-Employed,44,Male,Doctorate,Single,0,3.5,IHG,11,No,16,No,Medical Tourism,1977.742096
+1614,Business,,,Bachelors Degree,Widowed,0,2.65,Discovery,34,No,11,No,Leisure Travel,3899.261896
+1615,Public Sector,58,Female,High School Equivalent,Married,1,3.29,None,,No,2,Yes,Medical Tourism,0
+1616,,,,Associate Degree,Single,0,3.37,IHG,48,No,15,No,Medical Tourism,0
+1617,Business,32,Female,High School Equivalent,Single,,3.07,None,9,No,15,Yes,Leisure Travel,10004.92818
+1618,Public Sector,,Female,Professional,Divorced,,2.94,None,21,No,5,Yes,Medical Tourism,11758.69917
+1619,Business,24,Male,High School Equivalent,Widowed,,3.49,IHG,26,No,1,No,Leisure Travel,2108.162301
+1620,Private Sector,,Male,High School Equivalent,Single,0,3.56,IHG,32,No,16,Yes,Medical Tourism,612.0584962
+1621,Private Sector,,Male,Associate Degree,Divorced,,2.39,Discovery,,No,5,No,Medical Tourism,0
+1622,Public Sector,,,Bachelors Degree,Married,,3.26,Marriott,,No,18,Yes,Leisure Travel,0
+1623,Self-Employed,40,,High School Equivalent,Widowed,1,2.42,None,45,Yes,0,No,Medical Tourism,1.406679129
+1624,Private Sector,33,Male,Associate Degree,Married,,2.42,None,13,No,12,Yes,Business,0
+1625,Business,28,Male,MBA,Widowed,0,3.54,None,44,No,4,No,Leisure Travel,4037.07934
+1626,Business,32,Female,High School Equivalent,Divorced,1,3.02,IHG,16,No,18,Yes,Business,388.505227
+1627,Public Sector,,Female,Professional,Divorced,,2.75,Marriott,32,No,9,Yes,Leisure Travel,0
+1628,Business,34,Female,High School Equivalent,Married,4,2.12,IHG,25,Yes,0,Yes,Business,3.549276773
+1629,Private Sector,34,Male,High School Equivalent,Divorced,3,2.95,Marriott,41,Yes,0,No,Leisure Travel,174.3639036
+1630,Public Sector,45,Female,MBA,Divorced,,2.87,Marriott,44,No,18,Yes,Business,16110.60938
+1631,Business,18,Male,Associate Degree,Widowed,4,3.18,Marriott,3,Yes,0,Yes,Leisure Travel,0
+1632,Business,28,,Bachelors Degree,Single,,2.49,IHG,45,No,19,Yes,Leisure Travel,47.39368058
+1633,Business,45,Female,Associate Degree,Single,0,1.96,Expedia,36,No,5,No,Business,10.201151
+1634,Private Sector,,Male,High School Equivalent,Married,,3.01,IHG,3,No,7,No,Leisure Travel,0
+1635,Private Sector,,Female,MBA,Divorced,0,2.25,None,17,Yes,0,Yes,Business,1490.533997
+1636,Private Sector,33,Female,MBA,Married,1,3.96,Marriott,40,No,8,No,Business,0.340526506
+1637,Private Sector,21,Female,High School Equivalent,Married,,2.68,IHG,20,Yes,0,No,Leisure Travel,0
+1638,Business,35,,Associate Degree,Divorced,,3.35,IHG,7,No,14,Yes,Medical Tourism,0
+1639,Business,,,Associate Degree,Married,1,2.8,IHG,23,Yes,0,Yes,Medical Tourism,0
+1640,Private Sector,,Female,High School Equivalent,Single,,2.37,Jumeirah,33,Yes,0,No,Business,382.0078804
+1641,Business,24,Male,Associate Degree,Single,0,2.95,Discovery,23,No,9,Yes,Medical Tourism,0
+1642,,18,Female,Associate Degree,Married,1,2.43,Marriott,1,No,3,No,Leisure Travel,0
+1643,Public Sector,55,Female,Bachelors Degree,Married,1,2.1,Marriott,12,No,10,Yes,Leisure Travel,0
+1644,Private Sector,44,Female,High School Equivalent,Married,,2.6,IHG,23,No,9,Yes,Business,6536.222333
+1645,Public Sector,59,,High School Equivalent,Married,1,2.96,None,,Yes,0,Yes,Leisure Travel,1198.421224
+1646,,20,Female,Doctorate,Divorced,,2.79,Marriott,44,No,4,Yes,Leisure Travel,0
+1647,Public Sector,,,Bachelors Degree,Divorced,,3.43,Hilton,44,Yes,0,Yes,Business,0.012055994
+1648,Public Sector,43,Male,High School Equivalent,Single,0,3.94,IHG,21,Yes,0,No,Medical Tourism,66.93178458
+1649,Private Sector,32,Male,Bachelors Degree,Divorced,1,3.15,Hilton,39,No,2,Yes,Business,8599.720524
+1650,Private Sector,45,Female,Associate Degree,Married,,3.43,Discovery,38,No,15,No,Medical Tourism,1511.197198
+1651,Public Sector,,Male,MBA,Married,1,2.37,Expedia,6,No,5,Yes,Business,0
+1652,Private Sector,,,High School Equivalent,Divorced,0,2.97,IHG,32,No,6,Yes,Medical Tourism,27.04636644
+1653,Self-Employed,52,,High School Equivalent,Divorced,3,2.32,None,12,Yes,0,No,Business,21.65625318
+1654,Public Sector,,Female,Bachelors Degree,Married,1,2.96,None,0,Yes,0,Yes,Business,13616.96839
+1655,Business,23,Female,Bachelors Degree,Widowed,0,4,IHG,17,No,14,Yes,Leisure Travel,0.156323787
+1656,Business,,Female,Professional,Married,,3.51,Hilton,44,No,15,No,Medical Tourism,492.0832435
+1657,Business,22,Female,Associate Degree,Widowed,0,2.73,None,41,No,17,Yes,Business,6034.765705
+1658,Business,22,Male,High School Equivalent,Married,1,2.79,Marriott,18,No,18,Yes,Leisure Travel,0.946529249
+1659,Private Sector,18,Male,Bachelors Degree,Divorced,1,3.78,Expedia,10,Yes,0,No,Business,0
+1660,Private Sector,23,Male,Bachelors Degree,Divorced,,2.7,Jumeirah,29,No,20,Yes,Leisure Travel,0
+1661,Private Sector,51,Female,High School Equivalent,Widowed,1,3.2,Marriott,46,Yes,0,Yes,Leisure Travel,1143.512313
+1662,Public Sector,,Male,Professional,Single,,2.87,Hilton,36,No,7,Yes,Business,67.90678814
+1663,Private Sector,35,,Masters Degree,Married,,1.59,Marriott,41,No,5,Yes,Business,9049.292653
+1664,Private Sector,39,Female,High School Equivalent,Married,,3.42,Marriott,39,No,5,No,Medical Tourism,0
+1665,Public Sector,,Female,Bachelors Degree,Single,,2.95,None,10,Yes,0,No,Business,4946.120185
+1666,Business,51,Female,MBA,Single,0,3.57,Discovery,5,No,6,No,Medical Tourism,0.210656494
+1667,Public Sector,,Female,Bachelors Degree,Married,,3.63,Jumeirah,23,No,8,No,Leisure Travel,0
+1668,Private Sector,,Female,High School Equivalent,Married,4,2.69,None,49,No,13,Yes,Business,1581.165397
+1669,Private Sector,24,,High School Equivalent,Single,0,2.59,Discovery,17,No,7,No,Leisure Travel,0
+1670,Public Sector,51,Female,High School Equivalent,Single,0,3.1,Jumeirah,42,Yes,0,No,Leisure Travel,0
+1671,Business,,Female,High School Equivalent,Widowed,,3.38,Expedia,49,No,13,No,Leisure Travel,0
+1672,Self-Employed,55,Female,Associate Degree,Widowed,,2.62,Marriott,1,No,6,Yes,Medical Tourism,108.7503767
+1673,Business,,Male,High School Equivalent,Married,,2.42,Hilton,23,No,7,Yes,Leisure Travel,537.7250442
+1674,Private Sector,18,Male,Bachelors Degree,Single,0,3.41,IHG,34,No,16,Yes,Medical Tourism,0.014742178
+1675,Business,18,Female,Doctorate,Divorced,,2.98,None,34,Yes,0,No,Business,26.48791995
+1676,Business,27,,Masters Degree,Married,0,3.26,IHG,44,Yes,0,Yes,Business,0.604708128
+1677,Private Sector,,Female,MBA,Single,0,2.62,None,48,Yes,0,No,Medical Tourism,16.94770141
+1678,Private Sector,,,MBA,Single,,2.31,Discovery,9,No,14,Yes,Medical Tourism,2570.634843
+1679,Self-Employed,25,,Professional,Single,0,2.39,Marriott,40,Yes,0,Yes,Business,0
+1680,Private Sector,19,Female,High School Equivalent,Single,0,1.91,IHG,,No,2,No,Medical Tourism,0
+1681,,51,,MBA,Single,0,2.96,Marriott,13,No,11,No,Business,675.1576049
+1682,Private Sector,,Male,Bachelors Degree,Divorced,,2.26,IHG,4,No,7,Yes,Leisure Travel,0
+1683,Self-Employed,,,Bachelors Degree,Single,0,2.48,Jumeirah,11,No,20,Yes,Business,4979.479515
+1684,Private Sector,,Female,High School Equivalent,Single,0,3.46,IHG,33,No,1,Yes,Business,318.4210084
+1685,Private Sector,,,Associate Degree,Widowed,4,3.18,Marriott,35,No,16,Yes,Leisure Travel,138.6371146
+1686,Private Sector,48,Female,Bachelors Degree,Married,,2.67,IHG,13,No,14,No,Leisure Travel,0
+1687,Private Sector,33,Male,Associate Degree,Married,2,2.63,IHG,37,No,20,No,Medical Tourism,0
+1688,,,Female,MBA,Married,1,2.64,Expedia,46,No,4,No,Medical Tourism,0
+1689,Private Sector,23,Male,MBA,Single,,4,None,18,No,1,Yes,Leisure Travel,492.9914568
+1690,Private Sector,,,Associate Degree,Single,0,2.61,IHG,,Yes,0,No,Leisure Travel,0
+1691,Public Sector,38,,MBA,Divorced,0,2.78,Jumeirah,35,No,17,Yes,Medical Tourism,0
+1692,Private Sector,57,,Associate Degree,Divorced,3,2.93,Marriott,24,No,3,Yes,Leisure Travel,0
+1693,Business,,Female,MBA,Divorced,1,2.87,Marriott,32,No,11,Yes,Leisure Travel,1419.530844
+1694,Public Sector,50,Female,Associate Degree,Married,,2.41,IHG,11,No,2,No,Business,1203.387306
+1695,Private Sector,55,Female,Doctorate,Widowed,,2.91,Marriott,30,Yes,0,No,Business,0
+1696,Public Sector,,Female,Masters Degree,Single,,3.39,IHG,4,No,17,Yes,Medical Tourism,13762.35568
+1697,Public Sector,42,Female,High School Equivalent,Married,3,2.79,None,23,No,1,Yes,Leisure Travel,5541.371657
+1698,Private Sector,45,Male,High School Equivalent,Widowed,1,2.87,Marriott,40,No,19,Yes,Business,4204.126734
+1699,Private Sector,38,Female,High School Equivalent,Married,1,2.97,None,0,Yes,0,No,Business,0
+1700,Business,50,Male,Associate Degree,Divorced,,2.51,Discovery,17,Yes,0,No,Business,33274.17627
+1701,,,Male,High School Equivalent,Single,0,2.85,Marriott,16,No,6,No,Leisure Travel,7.943623614
+1702,Business,,Male,High School Equivalent,Divorced,1,2.58,IHG,28,Yes,0,No,Medical Tourism,0
+1703,Business,23,Male,Associate Degree,Single,,2.59,IHG,21,Yes,0,No,Leisure Travel,509.1011511
+1704,Self-Employed,53,Female,MBA,Single,,3.63,Marriott,13,No,17,Yes,Leisure Travel,60.51228347
+1705,Business,52,Female,MBA,Married,,2.94,None,24,No,19,No,Leisure Travel,0
+1706,Private Sector,25,Male,High School Equivalent,Single,0,2.65,Discovery,27,No,9,No,Business,0
+1707,Private Sector,,Male,MBA,Married,1,3.82,Expedia,,Yes,0,Yes,Leisure Travel,0
+1708,Private Sector,59,Male,MBA,Married,0,3.02,IHG,39,No,3,Yes,Business,0.435257764
+1709,Self-Employed,26,Female,Bachelors Degree,Divorced,,3.88,Marriott,29,No,10,No,Medical Tourism,5325.019876
+1710,Private Sector,39,,Associate Degree,Married,,2.88,Marriott,48,Yes,0,No,Business,1138.261316
+1711,Private Sector,59,,High School Equivalent,Married,0,3.52,Discovery,29,Yes,0,Yes,Business,16111.63997
+1712,Private Sector,,Male,High School Equivalent,Widowed,,2.79,None,19,No,7,No,Leisure Travel,15.35218184
+1713,Private Sector,53,Female,Associate Degree,Single,0,2.65,None,24,No,2,No,Medical Tourism,874.2941322
+1714,Private Sector,,Female,MBA,Married,,2.53,Marriott,,No,18,No,Business,5551.396825
+1715,Private Sector,,Female,Masters Degree,Married,,3.72,Discovery,32,No,4,Yes,Business,0.623321182
+1716,Self-Employed,35,,High School Equivalent,Single,,3.78,Hilton,15,No,19,Yes,Business,0
+1717,Private Sector,,Female,High School Equivalent,Widowed,,2.86,IHG,23,No,12,Yes,Business,0
+1718,Self-Employed,,Male,Bachelors Degree,Divorced,,2.65,None,23,Yes,0,Yes,Leisure Travel,4998.263836
+1719,Business,,,Doctorate,Married,1,2.84,IHG,47,No,6,No,Business,616.1029167
+1720,Private Sector,57,Female,MBA,Widowed,,2.73,Expedia,2,No,13,Yes,Business,0
+1721,Public Sector,25,,Bachelors Degree,Married,0,2.46,Discovery,19,No,11,Yes,Medical Tourism,0
+1722,Business,24,Male,Bachelors Degree,Divorced,,2.87,Marriott,47,No,4,Yes,Medical Tourism,0
+1723,,,,MBA,Married,1,2.72,Discovery,9,Yes,0,Yes,Medical Tourism,0
+1724,Business,,,High School Equivalent,Married,0,3.11,Jumeirah,48,Yes,0,Yes,Leisure Travel,8655.556868
+1725,Private Sector,27,,Professional,Married,,3.38,Discovery,8,No,3,Yes,Medical Tourism,11145.93889
+1726,,42,,Associate Degree,Divorced,,2.69,Hilton,14,No,11,Yes,Medical Tourism,0.617682199
+1727,,49,,High School Equivalent,Single,,2.31,Marriott,24,No,16,No,Business,22929.53811
+1728,Private Sector,26,Female,Associate Degree,Divorced,,2.9,None,2,No,7,No,Business,0
+1729,Business,,Female,MBA,Divorced,1,2.75,IHG,36,No,11,No,Medical Tourism,0
+1730,Public Sector,33,Female,High School Equivalent,Divorced,,3.54,IHG,37,No,8,Yes,Leisure Travel,605.4159314
+1731,Private Sector,44,Male,Associate Degree,Single,0,2.77,IHG,49,Yes,0,Yes,Medical Tourism,0
+1732,Public Sector,57,Female,High School Equivalent,Married,1,3.09,None,24,Yes,0,Yes,Business,7364.55268
+1733,Business,,,MBA,Widowed,,2.8,IHG,2,Yes,0,Yes,Business,0
+1734,Private Sector,46,Female,High School Equivalent,Single,0,2.69,IHG,,No,17,Yes,Medical Tourism,1330.769875
+1735,Self-Employed,33,Male,Associate Degree,Single,0,2.76,IHG,18,No,13,No,Business,0
+1736,Business,,Male,Masters Degree,Widowed,,2.56,Expedia,35,Yes,0,No,Business,246.1360094
+1737,Business,54,Male,MBA,Married,1,2.28,Jumeirah,31,No,19,Yes,Business,452.8634566
+1738,Public Sector,,,MBA,Married,,3.96,Marriott,3,Yes,0,Yes,Business,0
+1739,Public Sector,,Female,High School Equivalent,Divorced,1,1.74,Expedia,20,Yes,0,No,Leisure Travel,5.312520089
+1740,Private Sector,47,Female,High School Equivalent,Divorced,,2.54,IHG,,Yes,0,Yes,Leisure Travel,420.6701577
+1741,Business,59,Female,High School Equivalent,Married,1,3.28,None,,Yes,0,No,Medical Tourism,1688.984097
+1742,Private Sector,46,Female,Doctorate,Married,,3.31,Hilton,0,No,2,Yes,Medical Tourism,250.4987171
+1743,Business,45,Female,Bachelors Degree,Married,1,2.73,IHG,15,Yes,0,No,Business,0
+1744,Business,,,Bachelors Degree,Divorced,1,2.37,Hilton,22,No,16,No,Business,0.003985773
+1745,Business,32,Female,Bachelors Degree,Single,,2.78,Marriott,26,No,3,Yes,Leisure Travel,0
+1746,Private Sector,,Female,High School Equivalent,Married,,2.35,None,35,No,6,No,Medical Tourism,0
+1747,,59,Male,Associate Degree,Married,,3.22,None,3,Yes,0,Yes,Medical Tourism,2690.396139
+1748,Private Sector,,Male,High School Equivalent,Single,,2.56,None,32,No,8,No,Medical Tourism,1.168567253
+1749,Private Sector,42,Female,MBA,Married,1,2.72,Hilton,45,No,17,Yes,Leisure Travel,455.5574264
+1750,Private Sector,,Male,Technical/Occupational Certificate,Married,,1.96,Jumeirah,24,No,15,Yes,Medical Tourism,0
+1751,Public Sector,,,Bachelors Degree,Divorced,1,2.61,None,26,No,6,No,Leisure Travel,500.0213813
+1752,Private Sector,21,Female,High School Equivalent,Single,0,2.78,Hilton,16,No,4,No,Leisure Travel,14.21135924
+1753,Private Sector,43,Female,Bachelors Degree,Single,,2.97,IHG,36,Yes,0,No,Leisure Travel,1.055579776
+1754,Private Sector,,Male,Bachelors Degree,Divorced,,2.6,IHG,2,No,10,No,Leisure Travel,0
+1755,Private Sector,34,Male,Technical/Occupational Certificate,Widowed,1,2.02,None,27,Yes,0,No,Medical Tourism,0
+1756,Public Sector,,Male,Professional,Single,0,2.47,IHG,46,Yes,0,Yes,Leisure Travel,0
+1757,Business,,Female,Masters Degree,Married,,2.8,Jumeirah,16,No,8,Yes,Business,0
+1758,Private Sector,,,Professional,Divorced,1,2.92,Jumeirah,0,Yes,0,No,Leisure Travel,0.003616771
+1759,Business,,Female,High School Equivalent,Single,,2.41,IHG,12,No,10,Yes,Business,59.89833869
+1760,Private Sector,48,Male,Technical/Occupational Certificate,Married,0,2.68,IHG,29,No,2,Yes,Medical Tourism,0
+1761,Private Sector,,,High School Equivalent,Single,,2.89,IHG,30,No,12,No,Leisure Travel,0
+1762,Business,,,High School Equivalent,Widowed,0,3.49,IHG,23,No,13,Yes,Business,0
+1763,Public Sector,,Male,High School Equivalent,Married,1,2.39,IHG,9,No,14,Yes,Business,0.000261468
+1764,Private Sector,,Female,High School Equivalent,Married,0,2.24,IHG,,No,8,No,Medical Tourism,23.87064612
+1765,Public Sector,,Female,Masters Degree,Married,,3.27,Marriott,17,No,8,Yes,Leisure Travel,2.465367217
+1766,Self-Employed,25,Female,MBA,Married,0,3.13,None,31,No,8,No,Medical Tourism,0
+1767,Business,36,Male,High School Equivalent,Married,0,2.35,IHG,30,No,5,Yes,Business,6.81725E-06
+1768,Private Sector,,Female,Bachelors Degree,Single,,3.7,Marriott,28,No,5,No,Business,845.612909
+1769,Business,45,Female,Masters Degree,Married,1,3.42,IHG,,Yes,0,No,Medical Tourism,0
+1770,Self-Employed,,Female,High School Equivalent,Married,,3.05,None,40,Yes,0,No,Business,29.26739217
+1771,Private Sector,39,,High School Equivalent,Married,1,2.28,IHG,33,No,13,Yes,Business,1192.891447
+1772,Private Sector,,,MBA,Married,,2.42,IHG,,No,9,Yes,Business,0
+1773,Public Sector,32,Female,High School Equivalent,Married,,2.66,IHG,24,No,12,No,Business,3386.703966
+1774,Private Sector,,Female,Bachelors Degree,Married,,3.05,None,11,Yes,0,No,Business,8.251637199
+1775,Business,,,Bachelors Degree,Divorced,,3.17,IHG,34,Yes,0,Yes,Leisure Travel,0
+1776,Business,,Male,MBA,Divorced,,2.82,IHG,23,No,13,No,Leisure Travel,0
+1777,Private Sector,,Male,MBA,Married,1,3.02,Discovery,,No,17,No,Leisure Travel,4504.29219
+1778,Private Sector,23,Male,Bachelors Degree,Married,1,2.4,IHG,47,No,2,Yes,Medical Tourism,0
+1779,Self-Employed,48,Male,High School Equivalent,Widowed,1,2.94,IHG,32,Yes,0,No,Leisure Travel,192.866535
+1780,Business,,,Professional,Single,,3.34,Discovery,2,Yes,0,Yes,Leisure Travel,0
+1781,Public Sector,,Male,MBA,Divorced,1,3.56,Marriott,,No,16,No,Medical Tourism,2.58523E-06
+1782,Private Sector,56,Female,Professional,Married,1,2.26,IHG,12,No,2,No,Medical Tourism,16.4119821
+1783,Public Sector,56,Female,High School Equivalent,Married,,3.24,IHG,8,No,19,Yes,Medical Tourism,2.238170176
+1784,Public Sector,,,Associate Degree,Widowed,3,2.45,Marriott,1,No,10,No,Business,5736.744288
+1785,Business,,Male,Associate Degree,Married,1,3.15,Expedia,14,No,20,Yes,Leisure Travel,0
+1786,Private Sector,48,Female,Bachelors Degree,Married,1,2.08,Jumeirah,44,No,8,No,Business,0
+1787,Business,55,Female,Bachelors Degree,Married,1,3.08,None,8,No,10,No,Leisure Travel,0
+1788,Public Sector,,Female,MBA,Married,,2.64,IHG,40,No,9,No,Medical Tourism,9.5352E-10
+1789,Private Sector,,,MBA,Married,,1.88,IHG,42,No,20,No,Business,6691.192338
+1790,Private Sector,,Male,Bachelors Degree,Single,,2.69,None,7,No,12,No,Leisure Travel,9603.104174
+1791,Public Sector,,Male,High School Equivalent,Single,0,3.37,Hilton,18,No,3,Yes,Business,0
+1792,Private Sector,57,,High School Equivalent,Single,0,3.34,Marriott,35,No,10,Yes,Business,0
+1793,Public Sector,,Female,Masters Degree,Divorced,1,2.84,Marriott,14,No,19,Yes,Leisure Travel,0
+1794,Public Sector,,,High School Equivalent,Single,,3.36,Marriott,17,Yes,0,Yes,Medical Tourism,0
+1795,Private Sector,,Female,Associate Degree,Widowed,,3.39,Jumeirah,1,No,1,No,Leisure Travel,2291.724643
+1796,Private Sector,45,Female,MBA,Single,0,3.03,IHG,11,No,3,No,Medical Tourism,667.8144886
+1797,Business,39,Female,Bachelors Degree,Single,0,4,Marriott,11,Yes,0,Yes,Medical Tourism,1614.638081
+1798,Self-Employed,34,Female,High School Equivalent,Married,1,3.06,IHG,15,Yes,0,Yes,Medical Tourism,0
+1799,Private Sector,23,Female,Bachelors Degree,Single,,3.16,Discovery,40,No,18,No,Leisure Travel,548.6709717
+1800,Public Sector,,Male,High School Equivalent,Divorced,1,2.23,None,17,Yes,0,No,Medical Tourism,0
+1801,Self-Employed,39,,Bachelors Degree,Divorced,1,3.15,Expedia,26,No,7,Yes,Business,0
+1802,Self-Employed,,Male,Associate Degree,Single,,3.17,Jumeirah,10,Yes,0,Yes,Business,3.506725135
+1803,Private Sector,39,Male,Bachelors Degree,Single,,2.28,None,15,No,18,No,Business,9.37978E-07
+1804,Business,,Female,High School Equivalent,Single,0,2.49,Jumeirah,42,No,1,Yes,Medical Tourism,1502.002116
+1805,Private Sector,,Male,MBA,Married,1,2.92,None,7,No,9,Yes,Medical Tourism,2.433637954
+1806,Private Sector,44,Male,Bachelors Degree,Single,,3.09,Hilton,7,No,19,Yes,Medical Tourism,0
+1807,Private Sector,,,Professional,Single,0,3.47,Marriott,35,No,7,No,Medical Tourism,0
+1808,,54,Male,Associate Degree,Widowed,,3.51,Jumeirah,,Yes,0,No,Business,4.608188731
+1809,Private Sector,,Female,High School Equivalent,Single,,2.67,Marriott,,No,10,No,Medical Tourism,69.46141431
+1810,Private Sector,20,Male,MBA,Divorced,,1.65,IHG,16,No,19,No,Medical Tourism,0
+1811,Private Sector,,Male,Bachelors Degree,Single,,3.61,Expedia,18,No,19,No,Leisure Travel,0.653535766
+1812,Public Sector,27,,High School Equivalent,Single,0,2.95,IHG,8,No,9,Yes,Medical Tourism,28219.775
+1813,Business,,,MBA,Divorced,,3.08,IHG,34,No,8,No,Leisure Travel,11854.6594
+1814,Public Sector,30,Male,Associate Degree,Divorced,1,1.9,Discovery,41,No,5,No,Medical Tourism,0
+1815,Private Sector,51,Male,Bachelors Degree,Divorced,1,3.06,IHG,,Yes,0,No,Leisure Travel,203.735804
+1816,Private Sector,,Female,MBA,Single,,1.87,None,47,No,14,Yes,Medical Tourism,22802.25258
+1817,Business,55,Female,High School Equivalent,Married,,1.81,None,32,No,3,Yes,Medical Tourism,7694.726516
+1818,Private Sector,29,Male,Associate Degree,Married,0,3.43,Expedia,26,No,20,Yes,Medical Tourism,925.1391316
+1819,Public Sector,18,,Associate Degree,Single,,2.39,None,41,No,15,No,Business,0
+1820,Self-Employed,58,,Bachelors Degree,Divorced,1,3.26,Hilton,0,No,10,Yes,Leisure Travel,0
+1821,Business,52,,Masters Degree,Divorced,,3.12,Discovery,,No,7,No,Medical Tourism,509.8863859
+1822,Private Sector,,Female,Associate Degree,Married,,3.9,IHG,36,No,5,No,Medical Tourism,0.067068093
+1823,Business,33,Female,Associate Degree,Single,0,2.9,Discovery,34,No,14,Yes,Business,0.72420362
+1824,Public Sector,,Female,Bachelors Degree,Married,,2.81,Marriott,5,No,10,No,Leisure Travel,2760.168475
+1825,Business,35,,High School Equivalent,Divorced,1,1.99,IHG,4,No,14,No,Business,0
+1826,Business,40,,Bachelors Degree,Married,1,3.55,None,,No,17,Yes,Medical Tourism,6.691903055
+1827,Public Sector,43,Male,Associate Degree,Widowed,,3.7,Marriott,34,Yes,0,Yes,Medical Tourism,3.368795924
+1828,Private Sector,53,Female,MBA,Single,0,2.35,IHG,9,Yes,0,No,Medical Tourism,0
+1829,Private Sector,23,Male,Bachelors Degree,Divorced,,3.58,Expedia,27,Yes,0,No,Leisure Travel,0
+1830,Business,46,Male,MBA,Divorced,1,2.26,IHG,14,Yes,0,Yes,Leisure Travel,0
+1831,Private Sector,27,,MBA,Married,,1.67,Marriott,49,No,14,Yes,Business,1826.432687
+1832,Public Sector,,Male,High School Equivalent,Married,1,2.79,Marriott,31,No,11,Yes,Leisure Travel,0
+1833,Self-Employed,33,Female,Associate Degree,Married,,3.2,IHG,36,Yes,0,No,Medical Tourism,0
+1834,Business,39,Female,High School Equivalent,Single,0,1.97,Hilton,31,No,18,No,Medical Tourism,0
+1835,Business,56,,Bachelors Degree,Divorced,1,3.06,IHG,40,No,3,No,Business,0
+1836,Private Sector,,Male,High School Equivalent,Single,,2.59,Discovery,18,No,18,Yes,Medical Tourism,0
+1837,Private Sector,,,High School Equivalent,Single,0,2.75,Marriott,12,Yes,0,Yes,Business,0
+1838,Private Sector,35,Male,Technical/Occupational Certificate,Married,1,2.87,Discovery,0,Yes,0,No,Medical Tourism,0
+1839,Business,47,Female,Bachelors Degree,Widowed,1,4,Marriott,9,No,10,Yes,Leisure Travel,0
+1840,Business,23,,High School Equivalent,Widowed,1,2.42,Jumeirah,12,No,4,Yes,Medical Tourism,0
+1841,Public Sector,46,Female,MBA,Married,1,2.64,None,23,No,5,Yes,Leisure Travel,14.10821403
+1842,Private Sector,,Female,Associate Degree,Married,0,3.02,Marriott,9,No,11,No,Leisure Travel,3996.044458
+1843,Business,,Female,Bachelors Degree,Married,,3.41,None,,No,5,No,Leisure Travel,1378.259865
+1844,Business,,Male,High School Equivalent,Single,,3.25,IHG,9,No,18,Yes,Leisure Travel,117.2943698
+1845,Private Sector,35,,Bachelors Degree,Widowed,1,2.94,Discovery,3,No,13,No,Leisure Travel,10024.49572
+1846,Private Sector,30,Female,Technical/Occupational Certificate,Married,,3.03,Marriott,6,No,1,No,Leisure Travel,14.54004344
+1847,Self-Employed,,Male,Masters Degree,Single,,3.21,IHG,20,No,18,Yes,Business,0
+1848,Public Sector,57,Female,Associate Degree,Divorced,,2.67,IHG,5,Yes,0,Yes,Medical Tourism,0
+1849,Public Sector,57,Female,Associate Degree,Married,,3.37,None,2,Yes,0,No,Business,0.000714084
+1850,Business,54,Male,High School Equivalent,Divorced,1,2.23,Marriott,32,Yes,0,Yes,Medical Tourism,123.1359949
+1851,Private Sector,34,,High School Equivalent,Married,,2.17,None,28,No,18,No,Leisure Travel,0
+1852,Self-Employed,31,Male,Associate Degree,Single,0,2.77,Marriott,19,No,5,Yes,Business,86.85482761
+1853,,,Female,Associate Degree,Married,1,2.31,Marriott,17,Yes,0,Yes,Leisure Travel,5640.354306
+1854,Private Sector,,Female,MBA,Single,,2.94,Expedia,7,No,13,No,Business,0
+1855,Business,32,Female,High School Equivalent,Single,,3.15,IHG,27,No,19,Yes,Leisure Travel,0
+1856,Business,,Male,Associate Degree,Single,0,2.74,Jumeirah,42,No,2,Yes,Leisure Travel,4264.820401
+1857,Business,42,,Doctorate,Divorced,,3.26,IHG,18,Yes,0,No,Medical Tourism,0
+1858,Private Sector,,Female,High School Equivalent,Divorced,3,3.59,Hilton,24,No,10,No,Business,0
+1859,,31,Male,MBA,Married,,2.78,IHG,34,No,13,Yes,Medical Tourism,116.5657546
+1860,Public Sector,18,Female,Associate Degree,Married,0,2.89,IHG,22,No,19,No,Business,396.4919893
+1861,Private Sector,,Female,High School Equivalent,Divorced,1,2.35,Marriott,36,No,11,Yes,Leisure Travel,3034.843176
+1862,Private Sector,60,Female,Professional,Single,,2.34,Discovery,13,No,19,Yes,Leisure Travel,9445.556513
+1863,Public Sector,,,High School Equivalent,Single,,3.45,Marriott,42,No,17,Yes,Medical Tourism,2994.610789
+1864,Private Sector,,Female,Masters Degree,Married,,2.45,None,,No,4,No,Medical Tourism,1238.115948
+1865,Business,46,Female,Associate Degree,Divorced,1,2.54,IHG,5,Yes,0,No,Leisure Travel,6023.56345
+1866,Private Sector,,Male,Bachelors Degree,Single,0,2.7,Discovery,13,No,14,Yes,Medical Tourism,13075.5622
+1867,Self-Employed,40,Female,High School Equivalent,Married,1,3.2,IHG,30,No,20,No,Leisure Travel,0.792421231
+1868,Private Sector,43,Male,MBA,Widowed,0,2.1,Marriott,1,No,19,Yes,Business,9.597807638
+1869,Private Sector,25,Female,Associate Degree,Single,0,3.12,None,5,No,17,No,Leisure Travel,0
+1870,Private Sector,,Male,MBA,Divorced,,2.55,None,39,Yes,0,Yes,Leisure Travel,0
+1871,Private Sector,41,,MBA,Married,,2.95,IHG,26,No,19,Yes,Leisure Travel,0
+1872,Business,24,Male,MBA,Divorced,,3.9,Jumeirah,43,No,7,Yes,Medical Tourism,0
+1873,Public Sector,40,Female,Bachelors Degree,Divorced,1,4,Marriott,22,No,19,Yes,Business,34432.66179
+1874,Private Sector,51,Male,Bachelors Degree,Married,0,2.5,Marriott,18,No,9,No,Business,25.66813577
+1875,Private Sector,,Female,High School Equivalent,Married,,2.88,Discovery,4,No,10,No,Medical Tourism,1552.476821
+1876,Business,20,Female,Bachelors Degree,Married,1,3.54,None,38,No,6,No,Medical Tourism,0
+1877,Public Sector,50,Male,MBA,Married,1,2.15,IHG,5,No,19,No,Leisure Travel,0
+1878,Private Sector,39,Male,Associate Degree,Married,1,3.08,IHG,,No,20,No,Business,0
+1879,Private Sector,50,Female,MBA,Married,,2.95,Marriott,44,No,16,No,Business,634.4236727
+1880,Private Sector,34,,MBA,Single,,3.16,IHG,22,Yes,0,Yes,Leisure Travel,0
+1881,Business,34,Male,Bachelors Degree,Single,0,2.59,Marriott,6,No,11,Yes,Medical Tourism,4843.348106
+1882,Private Sector,54,Female,Bachelors Degree,Widowed,,2.35,IHG,2,No,20,Yes,Medical Tourism,9.46486E-05
+1883,Private Sector,,Female,High School Equivalent,Divorced,,2.72,Marriott,20,No,14,Yes,Leisure Travel,0
+1884,Self-Employed,58,Female,MBA,Married,,3.39,Jumeirah,39,No,8,No,Leisure Travel,842.2178682
+1885,Public Sector,,,High School Equivalent,Married,3,2.66,Jumeirah,32,No,14,No,Medical Tourism,0
+1886,Private Sector,41,Male,High School Equivalent,Married,2,2.97,None,37,No,6,No,Business,0
+1887,,29,Female,Associate Degree,Single,0,3.05,Marriott,,No,17,No,Business,0
+1888,Public Sector,,Female,Bachelors Degree,Single,0,3.62,None,10,Yes,0,Yes,Business,311.2633
+1889,Private Sector,,Female,High School Equivalent,Married,1,2.67,IHG,41,No,18,No,Medical Tourism,0
+1890,Private Sector,,Male,Masters Degree,Single,0,2.97,Marriott,49,No,11,Yes,Medical Tourism,0
+1891,Public Sector,33,Male,Bachelors Degree,Divorced,1,2.89,Marriott,35,No,12,Yes,Medical Tourism,0
+1892,Private Sector,,Male,Associate Degree,Married,0,3.39,Discovery,7,No,15,Yes,Medical Tourism,0
+1893,Private Sector,,Female,High School Equivalent,Married,4,2.34,Hilton,10,No,6,No,Leisure Travel,0
+1894,Self-Employed,,,Associate Degree,Divorced,3,2.93,Discovery,11,Yes,0,Yes,Medical Tourism,0
+1895,Public Sector,57,Female,MBA,Married,,3.39,Jumeirah,7,No,8,Yes,Medical Tourism,0
+1896,Private Sector,48,Female,High School Equivalent,Married,,3.22,IHG,13,No,18,Yes,Medical Tourism,0
+1897,Private Sector,40,Male,High School Equivalent,Married,0,2.45,IHG,13,Yes,0,Yes,Leisure Travel,2.90353E-07
+1898,Business,28,,Associate Degree,Married,2,3.71,Expedia,20,Yes,0,Yes,Business,0
+1899,Public Sector,52,,Bachelors Degree,Widowed,1,3.53,Marriott,33,Yes,0,No,Leisure Travel,0
+1900,Public Sector,,Male,MBA,Married,1,2.25,IHG,32,Yes,0,No,Business,0
+1901,Private Sector,41,Female,MBA,Widowed,,3.26,IHG,32,No,13,Yes,Business,0
+1902,Public Sector,21,Male,Bachelors Degree,Single,0,2.86,IHG,17,No,13,No,Medical Tourism,2281.191004
+1903,Business,29,Male,Associate Degree,Married,1,3.03,Marriott,32,No,8,No,Medical Tourism,97.7155964
+1904,Private Sector,,,High School Equivalent,Single,0,3.33,IHG,20,No,16,No,Medical Tourism,0
+1905,Business,20,Female,MBA,Married,1,2.01,IHG,15,No,7,No,Business,1900.239633
+1906,Business,,Male,High School Equivalent,Single,,3.01,None,8,Yes,0,Yes,Business,377.8117108
+1907,Private Sector,53,Male,Professional,Single,0,2.93,IHG,38,No,13,Yes,Leisure Travel,1092.726846
+1908,Private Sector,,Female,Bachelors Degree,Widowed,,2.75,IHG,41,No,2,No,Medical Tourism,11067.20425
+1909,Public Sector,,Female,High School Equivalent,Single,0,2.35,IHG,28,No,1,No,Leisure Travel,0
+1910,Private Sector,,Male,Bachelors Degree,Married,,2.69,IHG,44,Yes,0,Yes,Leisure Travel,0
+1911,Business,60,Female,MBA,Married,1,3.34,Hilton,4,No,18,Yes,Business,0
+1912,Business,20,Female,Bachelors Degree,Widowed,,2.94,IHG,33,No,5,Yes,Business,95.33447612
+1913,Public Sector,26,,MBA,Divorced,3,2.74,Marriott,18,No,20,No,Leisure Travel,4.28785E-10
+1914,Private Sector,57,Male,High School Equivalent,Single,,3.41,Expedia,26,No,14,No,Business,4727.714444
+1915,Private Sector,,Female,Associate Degree,Single,,3.39,None,20,No,9,No,Leisure Travel,7811.421021
+1916,Private Sector,,,High School Equivalent,Single,,2.45,IHG,34,No,14,Yes,Medical Tourism,0
+1917,Business,35,Female,High School Equivalent,Married,,3.03,Marriott,2,Yes,0,No,Medical Tourism,244.2140999
+1918,Private Sector,34,Female,Bachelors Degree,Married,1,2.78,Marriott,11,No,18,Yes,Leisure Travel,5.789635641
+1919,Public Sector,,Female,High School Equivalent,Married,1,3.14,None,33,No,9,No,Business,6935.86466
+1920,Private Sector,,Female,High School Equivalent,Single,0,3.34,Discovery,45,No,20,Yes,Medical Tourism,0
+1921,Private Sector,42,Female,High School Equivalent,Single,,1.89,Hilton,34,No,14,No,Leisure Travel,0.273389228
+1922,Business,52,,High School Equivalent,Married,,3.42,IHG,27,No,7,Yes,Leisure Travel,0
+1923,Business,,Female,High School Equivalent,Single,0,3.64,IHG,42,No,7,No,Business,1.51124297
+1924,Private Sector,,,MBA,Widowed,3,2.9,Expedia,39,No,16,Yes,Medical Tourism,195.5764093
+1925,Private Sector,,Female,High School Equivalent,Married,1,3.06,Discovery,33,No,3,Yes,Leisure Travel,0
+1926,Private Sector,42,Male,MBA,Divorced,,2.98,None,16,Yes,0,No,Business,710.8108898
+1927,Business,,,Professional,Single,0,2.32,Marriott,20,No,19,No,Business,0
+1928,Private Sector,41,Male,Professional,Married,1,3.6,IHG,,No,16,No,Business,14.58853085
+1929,Business,21,Female,Bachelors Degree,Married,2,2.77,None,19,Yes,0,Yes,Business,15385.51959
+1930,Public Sector,36,Male,Technical/Occupational Certificate,Single,,3.02,Marriott,6,Yes,0,Yes,Business,653.0136159
+1931,Business,54,,High School Equivalent,Single,,2.49,Marriott,25,No,8,Yes,Leisure Travel,3.412883341
+1932,,,,Bachelors Degree,Widowed,,2.93,None,26,No,11,No,Business,0
+1933,Self-Employed,28,Female,High School Equivalent,Married,1,2.9,Marriott,22,No,13,No,Medical Tourism,1068.853673
+1934,Private Sector,,,Associate Degree,Divorced,1,2.87,Marriott,33,No,5,No,Medical Tourism,0
+1935,Self-Employed,,Male,Professional,Married,2,2.98,IHG,3,Yes,0,Yes,Business,0
+1936,Business,19,,High School Equivalent,Married,,3.1,Discovery,,Yes,0,Yes,Leisure Travel,0
+1937,Business,,,High School Equivalent,Married,2,2.34,Hilton,0,No,15,Yes,Business,2349.893243
+1938,Private Sector,,Male,Masters Degree,Single,0,3.07,Marriott,40,No,19,Yes,Leisure Travel,28.32010391
+1939,Business,,Male,High School Equivalent,Married,,3.21,Marriott,19,No,4,No,Medical Tourism,7.644126945
+1940,Private Sector,,,MBA,Single,0,3.2,Marriott,46,No,19,No,Business,77.43266101
+1941,Business,43,,High School Equivalent,Single,,3.25,Jumeirah,24,Yes,0,Yes,Leisure Travel,0
+1942,Private Sector,,,MBA,Single,0,1.81,IHG,28,No,17,Yes,Business,0
+1943,Private Sector,37,Female,High School Equivalent,Single,0,2.63,Marriott,,Yes,0,No,Medical Tourism,4154.286016
+1944,Self-Employed,30,Male,MBA,Single,,3.4,IHG,49,No,19,Yes,Medical Tourism,0.001137006
+1945,Private Sector,50,,MBA,Single,,3.04,None,9,Yes,0,No,Business,0
+1946,Private Sector,29,Female,Bachelors Degree,Married,,2.58,Marriott,49,No,15,No,Business,0
+1947,Public Sector,45,Female,Associate Degree,Single,,3.73,Jumeirah,26,No,10,Yes,Business,0
+1948,Public Sector,,Male,High School Equivalent,Single,0,2.68,Hilton,9,No,4,Yes,Medical Tourism,2.850504418
+1949,Private Sector,32,Female,Associate Degree,Married,0,3.73,None,,No,13,Yes,Leisure Travel,0
+1950,Public Sector,54,Female,Bachelors Degree,Single,,3.43,IHG,,No,16,Yes,Business,0
+1951,Private Sector,,Male,Associate Degree,Divorced,,1.23,Marriott,47,No,13,Yes,Business,681.4907053
+1952,Private Sector,38,Female,High School Equivalent,Single,,2.5,Marriott,44,No,8,No,Leisure Travel,0
+1953,Business,21,Male,Associate Degree,Married,,3.29,IHG,,No,18,Yes,Medical Tourism,1887.382909
+1954,Private Sector,23,Female,Bachelors Degree,Divorced,0,3.81,None,,No,3,Yes,Medical Tourism,0
+1955,Self-Employed,,Female,Bachelors Degree,Single,,2.64,IHG,42,Yes,0,No,Medical Tourism,0
+1956,,,Male,Bachelors Degree,Single,,1.92,IHG,19,No,17,No,Leisure Travel,0
+1957,Private Sector,,Female,Bachelors Degree,Widowed,4,2.67,Marriott,3,No,5,No,Business,15222.49418
+1958,Private Sector,,,Associate Degree,Divorced,,3.56,None,10,No,14,Yes,Leisure Travel,0
+1959,Business,51,Male,Bachelors Degree,Married,1,2.61,Marriott,,No,12,No,Medical Tourism,0
+1960,Business,38,Male,MBA,Widowed,3,3.64,Expedia,36,No,11,Yes,Business,0
+1961,Business,43,Male,High School Equivalent,Divorced,,2.82,IHG,28,No,16,No,Medical Tourism,0
+1962,Public Sector,39,Male,High School Equivalent,Divorced,1,3.37,IHG,27,No,9,No,Business,0
+1963,Private Sector,,Female,High School Equivalent,Single,,3.15,Marriott,22,Yes,0,No,Business,4248.657771
+1964,Public Sector,,,Bachelors Degree,Single,,3.21,Marriott,15,Yes,0,No,Medical Tourism,1779.940247
+1965,Business,,,Associate Degree,Widowed,,2.34,IHG,18,Yes,0,Yes,Leisure Travel,0
+1966,Business,,,Masters Degree,Single,0,2.88,None,,Yes,0,No,Leisure Travel,0
+1967,Private Sector,25,Female,High School Equivalent,Married,,3.35,IHG,45,Yes,0,No,Leisure Travel,0
+1968,Private Sector,53,Male,MBA,Married,,2.76,IHG,45,No,7,No,Medical Tourism,0.730366648
+1969,Public Sector,,,High School Equivalent,Married,1,3.31,Discovery,19,No,13,Yes,Medical Tourism,0
+1970,Business,,Female,Bachelors Degree,Divorced,0,3.4,Marriott,35,No,15,Yes,Medical Tourism,11336.50354
+1971,Business,,Female,MBA,Single,0,2.66,Discovery,8,Yes,0,No,Business,0
+1972,Private Sector,32,Male,Associate Degree,Single,0,3.23,None,43,No,1,No,Leisure Travel,0
+1973,Private Sector,,Female,High School Equivalent,Single,0,2.34,IHG,25,No,6,Yes,Medical Tourism,0
+1974,Public Sector,,Male,High School Equivalent,Single,0,2.78,Marriott,,No,14,Yes,Medical Tourism,0
+1975,Public Sector,32,,High School Equivalent,Married,0,3.01,IHG,9,No,1,Yes,Medical Tourism,106.1331096
+1976,Business,40,,Bachelors Degree,Married,3,1.91,IHG,28,No,8,No,Business,0
+1977,Public Sector,,Male,High School Equivalent,Single,0,3.5,IHG,3,Yes,0,Yes,Business,0
+1978,Private Sector,41,,High School Equivalent,Married,,3.41,IHG,8,Yes,0,No,Medical Tourism,0
+1979,Private Sector,43,Female,Masters Degree,Single,0,3.56,IHG,41,Yes,0,No,Medical Tourism,0.000962796
+1980,Self-Employed,,Male,High School Equivalent,Married,,3.02,Marriott,5,No,17,Yes,Business,13913.18291
+1981,Business,37,Male,High School Equivalent,Widowed,,2.98,IHG,16,No,10,Yes,Medical Tourism,0
+1982,Public Sector,41,Female,Professional,Widowed,1,3.28,Hilton,8,No,4,No,Medical Tourism,203.7853653
+1983,Business,,,High School Equivalent,Married,,2.92,Expedia,15,No,20,Yes,Medical Tourism,164.0747466
+1984,Business,53,,MBA,Divorced,0,2.37,IHG,17,No,2,Yes,Leisure Travel,0
+1985,Private Sector,,Female,High School Equivalent,Married,,2.44,None,1,Yes,0,No,Medical Tourism,0
+1986,,26,Female,Associate Degree,Divorced,,3.58,Marriott,28,Yes,0,No,Business,29.96262504
+1987,Business,26,Female,Bachelors Degree,Married,3,2.27,Marriott,13,No,14,No,Business,7471.076798
+1988,Business,55,,Associate Degree,Married,,1.75,None,38,No,15,No,Business,105.1483004
+1989,Private Sector,18,Female,Masters Degree,Married,1,2.52,Discovery,7,No,14,Yes,Business,1.736950073
+1990,Self-Employed,27,Male,Bachelors Degree,Married,0,2.76,IHG,1,No,5,No,Medical Tourism,0
+1991,Public Sector,,Female,Bachelors Degree,Married,1,3.36,IHG,16,Yes,0,No,Business,3296.931641
+1992,Private Sector,38,Female,MBA,Single,,3.01,IHG,49,No,11,Yes,Medical Tourism,2160.814644
+1993,Private Sector,59,Female,Professional,Married,,2.56,Marriott,9,Yes,0,No,Business,0
+1994,Business,,,Masters Degree,Married,1,3.24,IHG,45,Yes,0,Yes,Medical Tourism,0.815211572
+1995,Public Sector,31,Male,MBA,Widowed,,2.38,Marriott,,No,7,No,Medical Tourism,0
+1996,Business,44,Male,Doctorate,Married,1,3.46,Marriott,44,No,12,Yes,Leisure Travel,1068.099082
+1997,Public Sector,46,Male,Associate Degree,Married,1,2.88,None,,No,14,Yes,Leisure Travel,0
+1998,Business,,Female,Professional,Single,0,2.74,Marriott,30,No,7,Yes,Medical Tourism,140.7780512
+1999,Public Sector,41,Female,High School Equivalent,Married,,3.55,Marriott,46,No,7,Yes,Business,8497.735247
